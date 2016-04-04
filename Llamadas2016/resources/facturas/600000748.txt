@@ -1,0 +1,8 @@
+Cliente: CANO MEDINA, JOSE MIGUEL
+DNI: 8407245
+Teléfono: 600000748
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

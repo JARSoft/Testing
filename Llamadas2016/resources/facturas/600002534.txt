@@ -1,0 +1,8 @@
+Cliente: MOYA MOYA, ALBERTO
+DNI: 7078366
+Teléfono: 600002534
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

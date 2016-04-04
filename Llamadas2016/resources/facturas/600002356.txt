@@ -1,0 +1,8 @@
+Cliente: PEÑA CORTES, ALBERTO
+DNI: 7035609
+Teléfono: 600002356
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

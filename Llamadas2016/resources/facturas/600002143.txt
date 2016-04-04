@@ -1,0 +1,8 @@
+Cliente: IGLESIAS PEREZ, PATRICIA
+DNI: 8922509
+Teléfono: 600002143
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

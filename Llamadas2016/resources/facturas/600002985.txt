@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ PARRA, ANGELES
+DNI: 7903413
+Teléfono: 600002985
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

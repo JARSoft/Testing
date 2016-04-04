@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ MARQUEZ, MARIA
+DNI: 7124231
+Teléfono: 600002941
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

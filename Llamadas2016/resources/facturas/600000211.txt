@@ -1,0 +1,8 @@
+Cliente: GOMEZ MARIN, MARINA
+DNI: 7266257
+Teléfono: 600000211
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

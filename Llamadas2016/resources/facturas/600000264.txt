@@ -1,0 +1,8 @@
+Cliente: GIL GUTIERREZ, MARIO
+DNI: 8588573
+Teléfono: 600000264
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

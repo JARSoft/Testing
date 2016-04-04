@@ -1,0 +1,8 @@
+Cliente: PARRA CAMPOS, CONSUELO
+DNI: 7553594
+Teléfono: 600002984
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

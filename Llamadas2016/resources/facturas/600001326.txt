@@ -1,0 +1,8 @@
+Cliente: CABALLERO ARIAS, MARIA CONCEPCION
+DNI: 7189380
+Teléfono: 600001326
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

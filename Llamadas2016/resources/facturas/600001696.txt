@@ -1,0 +1,8 @@
+Cliente: SANCHEZ PASCUAL, MARIA ELENA
+DNI: 8783396
+Teléfono: 600001696
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

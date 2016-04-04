@@ -1,0 +1,8 @@
+Cliente: LORENZO GIL, MONTSERRAT
+DNI: 5787120
+Teléfono: 600002735
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

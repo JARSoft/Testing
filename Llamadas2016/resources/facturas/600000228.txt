@@ -1,0 +1,8 @@
+Cliente: REYES LORENZO, LORENZO
+DNI: 6494070
+Teléfono: 600000228
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

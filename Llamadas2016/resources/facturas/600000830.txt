@@ -1,0 +1,8 @@
+Cliente: GALLEGO DURAN, JOAQUIN
+DNI: 6371437
+Teléfono: 600000830
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

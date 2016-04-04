@@ -1,0 +1,8 @@
+Cliente: VELASCO RUBIO, GONZALO
+DNI: 5224269
+Teléfono: 600001242
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

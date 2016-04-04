@@ -1,0 +1,8 @@
+Cliente: DELGADO RAMIREZ, NEREA
+DNI: 7021565
+Teléfono: 600000467
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

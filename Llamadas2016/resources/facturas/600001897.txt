@@ -1,0 +1,8 @@
+Cliente: FLORES GALLEGO, DIEGO
+DNI: 6390132
+Teléfono: 600001897
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: BENITEZ PASTOR, MARTA
+DNI: 8996471
+Teléfono: 600001973
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

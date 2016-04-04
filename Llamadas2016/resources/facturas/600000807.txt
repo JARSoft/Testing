@@ -1,0 +1,8 @@
+Cliente: CALVO CASTILLO, ISMAEL
+DNI: 5948871
+Teléfono: 600000807
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

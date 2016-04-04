@@ -1,0 +1,8 @@
+Cliente: SANZ CRUZ, ISABEL
+DNI: 7428929
+Teléfono: 600001609
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

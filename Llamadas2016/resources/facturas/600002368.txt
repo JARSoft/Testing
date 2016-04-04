@@ -1,0 +1,8 @@
+Cliente: SAEZ FERRER, ENCARNACION
+DNI: 6806494
+Teléfono: 600002368
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

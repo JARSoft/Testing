@@ -1,0 +1,8 @@
+Cliente: SANTANA SAEZ, SALVADOR
+DNI: 7757379
+Teléfono: 600000157
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

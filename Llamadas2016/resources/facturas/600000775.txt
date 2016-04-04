@@ -1,0 +1,8 @@
+Cliente: CABALLERO REYES, MARIA TERESA
+DNI: 6056094
+Teléfono: 600000775
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

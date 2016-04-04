@@ -1,0 +1,8 @@
+Cliente: MORA PEÑA, ALVARO
+DNI: 6574959
+Teléfono: 600000968
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

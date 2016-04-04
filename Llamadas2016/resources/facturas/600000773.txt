@@ -1,0 +1,8 @@
+Cliente: VELASCO MENDEZ, JORGE
+DNI: 6402144
+Teléfono: 600000773
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

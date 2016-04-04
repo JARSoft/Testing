@@ -1,0 +1,8 @@
+Cliente: GIL DURAN, JOAQUIN
+DNI: 5972715
+Teléfono: 600001784
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SERRANO NAVARRO, CARLOS
+DNI: 9349202
+Teléfono: 600000488
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIEZ PASTOR, PILAR
+DNI: 6654935
+Teléfono: 600000571
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SANTIAGO GARRIDO, RICARDO
+DNI: 6013319
+Teléfono: 600000784
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

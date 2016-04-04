@@ -1,0 +1,8 @@
+Cliente: RUBIO AGUILAR, MOHAMED
+DNI: 9422202
+Teléfono: 600002086
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

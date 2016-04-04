@@ -1,0 +1,8 @@
+Cliente: CRUZ SANTANA, NURIA
+DNI: 9879727
+Teléfono: 600001405
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

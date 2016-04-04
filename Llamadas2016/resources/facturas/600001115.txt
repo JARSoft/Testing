@@ -1,0 +1,8 @@
+Cliente: CASTILLO ESTEBAN, MARGARITA
+DNI: 6663268
+Teléfono: 600001115
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

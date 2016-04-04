@@ -1,0 +1,8 @@
+Cliente: VEGA GONZALEZ, DIEGO
+DNI: 6010367
+Teléfono: 600000659
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

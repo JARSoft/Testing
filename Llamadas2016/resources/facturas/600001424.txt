@@ -1,0 +1,8 @@
+Cliente: GARRIDO TORRES, JOSE FRANCISCO
+DNI: 6908746
+Teléfono: 600001424
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

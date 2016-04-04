@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ AGUILAR, LORENZO
+DNI: 5551522
+Teléfono: 600002008
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SANZ ALONSO, CATALINA
+DNI: 7727772
+Teléfono: 600000248
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

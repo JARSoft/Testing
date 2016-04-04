@@ -1,0 +1,8 @@
+Cliente: GIMENEZ SERRANO, SOFIA
+DNI: 7057047
+Teléfono: 600000164
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

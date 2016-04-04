@@ -1,0 +1,8 @@
+Cliente: FERRER SANCHEZ, JOSE RAMON
+DNI: 5518846
+Teléfono: 600000727
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

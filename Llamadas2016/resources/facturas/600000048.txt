@@ -1,0 +1,8 @@
+Cliente: SANTIAGO DOMINGUEZ, MARIA NIEVES
+DNI: 8186650
+Teléfono: 600000048
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PEÑA GARRIDO, ANGELES
+DNI: 7645372
+Teléfono: 600002551
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

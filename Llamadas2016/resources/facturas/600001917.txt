@@ -1,0 +1,8 @@
+Cliente: MORALES NAVARRO, AMPARO
+DNI: 6050987
+Teléfono: 600001917
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

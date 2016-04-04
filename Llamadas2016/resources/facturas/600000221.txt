@@ -1,0 +1,8 @@
+Cliente: PASTOR CABRERA, JULIAN
+DNI: 9606158
+Teléfono: 600000221
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

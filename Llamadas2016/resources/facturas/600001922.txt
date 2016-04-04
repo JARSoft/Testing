@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ NUÑEZ, MARTA
+DNI: 6661503
+Teléfono: 600001922
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

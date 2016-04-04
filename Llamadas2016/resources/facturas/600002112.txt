@@ -1,0 +1,8 @@
+Cliente: CABRERA PASCUAL, MILAGROS
+DNI: 7928056
+Teléfono: 600002112
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

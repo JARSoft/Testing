@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ VARGAS, VICTORIA
+DNI: 5390450
+Teléfono: 600000561
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

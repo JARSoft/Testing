@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ GARRIDO, JOAQUIN
+DNI: 8003579
+Teléfono: 600000160
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

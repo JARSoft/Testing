@@ -1,0 +1,8 @@
+Cliente: CARMONA CANO, RAQUEL
+DNI: 7892811
+Teléfono: 600002335
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

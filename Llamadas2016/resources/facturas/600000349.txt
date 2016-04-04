@@ -1,0 +1,8 @@
+Cliente: NAVARRO HERNANDEZ, MARIA ANGELES
+DNI: 6137801
+Teléfono: 600000349
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

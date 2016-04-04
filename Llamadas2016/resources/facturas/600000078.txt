@@ -1,0 +1,8 @@
+Cliente: MARTIN GIMENEZ, MARIA CRISTINA
+DNI: 5387516
+Teléfono: 600000078
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: VIDAL MARTIN, AGUSTIN
+DNI: 8296614
+Teléfono: 600002064
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PARRA RAMOS, ANA ISABEL
+DNI: 7835678
+Teléfono: 600001953
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

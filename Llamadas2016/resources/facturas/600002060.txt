@@ -1,0 +1,8 @@
+Cliente: CABALLERO LOZANO, ALFONSO
+DNI: 8254330
+Teléfono: 600002060
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

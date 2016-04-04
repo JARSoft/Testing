@@ -1,0 +1,8 @@
+Cliente: NAVARRO DIEZ, ANA BELEN
+DNI: 6661294
+Teléfono: 600002785
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

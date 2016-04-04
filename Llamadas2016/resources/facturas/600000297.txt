@@ -1,0 +1,8 @@
+Cliente: SOTO HERNANDEZ, ALFONSO
+DNI: 5444358
+Teléfono: 600000297
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

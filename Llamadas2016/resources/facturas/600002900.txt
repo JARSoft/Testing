@@ -1,0 +1,8 @@
+Cliente: IGLESIAS PEREZ, EVA MARIA
+DNI: 8499885
+Teléfono: 600002900
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

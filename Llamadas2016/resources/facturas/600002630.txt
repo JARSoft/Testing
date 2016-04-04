@@ -1,0 +1,8 @@
+Cliente: CARMONA ROJAS, MIGUEL ANGEL
+DNI: 6424880
+Teléfono: 600002630
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

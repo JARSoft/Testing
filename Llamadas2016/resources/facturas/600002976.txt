@@ -1,0 +1,8 @@
+Cliente: CAMPOS REYES, MARIA JOSEFA
+DNI: 6902103
+Teléfono: 600002976
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

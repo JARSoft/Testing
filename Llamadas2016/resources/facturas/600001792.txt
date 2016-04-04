@@ -1,0 +1,8 @@
+Cliente: VEGA CASTILLO, AURORA
+DNI: 7826309
+Teléfono: 600001792
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

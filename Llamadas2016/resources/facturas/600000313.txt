@@ -1,0 +1,8 @@
+Cliente: VEGA RAMIREZ, ISMAEL
+DNI: 9353013
+Teléfono: 600000313
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

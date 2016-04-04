@@ -1,0 +1,8 @@
+Cliente: GIMENEZ PEREZ, VICTOR MANUEL
+DNI: 8242536
+Teléfono: 600002473
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

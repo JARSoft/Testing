@@ -1,0 +1,8 @@
+Cliente: PRIETO DIEZ, SUSANA
+DNI: 5049533
+Teléfono: 600000862
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

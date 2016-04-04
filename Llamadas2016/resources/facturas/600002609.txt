@@ -1,0 +1,8 @@
+Cliente: DURAN CABALLERO, MANUEL
+DNI: 8385978
+Teléfono: 600002609
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SUAREZ MUÑOZ, ANA MARIA
+DNI: 9289896
+Teléfono: 600001345
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

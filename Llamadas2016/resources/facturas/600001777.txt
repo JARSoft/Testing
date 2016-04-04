@@ -1,0 +1,8 @@
+Cliente: DIEZ HERRERO, OLGA
+DNI: 6690739
+Teléfono: 600001777
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

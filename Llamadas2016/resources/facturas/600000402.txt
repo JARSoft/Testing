@@ -1,0 +1,8 @@
+Cliente: CARMONA ALONSO, FELIPE
+DNI: 8892352
+Teléfono: 600000402
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GIL GALLARDO, DOMINGO
+DNI: 9449404
+Teléfono: 600000304
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: BENITEZ PEÑA, XAVIER
+DNI: 6356211
+Teléfono: 600000190
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

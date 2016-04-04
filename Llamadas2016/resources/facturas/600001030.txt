@@ -1,0 +1,8 @@
+Cliente: ESTEBAN CASTILLO, PABLO
+DNI: 9217332
+Teléfono: 600001030
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

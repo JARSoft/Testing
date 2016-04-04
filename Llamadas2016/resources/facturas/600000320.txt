@@ -1,0 +1,8 @@
+Cliente: FLORES MONTERO, NURIA
+DNI: 8257908
+Teléfono: 600000320
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

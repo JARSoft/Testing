@@ -1,0 +1,8 @@
+Cliente: BLANCO CORTES, MIGUEL
+DNI: 7697125
+Teléfono: 600002214
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

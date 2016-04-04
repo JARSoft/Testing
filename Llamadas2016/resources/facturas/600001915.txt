@@ -1,0 +1,8 @@
+Cliente: FLORES VARGAS, ALFREDO
+DNI: 8946503
+Teléfono: 600001915
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

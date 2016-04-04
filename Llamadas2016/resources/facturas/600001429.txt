@@ -1,0 +1,8 @@
+Cliente: PASCUAL NAVARRO, GUILLERMO
+DNI: 5886670
+Teléfono: 600001429
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

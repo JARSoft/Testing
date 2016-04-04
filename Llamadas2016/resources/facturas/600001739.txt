@@ -1,0 +1,8 @@
+Cliente: SAEZ PEÑA, CATALINA
+DNI: 6269909
+Teléfono: 600001739
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

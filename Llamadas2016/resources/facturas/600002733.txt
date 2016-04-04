@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ RODRIGUEZ, ALBA
+DNI: 7872613
+Teléfono: 600002733
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CRUZ CRESPO, GREGORIO
+DNI: 7652025
+Teléfono: 600002022
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

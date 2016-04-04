@@ -1,0 +1,8 @@
+Cliente: PASCUAL MEDINA, JUAN CARLOS
+DNI: 7292395
+Teléfono: 600002547
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

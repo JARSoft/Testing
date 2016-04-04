@@ -1,0 +1,8 @@
+Cliente: NAVARRO DOMINGUEZ, CONSUELO
+DNI: 9362369
+Teléfono: 600000766
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

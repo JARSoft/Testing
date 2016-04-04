@@ -1,0 +1,8 @@
+Cliente: DELGADO GUERRERO, JUAN LUIS
+DNI: 5094787
+Teléfono: 600000311
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

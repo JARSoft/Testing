@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ ESTEBAN, ANA
+DNI: 5577825
+Teléfono: 600000752
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

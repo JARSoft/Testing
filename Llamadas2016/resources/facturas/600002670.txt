@@ -1,0 +1,8 @@
+Cliente: CALVO MOLINA, CRISTIAN
+DNI: 7294691
+Teléfono: 600002670
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

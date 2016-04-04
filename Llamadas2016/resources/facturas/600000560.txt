@@ -1,0 +1,8 @@
+Cliente: TORRES GALLARDO, JUANA
+DNI: 7300395
+Teléfono: 600000560
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

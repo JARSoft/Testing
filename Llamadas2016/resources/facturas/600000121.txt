@@ -1,0 +1,8 @@
+Cliente: SANTOS CALVO, MARIA MAR
+DNI: 5746432
+Teléfono: 600000121
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

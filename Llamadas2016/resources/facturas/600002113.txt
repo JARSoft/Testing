@@ -1,0 +1,8 @@
+Cliente: FLORES PEÑA, JOSE ANGEL
+DNI: 8668698
+Teléfono: 600002113
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

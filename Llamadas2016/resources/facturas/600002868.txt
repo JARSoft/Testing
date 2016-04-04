@@ -1,0 +1,8 @@
+Cliente: GARRIDO ROMERO, NICOLAS
+DNI: 8802995
+Teléfono: 600002868
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

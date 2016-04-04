@@ -1,0 +1,8 @@
+Cliente: MARTIN PARRA, MARIA LUISA
+DNI: 5074939
+Teléfono: 600001457
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

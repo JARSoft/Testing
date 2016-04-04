@@ -1,0 +1,8 @@
+Cliente: MARTINEZ SOTO, DOMINGO
+DNI: 7028346
+Teléfono: 600001680
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

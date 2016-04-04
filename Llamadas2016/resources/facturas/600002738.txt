@@ -1,0 +1,8 @@
+Cliente: GIL CASTRO, ANGEL
+DNI: 7261429
+Teléfono: 600002738
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

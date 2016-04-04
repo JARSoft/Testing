@@ -1,0 +1,8 @@
+Cliente: ORTEGA LORENZO, SEBASTIAN
+DNI: 6737364
+Teléfono: 600002110
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MENDEZ DOMINGUEZ, ENCARNACION
+DNI: 9513443
+Teléfono: 600002384
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

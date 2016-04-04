@@ -1,0 +1,8 @@
+Cliente: HIDALGO GUERRERO, MILAGROS
+DNI: 5684026
+Teléfono: 600000372
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

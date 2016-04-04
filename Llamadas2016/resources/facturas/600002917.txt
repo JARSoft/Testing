@@ -1,0 +1,8 @@
+Cliente: RUIZ LORENZO, ESPERANZA
+DNI: 7470593
+Teléfono: 600002917
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

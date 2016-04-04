@@ -1,0 +1,8 @@
+Cliente: CRUZ IBAÑEZ, FRANCISCO
+DNI: 7208657
+Teléfono: 600001818
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

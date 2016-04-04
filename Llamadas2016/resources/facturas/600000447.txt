@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ HIDALGO, GREGORIO
+DNI: 6028259
+Teléfono: 600000447
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

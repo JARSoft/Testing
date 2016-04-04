@@ -1,0 +1,8 @@
+Cliente: CASTRO TORRES, MARIANO
+DNI: 9922376
+Teléfono: 600002448
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

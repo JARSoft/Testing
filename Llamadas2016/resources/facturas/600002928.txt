@@ -1,0 +1,8 @@
+Cliente: GIL CANO, GUILLERMO
+DNI: 6486804
+Teléfono: 600002928
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

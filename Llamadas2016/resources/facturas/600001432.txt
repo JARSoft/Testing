@@ -1,0 +1,8 @@
+Cliente: MORENO SOLER, CLAUDIA
+DNI: 8599286
+Teléfono: 600001432
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: FERRER HERRERA, GUILLERMO
+DNI: 9108175
+Teléfono: 600001740
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

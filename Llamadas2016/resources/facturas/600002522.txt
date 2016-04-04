@@ -1,0 +1,8 @@
+Cliente: SANCHEZ ROMERO, RAFAEL
+DNI: 6910927
+Teléfono: 600002522
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

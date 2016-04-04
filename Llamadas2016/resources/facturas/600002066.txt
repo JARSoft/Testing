@@ -1,0 +1,8 @@
+Cliente: PASTOR MOYA, CARMEN
+DNI: 9361698
+Teléfono: 600002066
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

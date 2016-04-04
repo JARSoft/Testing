@@ -1,0 +1,8 @@
+Cliente: CARRASCO MORA, MIRIAM
+DNI: 9538634
+Teléfono: 600001303
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

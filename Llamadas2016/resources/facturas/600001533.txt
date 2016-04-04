@@ -1,0 +1,8 @@
+Cliente: FERRER RAMIREZ, MARIA ELENA
+DNI: 8841456
+Teléfono: 600001533
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALVAREZ ESTEBAN, CARLOS
+DNI: 6334066
+Teléfono: 600001821
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

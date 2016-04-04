@@ -1,0 +1,8 @@
+Cliente: LORENZO DIAZ, ENCARNACION
+DNI: 8551413
+Teléfono: 600002234
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

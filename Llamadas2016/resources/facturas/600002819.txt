@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ CARRASCO, GABRIEL
+DNI: 5103358
+Teléfono: 600002819
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

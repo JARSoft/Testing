@@ -1,0 +1,8 @@
+Cliente: SERRANO ROMERO, MARIANO
+DNI: 8667763
+Teléfono: 600000927
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

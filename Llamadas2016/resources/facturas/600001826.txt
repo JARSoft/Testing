@@ -1,0 +1,8 @@
+Cliente: CRUZ BLANCO, HUGO
+DNI: 6612090
+Teléfono: 600001826
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

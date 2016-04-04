@@ -1,0 +1,8 @@
+Cliente: LEON CASTILLO, CLAUDIA
+DNI: 5993597
+Teléfono: 600002721
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

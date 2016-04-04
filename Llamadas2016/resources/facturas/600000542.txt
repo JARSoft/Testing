@@ -1,0 +1,8 @@
+Cliente: CASTRO GUTIERREZ, LUISA
+DNI: 9703253
+Teléfono: 600000542
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

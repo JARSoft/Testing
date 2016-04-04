@@ -1,0 +1,8 @@
+Cliente: MARTIN HERRERA, CONCEPCION
+DNI: 5083170
+Teléfono: 600001779
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

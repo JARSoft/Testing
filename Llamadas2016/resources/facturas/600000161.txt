@@ -1,0 +1,8 @@
+Cliente: MEDINA LEON, DANIEL
+DNI: 6035247
+Teléfono: 600000161
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

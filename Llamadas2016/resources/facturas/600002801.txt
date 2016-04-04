@@ -1,0 +1,8 @@
+Cliente: BRAVO MORALES, ADRIAN
+DNI: 7499357
+Teléfono: 600002801
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CRESPO GUTIERREZ, RODRIGO
+DNI: 9368171
+Teléfono: 600001151
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

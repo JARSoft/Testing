@@ -1,0 +1,8 @@
+Cliente: DIEZ CORTES, CESAR
+DNI: 5730042
+Teléfono: 600002491
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

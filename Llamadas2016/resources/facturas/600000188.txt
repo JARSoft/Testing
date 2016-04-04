@@ -1,0 +1,8 @@
+Cliente: MORENO CARRASCO, LORENA
+DNI: 5812172
+Teléfono: 600000188
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

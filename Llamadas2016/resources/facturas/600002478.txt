@@ -1,0 +1,8 @@
+Cliente: DIAZ CARMONA, GONZALO
+DNI: 9655243
+Teléfono: 600002478
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

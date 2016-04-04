@@ -1,0 +1,8 @@
+Cliente: BENITEZ HERRERA, MIRIAM
+DNI: 6079325
+Teléfono: 600002570
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CARMONA DIAZ, EVA
+DNI: 6371337
+Teléfono: 600002607
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

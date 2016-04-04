@@ -1,0 +1,8 @@
+Cliente: SANTOS HERRERA, HUGO
+DNI: 5870347
+Teléfono: 600002555
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

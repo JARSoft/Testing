@@ -1,0 +1,8 @@
+Cliente: CASTRO CARRASCO, MARIA MAR
+DNI: 5324719
+Teléfono: 600002755
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARQUEZ CASTILLO, CELIA
+DNI: 5856184
+Teléfono: 600002069
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

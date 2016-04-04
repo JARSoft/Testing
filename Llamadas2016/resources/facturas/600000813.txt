@@ -1,0 +1,8 @@
+Cliente: RAMOS ALONSO, ROSA MARIA
+DNI: 7818491
+Teléfono: 600000813
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

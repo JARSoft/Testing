@@ -1,0 +1,8 @@
+Cliente: RAMOS ALVAREZ, MARIA CONCEPCION
+DNI: 7181001
+Teléfono: 600001077
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SANCHEZ MOLINA, MARINA
+DNI: 5552258
+Teléfono: 600001707
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

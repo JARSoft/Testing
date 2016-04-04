@@ -1,0 +1,8 @@
+Cliente: GARRIDO VEGA, CARLA
+DNI: 5834017
+Teléfono: 600002467
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

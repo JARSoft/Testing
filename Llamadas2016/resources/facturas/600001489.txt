@@ -1,0 +1,8 @@
+Cliente: MENDEZ ROJAS, ANA MARIA
+DNI: 5415668
+Teléfono: 600001489
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

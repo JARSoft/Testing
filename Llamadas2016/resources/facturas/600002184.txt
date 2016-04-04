@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ GALLARDO, RICARDO
+DNI: 8522636
+Teléfono: 600002184
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GOMEZ VIDAL, MARIA ELENA
+DNI: 9758463
+Teléfono: 600002024
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARTINEZ MONTERO, ALEX
+DNI: 5483223
+Teléfono: 600000544
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

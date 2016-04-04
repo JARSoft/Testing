@@ -1,0 +1,8 @@
+Cliente: MUÑOZ PASCUAL, JORDI
+DNI: 7944437
+Teléfono: 600002783
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

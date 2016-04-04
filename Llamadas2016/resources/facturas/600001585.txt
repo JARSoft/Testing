@@ -1,0 +1,8 @@
+Cliente: HIDALGO NAVARRO, SERGIO
+DNI: 9938799
+Teléfono: 600001585
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

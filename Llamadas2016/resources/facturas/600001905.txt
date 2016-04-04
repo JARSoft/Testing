@@ -1,0 +1,8 @@
+Cliente: SAEZ RAMIREZ, LUISA
+DNI: 6945086
+Teléfono: 600001905
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

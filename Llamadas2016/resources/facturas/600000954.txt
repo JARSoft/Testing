@@ -1,0 +1,8 @@
+Cliente: PEÑA FUENTES, JAIME
+DNI: 5289421
+Teléfono: 600000954
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

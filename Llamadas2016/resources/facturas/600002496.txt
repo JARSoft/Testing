@@ -1,0 +1,8 @@
+Cliente: ESTEBAN FLORES, PAULA
+DNI: 7466574
+Teléfono: 600002496
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CASTRO CALVO, MARIA SOLEDAD
+DNI: 7987601
+Teléfono: 600002430
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

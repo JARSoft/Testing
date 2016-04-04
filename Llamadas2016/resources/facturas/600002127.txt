@@ -1,0 +1,8 @@
+Cliente: GARCIA PARRA, PEDRO
+DNI: 6397395
+Teléfono: 600002127
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

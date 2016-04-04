@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ GARRIDO, ANA
+DNI: 6962562
+Teléfono: 600000850
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

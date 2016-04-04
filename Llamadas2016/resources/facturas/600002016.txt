@@ -1,0 +1,8 @@
+Cliente: VICENTE BRAVO, IKER
+DNI: 7122570
+Teléfono: 600002016
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SAEZ CARRASCO, CRISTINA
+DNI: 8929132
+Teléfono: 600002463
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

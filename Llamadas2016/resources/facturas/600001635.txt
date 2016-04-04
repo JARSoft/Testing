@@ -1,0 +1,8 @@
+Cliente: CARRASCO MARIN, XAVIER
+DNI: 5241140
+Teléfono: 600001635
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

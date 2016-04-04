@@ -1,0 +1,8 @@
+Cliente: SANTIAGO TORRES, ROSARIO
+DNI: 9548522
+Teléfono: 600000701
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

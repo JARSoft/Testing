@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ RAMOS, DANIELA
+DNI: 8605795
+Teléfono: 600000873
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: JIMENEZ SANTANA, AURORA
+DNI: 6308575
+Teléfono: 600002863
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIEZ BLANCO, JORGE
+DNI: 6538937
+Teléfono: 600002253
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

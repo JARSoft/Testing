@@ -1,0 +1,8 @@
+Cliente: ESTEBAN VICENTE, JOSE CARLOS
+DNI: 9896677
+Teléfono: 600000183
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ CAMPOS, PEDRO
+DNI: 7142292
+Teléfono: 600000948
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

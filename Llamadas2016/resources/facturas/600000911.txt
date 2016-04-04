@@ -1,0 +1,8 @@
+Cliente: SANTIAGO HERRERA, CRISTINA
+DNI: 6484798
+Teléfono: 600000911
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

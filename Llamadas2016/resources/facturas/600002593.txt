@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ HIDALGO, ROCIO
+DNI: 6252574
+Teléfono: 600002593
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

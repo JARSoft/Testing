@@ -1,0 +1,8 @@
+Cliente: CORTES SANTOS, GREGORIO
+DNI: 7351412
+Teléfono: 600002871
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

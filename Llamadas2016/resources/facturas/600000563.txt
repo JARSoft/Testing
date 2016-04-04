@@ -1,0 +1,8 @@
+Cliente: VARGAS CRUZ, SONIA
+DNI: 7363010
+Teléfono: 600000563
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

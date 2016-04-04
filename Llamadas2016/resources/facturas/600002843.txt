@@ -1,0 +1,8 @@
+Cliente: NUÑEZ BENITEZ, HECTOR
+DNI: 5721500
+Teléfono: 600002843
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

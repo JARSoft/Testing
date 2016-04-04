@@ -1,0 +1,8 @@
+Cliente: GOMEZ MARTINEZ, EVA MARIA
+DNI: 9708931
+Teléfono: 600001028
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

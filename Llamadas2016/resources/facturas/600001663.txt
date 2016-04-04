@@ -1,0 +1,8 @@
+Cliente: CABALLERO PASCUAL, MARIA LUISA
+DNI: 6068361
+Teléfono: 600001663
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

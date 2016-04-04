@@ -1,0 +1,8 @@
+Cliente: SOLER MOYA, EVA
+DNI: 6430320
+Teléfono: 600000457
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

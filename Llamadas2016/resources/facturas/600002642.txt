@@ -1,0 +1,8 @@
+Cliente: RUBIO LORENZO, RAMON
+DNI: 7600397
+Teléfono: 600002642
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

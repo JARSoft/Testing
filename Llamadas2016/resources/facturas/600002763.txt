@@ -1,0 +1,8 @@
+Cliente: DIAZ VICENTE, JORDI
+DNI: 8572569
+Teléfono: 600002763
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

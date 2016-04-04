@@ -1,0 +1,8 @@
+Cliente: LOZANO GALLEGO, JAIME
+DNI: 6923252
+Teléfono: 600000930
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

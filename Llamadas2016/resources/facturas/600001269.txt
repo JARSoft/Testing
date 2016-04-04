@@ -1,0 +1,8 @@
+Cliente: CRUZ CORTES, JULIAN
+DNI: 6445668
+Teléfono: 600001269
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

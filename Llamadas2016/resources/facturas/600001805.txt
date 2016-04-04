@@ -1,0 +1,8 @@
+Cliente: DIEZ MOYA, ALFONSO
+DNI: 7101930
+Teléfono: 600001805
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

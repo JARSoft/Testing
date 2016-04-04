@@ -1,0 +1,8 @@
+Cliente: GALLARDO SANCHEZ, JOSE LUIS
+DNI: 5078427
+Teléfono: 600001806
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

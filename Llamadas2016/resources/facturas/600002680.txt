@@ -1,0 +1,8 @@
+Cliente: CORTES NIETO, ANTONIA
+DNI: 5193774
+Teléfono: 600002680
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

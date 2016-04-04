@@ -1,0 +1,8 @@
+Cliente: BLANCO GONZALEZ, CAROLINA
+DNI: 7316552
+Teléfono: 600000425
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

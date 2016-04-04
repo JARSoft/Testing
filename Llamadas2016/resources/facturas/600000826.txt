@@ -1,0 +1,8 @@
+Cliente: BENITEZ PEREZ, JOSE MANUEL
+DNI: 5975610
+Teléfono: 600000826
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

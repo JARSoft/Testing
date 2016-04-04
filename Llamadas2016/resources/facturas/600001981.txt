@@ -1,0 +1,8 @@
+Cliente: VIDAL ARIAS, NOELIA
+DNI: 7960837
+Teléfono: 600001981
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

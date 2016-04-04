@@ -1,0 +1,8 @@
+Cliente: MORA HERNANDEZ, MARIA CONCEPCION
+DNI: 5940391
+Teléfono: 600000962
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

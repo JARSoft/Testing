@@ -1,0 +1,8 @@
+Cliente: GARCIA PRIETO, DANIEL
+DNI: 5841302
+Teléfono: 600001800
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

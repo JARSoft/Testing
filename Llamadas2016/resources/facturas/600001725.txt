@@ -1,0 +1,8 @@
+Cliente: TORRES MORA, ALICIA
+DNI: 6681581
+Teléfono: 600001725
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

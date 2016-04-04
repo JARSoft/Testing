@@ -1,0 +1,8 @@
+Cliente: LOZANO ORTEGA, AITOR
+DNI: 8283950
+Teléfono: 600002576
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CANO MORALES, MONICA
+DNI: 7360027
+Teléfono: 600001517
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

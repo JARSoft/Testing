@@ -1,0 +1,8 @@
+Cliente: TORRES CABALLERO, AMPARO
+DNI: 5172843
+Teléfono: 600002649
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

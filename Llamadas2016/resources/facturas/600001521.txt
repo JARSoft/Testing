@@ -1,0 +1,8 @@
+Cliente: FERRER BLANCO, GUILLERMO
+DNI: 9384300
+Teléfono: 600001521
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

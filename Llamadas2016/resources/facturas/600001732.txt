@@ -1,0 +1,8 @@
+Cliente: CABALLERO MONTERO, NATALIA
+DNI: 8696217
+Teléfono: 600001732
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

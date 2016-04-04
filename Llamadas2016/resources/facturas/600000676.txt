@@ -1,0 +1,8 @@
+Cliente: FERNANDEZ SUAREZ, NOELIA
+DNI: 5971265
+Teléfono: 600000676
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

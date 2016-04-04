@@ -1,0 +1,8 @@
+Cliente: SANZ MORALES, ANA
+DNI: 9234146
+Teléfono: 600002514
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

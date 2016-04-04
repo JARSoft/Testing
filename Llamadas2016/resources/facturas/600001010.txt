@@ -1,0 +1,8 @@
+Cliente: LEON SAEZ, IRENE
+DNI: 9117767
+Teléfono: 600001010
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: FERRER MARTIN, MOHAMED
+DNI: 6179219
+Teléfono: 600001221
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

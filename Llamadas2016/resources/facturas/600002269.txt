@@ -1,0 +1,8 @@
+Cliente: CALVO PEÑA, PILAR
+DNI: 7750308
+Teléfono: 600002269
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

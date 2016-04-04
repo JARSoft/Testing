@@ -1,0 +1,8 @@
+Cliente: BENITEZ RAMIREZ, SARA
+DNI: 6014350
+Teléfono: 600002312
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

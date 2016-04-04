@@ -1,0 +1,8 @@
+Cliente: MORALES HERRERA, VERONICA
+DNI: 7541584
+Teléfono: 600001670
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

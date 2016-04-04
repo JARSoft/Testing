@@ -1,0 +1,8 @@
+Cliente: REYES CASTILLO, JESUS
+DNI: 6150858
+Teléfono: 600002357
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

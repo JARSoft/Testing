@@ -1,0 +1,8 @@
+Cliente: CARRASCO VARGAS, DIEGO
+DNI: 7396352
+Teléfono: 600002121
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

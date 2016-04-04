@@ -1,0 +1,8 @@
+Cliente: FUENTES ESTEBAN, ANA ISABEL
+DNI: 5751224
+Teléfono: 600000796
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARQUEZ CASTILLO, AURORA
+DNI: 8572127
+Teléfono: 600002140
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

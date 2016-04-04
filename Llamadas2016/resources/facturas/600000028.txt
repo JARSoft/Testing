@@ -1,0 +1,8 @@
+Cliente: MONTERO SUAREZ, CAROLINA
+DNI: 7362857
+Teléfono: 600000028
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

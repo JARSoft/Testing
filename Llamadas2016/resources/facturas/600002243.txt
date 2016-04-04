@@ -1,0 +1,8 @@
+Cliente: NAVARRO GOMEZ, NOELIA
+DNI: 5429245
+Teléfono: 600002243
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

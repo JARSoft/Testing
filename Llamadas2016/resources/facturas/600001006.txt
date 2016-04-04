@@ -1,0 +1,8 @@
+Cliente: RUIZ GALLEGO, MANUEL
+DNI: 5456183
+Teléfono: 600001006
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

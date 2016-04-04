@@ -1,0 +1,8 @@
+Cliente: CRESPO MARTINEZ, FERNANDO
+DNI: 8741161
+Teléfono: 600002519
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

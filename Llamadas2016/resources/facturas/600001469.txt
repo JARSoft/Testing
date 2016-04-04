@@ -1,0 +1,8 @@
+Cliente: GIL MARTINEZ, JOSE MANUEL
+DNI: 6639520
+Teléfono: 600001469
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

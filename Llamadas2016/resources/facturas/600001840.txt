@@ -1,0 +1,8 @@
+Cliente: LOZANO GOMEZ, MARIA CARMEN
+DNI: 5856825
+Teléfono: 600001840
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MORENO RODRIGUEZ, PAULA
+DNI: 8056144
+Teléfono: 600001095
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: BRAVO ESTEBAN, LUISA
+DNI: 6465419
+Teléfono: 600002429
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

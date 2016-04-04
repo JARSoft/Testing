@@ -1,0 +1,8 @@
+Cliente: GIMENEZ MARQUEZ, AGUSTIN
+DNI: 9935024
+Teléfono: 600001274
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SOTO SOTO, EVA MARIA
+DNI: 5594509
+Teléfono: 600000634
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

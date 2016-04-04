@@ -1,0 +1,8 @@
+Cliente: MARTINEZ CRESPO, CONSUELO
+DNI: 8305029
+Teléfono: 600001527
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

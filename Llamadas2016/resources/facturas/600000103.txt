@@ -1,0 +1,8 @@
+Cliente: PARRA SOTO, HECTOR
+DNI: 5052126
+Teléfono: 600000103
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

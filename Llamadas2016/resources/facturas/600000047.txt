@@ -1,0 +1,8 @@
+Cliente: RUIZ CRESPO, LIDIA
+DNI: 5688739
+Teléfono: 600000047
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

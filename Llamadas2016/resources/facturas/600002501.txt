@@ -1,0 +1,8 @@
+Cliente: ARIAS HERNANDEZ, HUGO
+DNI: 8812172
+Teléfono: 600002501
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

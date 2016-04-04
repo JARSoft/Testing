@@ -1,0 +1,8 @@
+Cliente: CASTILLO RUBIO, MARIA CONCEPCION
+DNI: 9788734
+Teléfono: 600000223
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

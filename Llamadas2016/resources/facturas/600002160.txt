@@ -1,0 +1,8 @@
+Cliente: MOYA CARMONA, JORDI
+DNI: 6184407
+Teléfono: 600002160
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

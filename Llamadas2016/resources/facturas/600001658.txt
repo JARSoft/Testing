@@ -1,0 +1,8 @@
+Cliente: MORENO FUENTES, LORENZO
+DNI: 7033816
+Teléfono: 600001658
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

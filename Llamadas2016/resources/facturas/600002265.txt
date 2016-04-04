@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ HERRERO, DANIEL
+DNI: 8942054
+Teléfono: 600002265
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NUÑEZ CRUZ, RAUL
+DNI: 7217779
+Teléfono: 600000072
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

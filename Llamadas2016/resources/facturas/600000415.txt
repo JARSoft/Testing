@@ -1,0 +1,8 @@
+Cliente: CORTES TORRES, NOELIA
+DNI: 9081284
+Teléfono: 600000415
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

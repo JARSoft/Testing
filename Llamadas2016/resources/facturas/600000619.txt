@@ -1,0 +1,8 @@
+Cliente: GARRIDO GIL, ANDRES
+DNI: 5395986
+Teléfono: 600000619
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

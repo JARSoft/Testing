@@ -1,0 +1,8 @@
+Cliente: HERRERA SERRANO, JUAN MANUEL
+DNI: 5942542
+Teléfono: 600001383
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ CASTILLO, ENCARNACION
+DNI: 7399737
+Teléfono: 600001889
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

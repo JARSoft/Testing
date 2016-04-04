@@ -1,0 +1,8 @@
+Cliente: BENITEZ PASTOR, ALBA
+DNI: 6712013
+Teléfono: 600001721
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

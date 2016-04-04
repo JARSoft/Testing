@@ -1,0 +1,8 @@
+Cliente: MONTERO VELASCO, ANDREA
+DNI: 9236048
+Teléfono: 600000855
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

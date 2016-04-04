@@ -1,0 +1,8 @@
+Cliente: ORTEGA SANTIAGO, TERESA
+DNI: 5002785
+Teléfono: 600001305
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

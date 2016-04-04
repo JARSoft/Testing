@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ ALONSO, GREGORIO
+DNI: 9134206
+Teléfono: 600001924
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

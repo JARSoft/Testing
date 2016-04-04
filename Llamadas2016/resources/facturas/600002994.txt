@@ -1,0 +1,8 @@
+Cliente: GIMENEZ PEREZ, HECTOR
+DNI: 7529931
+Teléfono: 600002994
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MONTERO MOLINA, MARIA ELENA
+DNI: 7219917
+Teléfono: 600001315
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

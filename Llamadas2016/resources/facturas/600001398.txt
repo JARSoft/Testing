@@ -1,0 +1,8 @@
+Cliente: ALVAREZ GIMENEZ, PABLO
+DNI: 5189243
+Teléfono: 600001398
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIEZ RODRIGUEZ, PABLO
+DNI: 8482605
+Teléfono: 600000162
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

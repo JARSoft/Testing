@@ -1,0 +1,8 @@
+Cliente: ALVAREZ DIAZ, SANDRA
+DNI: 7805079
+Teléfono: 600000994
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

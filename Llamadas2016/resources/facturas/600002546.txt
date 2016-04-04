@@ -1,0 +1,8 @@
+Cliente: CRESPO FERNANDEZ, LORENA
+DNI: 8732705
+Teléfono: 600002546
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

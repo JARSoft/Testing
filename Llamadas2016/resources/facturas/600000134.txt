@@ -1,0 +1,8 @@
+Cliente: GONZALEZ CARMONA, GLORIA
+DNI: 6680263
+Teléfono: 600000134
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

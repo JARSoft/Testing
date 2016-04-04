@@ -1,0 +1,8 @@
+Cliente: ROJAS GUERRERO, MARIA JOSEFA
+DNI: 6712882
+Teléfono: 600001994
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GONZALEZ PRIETO, MARIA JOSEFA
+DNI: 8879391
+Teléfono: 600001879
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

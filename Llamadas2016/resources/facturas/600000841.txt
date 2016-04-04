@@ -1,0 +1,8 @@
+Cliente: FUENTES CRUZ, NEREA
+DNI: 7338000
+Teléfono: 600000841
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

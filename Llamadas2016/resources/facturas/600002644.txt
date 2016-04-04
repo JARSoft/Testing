@@ -1,0 +1,8 @@
+Cliente: CAMPOS RUBIO, MARC
+DNI: 6546125
+Teléfono: 600002644
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

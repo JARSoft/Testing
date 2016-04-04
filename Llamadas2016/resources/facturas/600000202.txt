@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ VEGA, JOAQUIN
+DNI: 5050068
+Teléfono: 600000202
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

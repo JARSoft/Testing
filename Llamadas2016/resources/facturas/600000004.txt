@@ -1,0 +1,8 @@
+Cliente: RUBIO REYES, RICARDO
+DNI: 6964014
+Teléfono: 600000004
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

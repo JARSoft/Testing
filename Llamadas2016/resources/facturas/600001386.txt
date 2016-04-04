@@ -1,0 +1,8 @@
+Cliente: AGUILAR GUERRERO, ROBERTO
+DNI: 9356882
+Teléfono: 600001386
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

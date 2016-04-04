@@ -1,0 +1,8 @@
+Cliente: VARGAS CRESPO, ISMAEL
+DNI: 6500754
+Teléfono: 600002788
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

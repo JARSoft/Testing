@@ -1,0 +1,8 @@
+Cliente: PASCUAL CRESPO, TOMAS
+DNI: 7777358
+Teléfono: 600000672
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RAMOS CALVO, NICOLAS
+DNI: 5283788
+Teléfono: 600000366
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

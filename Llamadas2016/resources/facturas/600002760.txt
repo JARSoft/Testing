@@ -1,0 +1,8 @@
+Cliente: AGUILAR SOTO, RICARDO
+DNI: 9958879
+Teléfono: 600002760
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

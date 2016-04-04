@@ -1,0 +1,8 @@
+Cliente: NIETO JIMENEZ, LIDIA
+DNI: 5058671
+Teléfono: 600000965
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

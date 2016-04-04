@@ -1,0 +1,8 @@
+Cliente: GIMENEZ GARCIA, NATALIA
+DNI: 6420376
+Teléfono: 600002382
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

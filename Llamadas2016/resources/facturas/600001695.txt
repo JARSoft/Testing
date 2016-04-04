@@ -1,0 +1,8 @@
+Cliente: BRAVO DOMINGUEZ, CATALINA
+DNI: 8082808
+Teléfono: 600001695
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

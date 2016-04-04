@@ -1,0 +1,8 @@
+Cliente: ARIAS PRIETO, FRANCISCO
+DNI: 6800031
+Teléfono: 600001144
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

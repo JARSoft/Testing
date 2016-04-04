@@ -1,0 +1,8 @@
+Cliente: FERRER SOLER, ROSARIO
+DNI: 8835034
+Teléfono: 600002998
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NUÑEZ MENDEZ, CARMEN
+DNI: 5462282
+Teléfono: 600000717
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

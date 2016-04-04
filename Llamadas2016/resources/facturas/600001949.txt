@@ -1,0 +1,8 @@
+Cliente: LOZANO VARGAS, JOSE CARLOS
+DNI: 8799766
+Teléfono: 600001949
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

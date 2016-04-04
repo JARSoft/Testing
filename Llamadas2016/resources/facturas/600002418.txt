@@ -1,0 +1,8 @@
+Cliente: RAMOS JIMENEZ, ALEJANDRO
+DNI: 9361417
+Teléfono: 600002418
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ AGUILAR, ANA MARIA
+DNI: 5241765
+Teléfono: 600000003
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

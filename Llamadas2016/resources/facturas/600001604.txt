@@ -1,0 +1,8 @@
+Cliente: ARIAS CARMONA, JORDI
+DNI: 5319624
+Teléfono: 600001604
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

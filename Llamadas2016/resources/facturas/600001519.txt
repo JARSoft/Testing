@@ -1,0 +1,8 @@
+Cliente: PARRA CASTILLO, ANTONIO
+DNI: 5160640
+Teléfono: 600001519
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

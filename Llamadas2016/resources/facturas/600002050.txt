@@ -1,0 +1,8 @@
+Cliente: DIAZ VARGAS, MARIA JESUS
+DNI: 5301869
+Teléfono: 600002050
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

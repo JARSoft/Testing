@@ -1,0 +1,8 @@
+Cliente: PARRA CABRERA, EVA
+DNI: 7837307
+Teléfono: 600002745
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

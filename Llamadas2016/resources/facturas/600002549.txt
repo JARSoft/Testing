@@ -1,0 +1,8 @@
+Cliente: ALVAREZ AGUILAR, PAULA
+DNI: 8879504
+Teléfono: 600002549
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

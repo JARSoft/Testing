@@ -1,0 +1,8 @@
+Cliente: DIEZ VARGAS, FELIPE
+DNI: 6111805
+Teléfono: 600001373
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

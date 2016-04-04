@@ -1,0 +1,8 @@
+Cliente: ROJAS SUAREZ, JUAN JOSE
+DNI: 7368572
+Teléfono: 600001676
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

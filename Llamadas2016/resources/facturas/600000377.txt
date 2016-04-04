@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ MUÑOZ, ALBA
+DNI: 6168627
+Teléfono: 600000377
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MOLINA MENDEZ, CRISTIAN
+DNI: 8402745
+Teléfono: 600001589
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: FUENTES BLANCO, MIRIAM
+DNI: 7739572
+Teléfono: 600000513
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARIN SANCHEZ, NEREA
+DNI: 8259092
+Teléfono: 600002216
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

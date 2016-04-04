@@ -1,0 +1,8 @@
+Cliente: RUIZ MOYA, SAMUEL
+DNI: 7806751
+Teléfono: 600002401
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

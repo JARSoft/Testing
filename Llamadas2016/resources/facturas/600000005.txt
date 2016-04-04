@@ -1,0 +1,8 @@
+Cliente: ESTEBAN FERRER, VERONICA
+DNI: 7127440
+Teléfono: 600000005
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

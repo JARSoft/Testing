@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ RUBIO, OSCAR
+DNI: 8577734
+Teléfono: 600002375
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

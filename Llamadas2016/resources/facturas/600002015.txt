@@ -1,0 +1,8 @@
+Cliente: CASTILLO CASTILLO, JUANA
+DNI: 8048184
+Teléfono: 600002015
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

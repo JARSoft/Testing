@@ -1,0 +1,8 @@
+Cliente: CANO CASTILLO, MIGUEL ANGEL
+DNI: 7582567
+Teléfono: 600000139
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

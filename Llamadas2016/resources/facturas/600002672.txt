@@ -1,0 +1,8 @@
+Cliente: LOZANO VEGA, SERGIO
+DNI: 8301408
+Teléfono: 600002672
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MORENO VAZQUEZ, JUANA
+DNI: 9143814
+Teléfono: 600001139
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PRIETO LOPEZ, CRISTIAN
+DNI: 8677089
+Teléfono: 600000230
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

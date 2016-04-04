@@ -1,0 +1,8 @@
+Cliente: ARIAS NUÑEZ, JORDI
+DNI: 9565369
+Teléfono: 600001197
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

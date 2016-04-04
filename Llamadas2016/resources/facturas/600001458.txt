@@ -1,0 +1,8 @@
+Cliente: AGUILAR MARIN, GREGORIO
+DNI: 8312666
+Teléfono: 600001458
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

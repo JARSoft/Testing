@@ -1,0 +1,8 @@
+Cliente: GUERRERO CAMPOS, MARIANO
+DNI: 8194696
+Teléfono: 600000007
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

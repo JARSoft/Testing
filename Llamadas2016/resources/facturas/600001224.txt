@@ -1,0 +1,8 @@
+Cliente: GUERRERO AGUILAR, MARIA LUISA
+DNI: 9391818
+Teléfono: 600001224
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

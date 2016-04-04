@@ -1,0 +1,8 @@
+Cliente: SANZ PARRA, RUBEN
+DNI: 9211270
+Teléfono: 600002640
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

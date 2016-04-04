@@ -1,0 +1,8 @@
+Cliente: NIETO CANO, ANGELES
+DNI: 6698287
+Teléfono: 600000124
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

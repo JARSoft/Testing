@@ -1,0 +1,8 @@
+Cliente: VARGAS CASTILLO, MARGARITA
+DNI: 9533651
+Teléfono: 600002498
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

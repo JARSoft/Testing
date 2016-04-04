@@ -1,0 +1,8 @@
+Cliente: GONZALEZ MONTERO, RAFAEL
+DNI: 5136491
+Teléfono: 600002122
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

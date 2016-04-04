@@ -1,0 +1,8 @@
+Cliente: SANZ GALLEGO, ANGELA
+DNI: 9026704
+Teléfono: 600002137
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

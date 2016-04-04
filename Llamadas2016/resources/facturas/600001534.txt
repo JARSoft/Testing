@@ -1,0 +1,8 @@
+Cliente: DIEZ FUENTES, MARIA ROSARIO
+DNI: 7241200
+Teléfono: 600001534
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

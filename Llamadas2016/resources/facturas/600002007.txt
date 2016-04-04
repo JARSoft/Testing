@@ -1,0 +1,8 @@
+Cliente: HERRERO ROJAS, SARA
+DNI: 8755235
+Teléfono: 600002007
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

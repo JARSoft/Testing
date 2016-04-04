@@ -1,0 +1,8 @@
+Cliente: JIMENEZ GARRIDO, AMPARO
+DNI: 5191180
+Teléfono: 600000080
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

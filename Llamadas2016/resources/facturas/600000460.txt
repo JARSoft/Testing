@@ -1,0 +1,8 @@
+Cliente: HIDALGO ARIAS, LUIS MIGUEL
+DNI: 6187368
+Teléfono: 600000460
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

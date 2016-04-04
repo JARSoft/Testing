@@ -1,0 +1,8 @@
+Cliente: RAMOS HERNANDEZ, IVAN
+DNI: 8268879
+Teléfono: 600002385
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

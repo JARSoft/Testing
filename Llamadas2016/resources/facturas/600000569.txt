@@ -1,0 +1,8 @@
+Cliente: GALLARDO VELASCO, BEATRIZ
+DNI: 7425030
+Teléfono: 600000569
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RUBIO HERRERA, CESAR
+DNI: 5941840
+Teléfono: 600002705
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

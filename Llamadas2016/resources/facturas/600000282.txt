@@ -1,0 +1,8 @@
+Cliente: ALVAREZ GOMEZ, AURORA
+DNI: 6744333
+Teléfono: 600000282
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SOLER RAMIREZ, JORGE
+DNI: 7400370
+Teléfono: 600000042
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: FUENTES BENITEZ, NATALIA
+DNI: 6594798
+Teléfono: 600000743
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GOMEZ CARMONA, SILVIA
+DNI: 6084462
+Teléfono: 600002144
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

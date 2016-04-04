@@ -1,0 +1,8 @@
+Cliente: IGLESIAS CARMONA, JOAN
+DNI: 7316925
+Teléfono: 600001391
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

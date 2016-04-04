@@ -1,0 +1,8 @@
+Cliente: MOLINA LEON, ALFREDO
+DNI: 5898928
+Teléfono: 600000250
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GARCIA BRAVO, LORENA
+DNI: 9188387
+Teléfono: 600000980
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

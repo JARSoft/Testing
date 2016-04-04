@@ -1,0 +1,8 @@
+Cliente: PEÑA ALONSO, VICENTE
+DNI: 9958816
+Teléfono: 600001174
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

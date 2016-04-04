@@ -1,0 +1,8 @@
+Cliente: MORENO HERRERA, JOSE MANUEL
+DNI: 9287252
+Teléfono: 600001177
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

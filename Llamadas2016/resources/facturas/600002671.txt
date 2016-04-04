@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ JIMENEZ, JUAN CARLOS
+DNI: 6305342
+Teléfono: 600002671
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

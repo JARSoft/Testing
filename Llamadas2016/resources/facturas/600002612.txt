@@ -1,0 +1,8 @@
+Cliente: MORENO MOYA, MARIA PILAR
+DNI: 9144708
+Teléfono: 600002612
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

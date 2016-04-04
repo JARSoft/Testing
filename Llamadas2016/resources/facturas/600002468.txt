@@ -1,0 +1,8 @@
+Cliente: ROMERO GOMEZ, RAQUEL
+DNI: 5960142
+Teléfono: 600002468
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

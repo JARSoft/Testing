@@ -1,0 +1,8 @@
+Cliente: GONZALEZ MARTIN, ROSARIO
+DNI: 9126473
+Teléfono: 600001444
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: BLANCO SANTIAGO, INMACULADA
+DNI: 8264305
+Teléfono: 600000859
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

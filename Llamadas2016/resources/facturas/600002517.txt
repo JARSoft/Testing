@@ -1,0 +1,8 @@
+Cliente: SANCHEZ HERRERA, JOSE MIGUEL
+DNI: 9049553
+Teléfono: 600002517
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

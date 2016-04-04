@@ -1,0 +1,8 @@
+Cliente: SANTOS SERRANO, MARIA MAR
+DNI: 8010127
+Teléfono: 600000809
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PASTOR VICENTE, PILAR
+DNI: 8333473
+Teléfono: 600002025
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

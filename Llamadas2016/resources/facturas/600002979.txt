@@ -1,0 +1,8 @@
+Cliente: GONZALEZ REYES, ANGELES
+DNI: 5531250
+Teléfono: 600002979
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CARMONA CALVO, FELIX
+DNI: 8071449
+Teléfono: 600001316
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

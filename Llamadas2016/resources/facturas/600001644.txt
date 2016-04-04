@@ -1,0 +1,8 @@
+Cliente: IGLESIAS FERRER, JUAN FRANCISCO
+DNI: 6438172
+Teléfono: 600001644
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

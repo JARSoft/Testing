@@ -1,0 +1,8 @@
+Cliente: GALLARDO GARRIDO, ALICIA
+DNI: 6599353
+Teléfono: 600001114
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: JIMENEZ RAMOS, OLGA
+DNI: 9640377
+Teléfono: 600001547
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

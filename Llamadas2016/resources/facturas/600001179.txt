@@ -1,0 +1,8 @@
+Cliente: ROJAS ORTIZ, ANA MARIA
+DNI: 7639524
+Teléfono: 600001179
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

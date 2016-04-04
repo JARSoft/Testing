@@ -1,0 +1,8 @@
+Cliente: MORALES JIMENEZ, HUGO
+DNI: 6603088
+Teléfono: 600002722
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CASTILLO MEDINA, AURORA
+DNI: 5284000
+Teléfono: 600002774
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

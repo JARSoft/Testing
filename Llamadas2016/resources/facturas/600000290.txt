@@ -1,0 +1,8 @@
+Cliente: JIMENEZ RAMOS, SEBASTIAN
+DNI: 8197121
+Teléfono: 600000290
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

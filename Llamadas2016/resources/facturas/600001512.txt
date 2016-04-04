@@ -1,0 +1,8 @@
+Cliente: ALVAREZ MARTIN, LUISA
+DNI: 9861497
+Teléfono: 600001512
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

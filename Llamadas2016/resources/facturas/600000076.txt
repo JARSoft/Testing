@@ -1,0 +1,8 @@
+Cliente: DURAN CABALLERO, MARIA JESUS
+DNI: 7290248
+Teléfono: 600000076
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

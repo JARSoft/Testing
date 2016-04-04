@@ -1,0 +1,8 @@
+Cliente: GUERRERO MORALES, HUGO
+DNI: 7394613
+Teléfono: 600000212
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

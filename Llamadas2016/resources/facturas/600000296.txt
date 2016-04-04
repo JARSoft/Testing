@@ -1,0 +1,8 @@
+Cliente: SANZ PRIETO, MANUEL
+DNI: 5978097
+Teléfono: 600000296
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

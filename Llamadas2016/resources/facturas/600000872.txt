@@ -1,0 +1,8 @@
+Cliente: PARRA ALONSO, GABRIEL
+DNI: 6318900
+Teléfono: 600000872
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

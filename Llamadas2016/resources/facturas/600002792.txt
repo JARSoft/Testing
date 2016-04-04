@@ -1,0 +1,8 @@
+Cliente: FLORES ROJAS, JAVIER
+DNI: 9484687
+Teléfono: 600002792
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

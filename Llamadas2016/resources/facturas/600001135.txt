@@ -1,0 +1,8 @@
+Cliente: HERRERO BLANCO, ADRIAN
+DNI: 8902489
+Teléfono: 600001135
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

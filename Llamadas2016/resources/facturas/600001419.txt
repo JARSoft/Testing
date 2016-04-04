@@ -1,0 +1,8 @@
+Cliente: PASCUAL PASTOR, RODRIGO
+DNI: 6065493
+Teléfono: 600001419
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

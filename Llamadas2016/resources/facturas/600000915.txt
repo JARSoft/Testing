@@ -1,0 +1,8 @@
+Cliente: BLANCO SANZ, EVA MARIA
+DNI: 5417696
+Teléfono: 600000915
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

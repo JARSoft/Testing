@@ -1,0 +1,8 @@
+Cliente: SANTIAGO MORALES, MARIA MAR
+DNI: 8444849
+Teléfono: 600000744
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

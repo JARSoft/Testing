@@ -1,0 +1,8 @@
+Cliente: NIETO MARTIN, ROSA MARIA
+DNI: 9430072
+Teléfono: 600002207
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

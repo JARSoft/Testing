@@ -1,0 +1,8 @@
+Cliente: CABALLERO HERNANDEZ, SANDRA
+DNI: 8604178
+Teléfono: 600000993
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

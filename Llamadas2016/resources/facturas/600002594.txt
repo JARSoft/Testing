@@ -1,0 +1,8 @@
+Cliente: GONZALEZ AGUILAR, JOSE CARLOS
+DNI: 7532385
+Teléfono: 600002594
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

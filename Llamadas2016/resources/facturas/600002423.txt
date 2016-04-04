@@ -1,0 +1,8 @@
+Cliente: SAEZ NAVARRO, VICTORIA
+DNI: 7779695
+Teléfono: 600002423
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: BLANCO MORENO, IVAN
+DNI: 5351830
+Teléfono: 600002523
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

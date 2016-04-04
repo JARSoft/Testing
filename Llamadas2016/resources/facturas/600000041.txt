@@ -1,0 +1,8 @@
+Cliente: FERRER DURAN, VICTOR
+DNI: 7420395
+Teléfono: 600000041
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

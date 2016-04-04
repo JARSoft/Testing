@@ -1,0 +1,8 @@
+Cliente: REYES CARRASCO, DOMINGO
+DNI: 7534652
+Teléfono: 600002902
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

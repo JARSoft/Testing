@@ -1,0 +1,8 @@
+Cliente: PEREZ BLANCO, JOSE ANGEL
+DNI: 8249115
+Teléfono: 600002320
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: VELASCO BRAVO, OSCAR
+DNI: 7545655
+Teléfono: 600001449
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ROMAN SANZ, IVAN
+DNI: 9863177
+Teléfono: 600001071
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

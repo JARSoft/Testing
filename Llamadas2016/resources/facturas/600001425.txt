@@ -1,0 +1,8 @@
+Cliente: LOZANO MENDEZ, ADRIAN
+DNI: 7186163
+Teléfono: 600001425
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

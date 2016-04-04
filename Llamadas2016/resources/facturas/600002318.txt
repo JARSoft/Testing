@@ -1,0 +1,8 @@
+Cliente: VICENTE PEREZ, ROSA MARIA
+DNI: 7156010
+Teléfono: 600002318
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

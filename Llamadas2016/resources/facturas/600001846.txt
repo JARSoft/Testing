@@ -1,0 +1,8 @@
+Cliente: BLANCO CARMONA, FRANCISCO JAVIER
+DNI: 8424229
+Teléfono: 600001846
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GARCIA HIDALGO, RAFAEL
+DNI: 7066390
+Teléfono: 600000091
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

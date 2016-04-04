@@ -1,0 +1,8 @@
+Cliente: PEÑA VIDAL, ALEJANDRO
+DNI: 5226687
+Teléfono: 600000114
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

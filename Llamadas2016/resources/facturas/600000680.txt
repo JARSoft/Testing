@@ -1,0 +1,8 @@
+Cliente: JIMENEZ GARCIA, MARGARITA
+DNI: 8576354
+Teléfono: 600000680
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

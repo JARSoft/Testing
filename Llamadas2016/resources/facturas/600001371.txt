@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ MORALES, SOFIA
+DNI: 9902208
+Teléfono: 600001371
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RAMIREZ SANZ, MARIA JESUS
+DNI: 9162021
+Teléfono: 600001570
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

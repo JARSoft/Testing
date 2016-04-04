@@ -1,0 +1,8 @@
+Cliente: GARCIA HERRERA, CARLOS
+DNI: 8725174
+Teléfono: 600000636
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

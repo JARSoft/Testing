@@ -1,0 +1,8 @@
+Cliente: DURAN SANCHEZ, OSCAR
+DNI: 6283052
+Teléfono: 600000626
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

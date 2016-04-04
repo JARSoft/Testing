@@ -1,0 +1,8 @@
+Cliente: CABALLERO AGUILAR, MARIA PILAR
+DNI: 7084317
+Teléfono: 600001984
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

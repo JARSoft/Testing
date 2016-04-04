@@ -1,0 +1,8 @@
+Cliente: SANTANA SUAREZ, MARTIN
+DNI: 5079008
+Teléfono: 600000555
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

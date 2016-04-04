@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ MEDINA, SAMUEL
+DNI: 6517113
+Teléfono: 600001220
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

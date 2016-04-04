@@ -1,0 +1,8 @@
+Cliente: DIAZ NAVARRO, HUGO
+DNI: 8832683
+Teléfono: 600001811
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

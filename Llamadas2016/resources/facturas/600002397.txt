@@ -1,0 +1,8 @@
+Cliente: PEREZ LEON, ALICIA
+DNI: 6466564
+Teléfono: 600002397
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

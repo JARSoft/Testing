@@ -1,0 +1,8 @@
+Cliente: GARRIDO VICENTE, JULIO
+DNI: 5473659
+Teléfono: 600000111
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

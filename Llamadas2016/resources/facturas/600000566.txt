@@ -1,0 +1,8 @@
+Cliente: DIAZ TORRES, JORDI
+DNI: 8099254
+Teléfono: 600000566
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

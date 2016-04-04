@@ -1,0 +1,8 @@
+Cliente: CALVO MONTERO, JAIME
+DNI: 7591170
+Teléfono: 600002168
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

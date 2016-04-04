@@ -1,0 +1,8 @@
+Cliente: DIEZ SAEZ, HUGO
+DNI: 7861978
+Teléfono: 600002530
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

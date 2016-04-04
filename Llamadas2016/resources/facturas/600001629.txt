@@ -1,0 +1,8 @@
+Cliente: LOZANO CAMPOS, LUIS MIGUEL
+DNI: 8484730
+Teléfono: 600001629
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DELGADO CORTES, SILVIA
+DNI: 7844458
+Teléfono: 600002201
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

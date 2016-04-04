@@ -1,0 +1,8 @@
+Cliente: GONZALEZ DURAN, RICARDO
+DNI: 8163860
+Teléfono: 600001354
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

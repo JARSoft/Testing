@@ -1,0 +1,8 @@
+Cliente: VARGAS SAEZ, FERNANDO
+DNI: 5808936
+Teléfono: 600002054
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

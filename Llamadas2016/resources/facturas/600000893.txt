@@ -1,0 +1,8 @@
+Cliente: ROJAS GALLARDO, ROSARIO
+DNI: 9881788
+Teléfono: 600000893
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

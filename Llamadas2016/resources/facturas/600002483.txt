@@ -1,0 +1,8 @@
+Cliente: CASTILLO PARRA, MARIA CARMEN
+DNI: 9778418
+Teléfono: 600002483
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

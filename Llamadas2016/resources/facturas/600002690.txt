@@ -1,0 +1,8 @@
+Cliente: SANZ HERNANDEZ, XAVIER
+DNI: 5028625
+Teléfono: 600002690
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

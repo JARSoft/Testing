@@ -1,0 +1,8 @@
+Cliente: SOTO PRIETO, PATRICIA
+DNI: 9940889
+Teléfono: 600001307
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

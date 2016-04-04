@@ -1,0 +1,8 @@
+Cliente: NUÑEZ PASTOR, JOSE RAMON
+DNI: 6886814
+Teléfono: 600002321
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

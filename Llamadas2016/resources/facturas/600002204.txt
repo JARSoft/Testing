@@ -1,0 +1,8 @@
+Cliente: DELGADO HERNANDEZ, YOLANDA
+DNI: 9929088
+Teléfono: 600002204
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

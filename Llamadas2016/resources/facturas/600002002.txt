@@ -1,0 +1,8 @@
+Cliente: PEREZ SANTIAGO, HECTOR
+DNI: 7852283
+Teléfono: 600002002
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

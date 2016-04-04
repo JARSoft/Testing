@@ -1,0 +1,8 @@
+Cliente: DIEZ JIMENEZ, MIGUEL
+DNI: 6065575
+Teléfono: 600002085
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

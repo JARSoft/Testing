@@ -1,0 +1,8 @@
+Cliente: GONZALEZ RUBIO, GLORIA
+DNI: 7227689
+Teléfono: 600002108
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

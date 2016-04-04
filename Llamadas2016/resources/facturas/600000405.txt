@@ -1,0 +1,8 @@
+Cliente: CARMONA MORALES, MARIA MERCEDES
+DNI: 9716681
+Teléfono: 600000405
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

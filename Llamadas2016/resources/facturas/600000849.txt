@@ -1,0 +1,8 @@
+Cliente: DELGADO AGUILAR, ALICIA
+DNI: 8781070
+Teléfono: 600000849
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

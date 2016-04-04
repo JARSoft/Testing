@@ -1,0 +1,8 @@
+Cliente: PRIETO CARRASCO, MARIA CARMEN
+DNI: 5991927
+Teléfono: 600000652
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

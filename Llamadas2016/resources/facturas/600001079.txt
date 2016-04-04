@@ -1,0 +1,8 @@
+Cliente: LOZANO AGUILAR, MARIA CARMEN
+DNI: 7600452
+Teléfono: 600001079
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

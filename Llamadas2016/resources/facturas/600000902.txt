@@ -1,0 +1,8 @@
+Cliente: CARRASCO LOPEZ, ALVARO
+DNI: 8628416
+Teléfono: 600000902
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARIN NUÑEZ, BEATRIZ
+DNI: 7835396
+Teléfono: 600000576
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

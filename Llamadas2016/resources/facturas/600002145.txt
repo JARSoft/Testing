@@ -1,0 +1,8 @@
+Cliente: DELGADO GUERRERO, JOAN
+DNI: 7138148
+Teléfono: 600002145
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CASTILLO FLORES, MARIA JOSEFA
+DNI: 8859532
+Teléfono: 600002764
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

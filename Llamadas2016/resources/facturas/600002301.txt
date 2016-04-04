@@ -1,0 +1,8 @@
+Cliente: MONTERO CARMONA, CLAUDIA
+DNI: 7582334
+Teléfono: 600002301
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

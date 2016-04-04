@@ -1,0 +1,8 @@
+Cliente: CABRERA BRAVO, SEBASTIAN
+DNI: 6061036
+Teléfono: 600000373
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

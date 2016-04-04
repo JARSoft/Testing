@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ SANTANA, MARTA
+DNI: 5794612
+Teléfono: 600000706
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

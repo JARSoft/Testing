@@ -1,0 +1,8 @@
+Cliente: GIL CARRASCO, JOSE LUIS
+DNI: 9717641
+Teléfono: 600000483
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

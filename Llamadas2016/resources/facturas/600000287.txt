@@ -1,0 +1,8 @@
+Cliente: FUENTES HERRERO, JOSEFINA
+DNI: 5618079
+Teléfono: 600000287
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

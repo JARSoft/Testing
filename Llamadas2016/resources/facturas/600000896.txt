@@ -1,0 +1,8 @@
+Cliente: FUENTES CANO, ALVARO
+DNI: 7901684
+Teléfono: 600000896
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

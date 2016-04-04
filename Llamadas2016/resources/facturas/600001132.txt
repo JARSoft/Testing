@@ -1,0 +1,8 @@
+Cliente: HERRERO MOLINA, MARIA SOLEDAD
+DNI: 5227102
+Teléfono: 600001132
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

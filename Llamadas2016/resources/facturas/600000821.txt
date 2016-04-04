@@ -1,0 +1,8 @@
+Cliente: CORTES VARGAS, IGNACIO
+DNI: 7049301
+Teléfono: 600000821
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

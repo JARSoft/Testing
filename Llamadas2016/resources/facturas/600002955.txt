@@ -1,0 +1,8 @@
+Cliente: PASCUAL VICENTE, FELIX
+DNI: 9187755
+Teléfono: 600002955
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

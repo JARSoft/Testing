@@ -1,0 +1,8 @@
+Cliente: CORTES MARTINEZ, MARIA LUISA
+DNI: 6016704
+Teléfono: 600000793
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

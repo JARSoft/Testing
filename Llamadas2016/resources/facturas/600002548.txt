@@ -1,0 +1,8 @@
+Cliente: SANTIAGO SANCHEZ, MERCEDES
+DNI: 5117674
+Teléfono: 600002548
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

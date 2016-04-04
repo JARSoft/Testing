@@ -1,0 +1,8 @@
+Cliente: CARMONA GARRIDO, SANDRA
+DNI: 9097533
+Teléfono: 600001616
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ESTEBAN PASTOR, JOSEP
+DNI: 8881266
+Teléfono: 600002877
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

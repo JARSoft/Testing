@@ -1,0 +1,8 @@
+Cliente: DELGADO ROMAN, ROSARIO
+DNI: 6452028
+Teléfono: 600001524
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

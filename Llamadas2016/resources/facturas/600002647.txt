@@ -1,0 +1,8 @@
+Cliente: JIMENEZ ROMAN, GREGORIO
+DNI: 9462109
+Teléfono: 600002647
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

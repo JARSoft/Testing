@@ -1,0 +1,8 @@
+Cliente: NAVARRO RODRIGUEZ, HUGO
+DNI: 8725124
+Teléfono: 600002660
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

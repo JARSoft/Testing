@@ -1,0 +1,8 @@
+Cliente: GOMEZ LOPEZ, MERCEDES
+DNI: 6258802
+Teléfono: 600001894
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

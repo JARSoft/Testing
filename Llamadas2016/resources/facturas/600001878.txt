@@ -1,0 +1,8 @@
+Cliente: HERRERO GIMENEZ, MARIA
+DNI: 7474216
+Teléfono: 600001878
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

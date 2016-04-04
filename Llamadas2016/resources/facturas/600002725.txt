@@ -1,0 +1,8 @@
+Cliente: RUBIO FLORES, ADRIAN
+DNI: 9913913
+Teléfono: 600002725
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

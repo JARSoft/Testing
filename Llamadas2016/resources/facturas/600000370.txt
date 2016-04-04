@@ -1,0 +1,8 @@
+Cliente: RAMIREZ MARTINEZ, ANTONIO
+DNI: 9584023
+Teléfono: 600000370
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

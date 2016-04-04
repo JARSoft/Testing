@@ -1,0 +1,8 @@
+Cliente: NUÑEZ SANTOS, JUAN ANTONIO
+DNI: 5894379
+Teléfono: 600001993
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

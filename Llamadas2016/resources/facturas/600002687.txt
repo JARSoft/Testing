@@ -1,0 +1,8 @@
+Cliente: VEGA GUTIERREZ, ALEJANDRO
+DNI: 8208796
+Teléfono: 600002687
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

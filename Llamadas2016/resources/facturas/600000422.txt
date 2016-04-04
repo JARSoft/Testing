@@ -1,0 +1,8 @@
+Cliente: CARMONA RODRIGUEZ, BEATRIZ
+DNI: 7617786
+Teléfono: 600000422
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

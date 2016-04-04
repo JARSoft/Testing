@@ -1,0 +1,8 @@
+Cliente: RAMIREZ ROMERO, MARIA CRISTINA
+DNI: 7767292
+Teléfono: 600001381
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

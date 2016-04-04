@@ -1,0 +1,8 @@
+Cliente: NAVARRO CASTRO, AMPARO
+DNI: 7532465
+Teléfono: 600001967
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

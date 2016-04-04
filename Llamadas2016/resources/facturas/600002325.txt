@@ -1,0 +1,8 @@
+Cliente: FERRER GALLEGO, JOSE LUIS
+DNI: 6815914
+Teléfono: 600002325
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

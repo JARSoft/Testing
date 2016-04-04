@@ -1,0 +1,8 @@
+Cliente: HERRERO MARQUEZ, DAVID
+DNI: 6828069
+Teléfono: 600001085
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

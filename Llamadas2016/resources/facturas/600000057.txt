@@ -1,0 +1,8 @@
+Cliente: ROMAN BRAVO, CRISTIAN
+DNI: 8885192
+Teléfono: 600000057
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

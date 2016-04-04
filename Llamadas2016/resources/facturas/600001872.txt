@@ -1,0 +1,8 @@
+Cliente: SERRANO MOLINA, DOMINGO
+DNI: 7855382
+Teléfono: 600001872
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

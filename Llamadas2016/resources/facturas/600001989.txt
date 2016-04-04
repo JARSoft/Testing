@@ -1,0 +1,8 @@
+Cliente: BRAVO MEDINA, MARIA JOSE
+DNI: 6598800
+Teléfono: 600001989
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

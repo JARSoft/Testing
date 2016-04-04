@@ -1,0 +1,8 @@
+Cliente: LORENZO HERNANDEZ, MANUELA
+DNI: 8408986
+Teléfono: 600000014
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

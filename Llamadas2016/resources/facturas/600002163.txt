@@ -1,0 +1,8 @@
+Cliente: ALVAREZ HERNANDEZ, VICTOR MANUEL
+DNI: 7455698
+Teléfono: 600002163
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

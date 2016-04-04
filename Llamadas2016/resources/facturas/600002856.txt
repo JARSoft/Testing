@@ -1,0 +1,8 @@
+Cliente: ROMAN RUIZ, MARIA DOLORES
+DNI: 7032020
+Teléfono: 600002856
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

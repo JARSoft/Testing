@@ -1,0 +1,8 @@
+Cliente: MENDEZ GOMEZ, CLAUDIA
+DNI: 7362235
+Teléfono: 600002952
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

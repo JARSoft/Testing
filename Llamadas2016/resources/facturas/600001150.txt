@@ -1,0 +1,8 @@
+Cliente: MORALES GARRIDO, JOSE FRANCISCO
+DNI: 8399165
+Teléfono: 600001150
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

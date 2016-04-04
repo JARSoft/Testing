@@ -1,0 +1,8 @@
+Cliente: ARIAS MORA, OLGA
+DNI: 6008865
+Teléfono: 600000982
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

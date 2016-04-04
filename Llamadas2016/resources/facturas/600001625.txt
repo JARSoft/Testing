@@ -1,0 +1,8 @@
+Cliente: MORA FUENTES, MARIA PILAR
+DNI: 5231918
+Teléfono: 600001625
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: LEON SANTANA, ANA MARIA
+DNI: 6496468
+Teléfono: 600000833
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

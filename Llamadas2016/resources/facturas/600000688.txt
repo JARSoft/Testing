@@ -1,0 +1,8 @@
+Cliente: FUENTES GOMEZ, EVA MARIA
+DNI: 5007658
+Teléfono: 600000688
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

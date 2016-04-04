@@ -1,0 +1,8 @@
+Cliente: RAMOS ORTIZ, MARIA CARMEN
+DNI: 5179116
+Teléfono: 600000875
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

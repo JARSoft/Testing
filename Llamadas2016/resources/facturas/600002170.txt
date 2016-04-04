@@ -1,0 +1,8 @@
+Cliente: DELGADO LORENZO, EMILIA
+DNI: 5485265
+Teléfono: 600002170
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

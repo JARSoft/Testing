@@ -1,0 +1,8 @@
+Cliente: MARTINEZ BLANCO, TERESA
+DNI: 5239507
+Teléfono: 600002528
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

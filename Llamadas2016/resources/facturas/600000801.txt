@@ -1,0 +1,8 @@
+Cliente: GARRIDO GUTIERREZ, NATALIA
+DNI: 7855710
+Teléfono: 600000801
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

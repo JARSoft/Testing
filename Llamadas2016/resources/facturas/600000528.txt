@@ -1,0 +1,8 @@
+Cliente: LORENZO MORALES, ALFONSO
+DNI: 9946011
+Teléfono: 600000528
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

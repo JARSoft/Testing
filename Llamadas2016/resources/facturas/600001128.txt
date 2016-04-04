@@ -1,0 +1,8 @@
+Cliente: VEGA CRESPO, VICTORIA
+DNI: 9028991
+Teléfono: 600001128
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

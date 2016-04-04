@@ -1,0 +1,8 @@
+Cliente: HIDALGO SANTANA, RAMON
+DNI: 7484137
+Teléfono: 600002914
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

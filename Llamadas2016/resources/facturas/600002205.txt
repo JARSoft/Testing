@@ -1,0 +1,8 @@
+Cliente: CANO CASTILLO, LIDIA
+DNI: 5744309
+Teléfono: 600002205
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

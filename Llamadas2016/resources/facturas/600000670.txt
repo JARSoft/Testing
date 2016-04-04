@@ -1,0 +1,8 @@
+Cliente: SERRANO SANTIAGO, IKER
+DNI: 7141935
+Teléfono: 600000670
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NIETO GUTIERREZ, ANTONIO
+DNI: 8417664
+Teléfono: 600002149
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

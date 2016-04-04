@@ -1,0 +1,8 @@
+Cliente: DIAZ LOZANO, VICTOR MANUEL
+DNI: 8833491
+Teléfono: 600000286
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

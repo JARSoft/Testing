@@ -1,0 +1,8 @@
+Cliente: ROJAS CASTILLO, MARIA ROSARIO
+DNI: 5997999
+Teléfono: 600001036
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SANZ VICENTE, JULIA
+DNI: 8665455
+Teléfono: 600002164
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

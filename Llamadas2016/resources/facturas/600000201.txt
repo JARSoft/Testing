@@ -1,0 +1,8 @@
+Cliente: GARRIDO GIMENEZ, JUAN JOSE
+DNI: 7202630
+Teléfono: 600000201
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

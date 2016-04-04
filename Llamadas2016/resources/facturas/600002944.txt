@@ -1,0 +1,8 @@
+Cliente: PARRA TORRES, GONZALO
+DNI: 8775961
+Teléfono: 600002944
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

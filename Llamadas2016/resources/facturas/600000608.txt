@@ -1,0 +1,8 @@
+Cliente: SANZ GONZALEZ, CAROLINA
+DNI: 8070315
+Teléfono: 600000608
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CANO NUÑEZ, JULIA
+DNI: 5758207
+Teléfono: 600001511
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

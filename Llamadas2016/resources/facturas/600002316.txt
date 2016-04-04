@@ -1,0 +1,8 @@
+Cliente: MARTIN VARGAS, SANDRA
+DNI: 5873448
+Teléfono: 600002316
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

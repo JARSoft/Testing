@@ -1,0 +1,8 @@
+Cliente: FUENTES SOLER, LUISA
+DNI: 9075449
+Teléfono: 600002028
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

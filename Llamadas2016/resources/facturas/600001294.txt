@@ -1,0 +1,8 @@
+Cliente: BENITEZ PRIETO, NEREA
+DNI: 9061100
+Teléfono: 600001294
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

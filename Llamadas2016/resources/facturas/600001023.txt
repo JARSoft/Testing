@@ -1,0 +1,8 @@
+Cliente: VICENTE PEREZ, MARINA
+DNI: 8028208
+Teléfono: 600001023
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: LOZANO DURAN, MARIA
+DNI: 9268114
+Teléfono: 600002034
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

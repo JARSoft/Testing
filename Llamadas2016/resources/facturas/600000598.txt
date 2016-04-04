@@ -1,0 +1,8 @@
+Cliente: GIMENEZ MENDEZ, PILAR
+DNI: 7975363
+Teléfono: 600000598
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

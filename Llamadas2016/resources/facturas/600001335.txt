@@ -1,0 +1,8 @@
+Cliente: DELGADO BLANCO, SERGIO
+DNI: 6653546
+Teléfono: 600001335
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

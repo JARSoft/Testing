@@ -1,0 +1,8 @@
+Cliente: MARIN VELASCO, EVA
+DNI: 7822756
+Teléfono: 600001895
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

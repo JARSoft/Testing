@@ -1,0 +1,8 @@
+Cliente: FUENTES LEON, FERNANDO
+DNI: 9201376
+Teléfono: 600001586
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

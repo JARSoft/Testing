@@ -1,0 +1,8 @@
+Cliente: FERRER MORA, XAVIER
+DNI: 8030793
+Teléfono: 600001995
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

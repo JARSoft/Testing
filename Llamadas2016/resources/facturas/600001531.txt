@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ ARIAS, JUAN FRANCISCO
+DNI: 7703262
+Teléfono: 600001531
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

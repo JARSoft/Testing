@@ -1,0 +1,8 @@
+Cliente: ORTIZ CANO, JESUS
+DNI: 8540483
+Teléfono: 600001822
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

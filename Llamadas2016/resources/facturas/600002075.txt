@@ -1,0 +1,8 @@
+Cliente: GARCIA PASTOR, JAVIER
+DNI: 9878246
+Teléfono: 600002075
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

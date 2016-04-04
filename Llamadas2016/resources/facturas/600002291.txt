@@ -1,0 +1,8 @@
+Cliente: CRUZ PASCUAL, LORENA
+DNI: 6641908
+Teléfono: 600002291
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

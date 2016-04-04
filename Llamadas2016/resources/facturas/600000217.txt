@@ -1,0 +1,8 @@
+Cliente: SERRANO GARCIA, MARINA
+DNI: 9527928
+Teléfono: 600000217
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

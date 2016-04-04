@@ -1,0 +1,8 @@
+Cliente: DIEZ SOLER, TOMAS
+DNI: 9682551
+Teléfono: 600001318
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

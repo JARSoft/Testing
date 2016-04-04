@@ -1,0 +1,8 @@
+Cliente: ARIAS DOMINGUEZ, FRANCISCO JAVIER
+DNI: 7080173
+Teléfono: 600001230
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ LORENZO, MARIA ISABEL
+DNI: 6509162
+Teléfono: 600001091
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

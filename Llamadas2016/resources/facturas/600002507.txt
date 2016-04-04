@@ -1,0 +1,8 @@
+Cliente: CRUZ GOMEZ, OLGA
+DNI: 5203071
+Teléfono: 600002507
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

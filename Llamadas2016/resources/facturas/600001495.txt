@@ -1,0 +1,8 @@
+Cliente: ROMAN GIL, BEATRIZ
+DNI: 8160556
+Teléfono: 600001495
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

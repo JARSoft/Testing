@@ -1,0 +1,8 @@
+Cliente: BLANCO CABRERA, TERESA
+DNI: 5831615
+Teléfono: 600000553
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

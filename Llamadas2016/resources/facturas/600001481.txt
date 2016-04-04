@@ -1,0 +1,8 @@
+Cliente: NAVARRO DELGADO, MARIA CRISTINA
+DNI: 8095119
+Teléfono: 600001481
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

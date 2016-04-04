@@ -1,0 +1,8 @@
+Cliente: PEREZ HERRERA, ISABEL
+DNI: 7466851
+Teléfono: 600001261
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

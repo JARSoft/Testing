@@ -1,0 +1,8 @@
+Cliente: DIEZ RAMIREZ, JOSEFA
+DNI: 6358526
+Teléfono: 600002883
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

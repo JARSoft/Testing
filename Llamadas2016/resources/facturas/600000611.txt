@@ -1,0 +1,8 @@
+Cliente: DELGADO PASTOR, SALVADOR
+DNI: 9004175
+Teléfono: 600000611
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

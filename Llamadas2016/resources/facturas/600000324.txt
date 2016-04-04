@@ -1,0 +1,8 @@
+Cliente: CASTILLO JIMENEZ, TERESA
+DNI: 8574635
+Teléfono: 600000324
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

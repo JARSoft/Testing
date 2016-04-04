@@ -1,0 +1,8 @@
+Cliente: MORENO MEDINA, ROSA
+DNI: 9641526
+Teléfono: 600001977
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CORTES CRUZ, JOSE
+DNI: 9818935
+Teléfono: 600000074
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

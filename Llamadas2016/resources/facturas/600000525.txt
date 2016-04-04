@@ -1,0 +1,8 @@
+Cliente: MUÑOZ MORALES, MARIA
+DNI: 7816558
+Teléfono: 600000525
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

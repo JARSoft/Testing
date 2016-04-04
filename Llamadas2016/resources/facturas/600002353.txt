@@ -1,0 +1,8 @@
+Cliente: GUERRERO MUÑOZ, MARTA
+DNI: 9429100
+Teléfono: 600002353
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CALVO PEÑA, ALVARO
+DNI: 8130007
+Teléfono: 600002414
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

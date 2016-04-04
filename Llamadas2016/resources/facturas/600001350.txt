@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ BENITEZ, OSCAR
+DNI: 5769355
+Teléfono: 600001350
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

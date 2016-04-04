@@ -1,0 +1,8 @@
+Cliente: MARTINEZ VEGA, JOSE ANTONIO
+DNI: 6071867
+Teléfono: 600002035
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

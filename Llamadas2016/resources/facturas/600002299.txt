@@ -1,0 +1,8 @@
+Cliente: AGUILAR PEÑA, CARLA
+DNI: 8271210
+Teléfono: 600002299
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

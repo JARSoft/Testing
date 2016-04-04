@@ -1,0 +1,8 @@
+Cliente: SUAREZ FLORES, ANA ISABEL
+DNI: 9479946
+Teléfono: 600000385
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

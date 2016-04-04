@@ -1,0 +1,8 @@
+Cliente: MENDEZ JIMENEZ, IRENE
+DNI: 9487469
+Teléfono: 600000389
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

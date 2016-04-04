@@ -1,0 +1,8 @@
+Cliente: GONZALEZ GARCIA, JUAN
+DNI: 7660568
+Teléfono: 600002343
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

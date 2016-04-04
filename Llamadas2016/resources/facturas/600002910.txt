@@ -1,0 +1,8 @@
+Cliente: ORTIZ CARMONA, AITOR
+DNI: 7908857
+Teléfono: 600002910
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

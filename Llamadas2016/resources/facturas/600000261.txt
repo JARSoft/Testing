@@ -1,0 +1,8 @@
+Cliente: AGUILAR NUÑEZ, NEREA
+DNI: 5943873
+Teléfono: 600000261
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

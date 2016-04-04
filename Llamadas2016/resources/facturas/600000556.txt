@@ -1,0 +1,8 @@
+Cliente: GIL ORTEGA, DAVID
+DNI: 7322495
+Teléfono: 600000556
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

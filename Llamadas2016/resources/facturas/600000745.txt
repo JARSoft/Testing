@@ -1,0 +1,8 @@
+Cliente: BENITEZ ORTEGA, LAURA
+DNI: 5744430
+Teléfono: 600000745
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

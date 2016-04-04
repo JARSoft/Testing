@@ -1,0 +1,8 @@
+Cliente: MEDINA ARIAS, SALVADOR
+DNI: 5547954
+Teléfono: 600002314
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

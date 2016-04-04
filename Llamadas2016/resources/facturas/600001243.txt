@@ -1,0 +1,8 @@
+Cliente: SANTOS CANO, ANGELA
+DNI: 8567640
+Teléfono: 600001243
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

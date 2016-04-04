@@ -1,0 +1,8 @@
+Cliente: GALLEGO MARQUEZ, JOSE MANUEL
+DNI: 5667237
+Teléfono: 600002021
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

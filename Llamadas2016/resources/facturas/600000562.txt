@@ -1,0 +1,8 @@
+Cliente: CARRASCO MEDINA, ESPERANZA
+DNI: 9446660
+Teléfono: 600000562
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

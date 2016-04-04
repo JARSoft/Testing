@@ -1,0 +1,8 @@
+Cliente: VIDAL CANO, MANUEL
+DNI: 7042482
+Teléfono: 600002098
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

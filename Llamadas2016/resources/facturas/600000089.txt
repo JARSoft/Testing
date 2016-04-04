@@ -1,0 +1,8 @@
+Cliente: JIMENEZ MENDEZ, ELENA
+DNI: 5431548
+Teléfono: 600000089
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

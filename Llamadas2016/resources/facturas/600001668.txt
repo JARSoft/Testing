@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ MARIN, MARIA MAR
+DNI: 8330317
+Teléfono: 600001668
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

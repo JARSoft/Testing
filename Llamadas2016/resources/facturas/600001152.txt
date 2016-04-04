@@ -1,0 +1,8 @@
+Cliente: AGUILAR DIAZ, NOELIA
+DNI: 5692785
+Teléfono: 600001152
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

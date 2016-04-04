@@ -1,0 +1,8 @@
+Cliente: CARRASCO MORA, PILAR
+DNI: 8709566
+Teléfono: 600002070
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

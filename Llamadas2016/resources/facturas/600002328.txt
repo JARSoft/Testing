@@ -1,0 +1,8 @@
+Cliente: MORA GONZALEZ, ROSA
+DNI: 5397001
+Teléfono: 600002328
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

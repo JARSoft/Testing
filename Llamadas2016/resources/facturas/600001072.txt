@@ -1,0 +1,8 @@
+Cliente: GOMEZ MOLINA, RICARDO
+DNI: 7049686
+Teléfono: 600001072
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

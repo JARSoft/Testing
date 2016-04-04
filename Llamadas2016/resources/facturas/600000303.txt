@@ -1,0 +1,8 @@
+Cliente: PRIETO GARCIA, ANGELA
+DNI: 7368275
+Teléfono: 600000303
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

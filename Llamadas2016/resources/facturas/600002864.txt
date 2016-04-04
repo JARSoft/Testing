@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ RAMIREZ, BEATRIZ
+DNI: 8281187
+Teléfono: 600002864
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

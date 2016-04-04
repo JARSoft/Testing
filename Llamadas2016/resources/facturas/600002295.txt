@@ -1,0 +1,8 @@
+Cliente: SUAREZ ORTEGA, PABLO
+DNI: 7006098
+Teléfono: 600002295
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

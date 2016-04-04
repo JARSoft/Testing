@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ DIAZ, ROSARIO
+DNI: 5247014
+Teléfono: 600000142
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

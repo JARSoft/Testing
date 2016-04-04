@@ -1,0 +1,8 @@
+Cliente: GUERRERO MEDINA, JOSE RAMON
+DNI: 9804368
+Teléfono: 600002569
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

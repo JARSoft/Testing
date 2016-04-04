@@ -1,0 +1,8 @@
+Cliente: ROJAS NUÑEZ, CELIA
+DNI: 6395481
+Teléfono: 600002263
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

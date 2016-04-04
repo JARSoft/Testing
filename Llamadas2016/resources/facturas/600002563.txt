@@ -1,0 +1,8 @@
+Cliente: DELGADO GIMENEZ, JOSEFA
+DNI: 5246359
+Teléfono: 600002563
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

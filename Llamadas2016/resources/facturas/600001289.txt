@@ -1,0 +1,8 @@
+Cliente: MOYA CANO, JOSE RAMON
+DNI: 7142970
+Teléfono: 600001289
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

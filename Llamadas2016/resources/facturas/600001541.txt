@@ -1,0 +1,8 @@
+Cliente: ORTEGA AGUILAR, DANIEL
+DNI: 9030178
+Teléfono: 600001541
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

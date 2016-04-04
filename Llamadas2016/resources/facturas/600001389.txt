@@ -1,0 +1,8 @@
+Cliente: BENITEZ SANCHEZ, SANDRA
+DNI: 8562444
+Teléfono: 600001389
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

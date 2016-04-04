@@ -1,0 +1,8 @@
+Cliente: SOTO GIMENEZ, FRANCISCO JOSE
+DNI: 5594768
+Teléfono: 600001051
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

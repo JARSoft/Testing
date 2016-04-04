@@ -1,0 +1,8 @@
+Cliente: CANO SUAREZ, LUCIA
+DNI: 7366740
+Teléfono: 600002934
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

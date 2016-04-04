@@ -1,0 +1,8 @@
+Cliente: SAEZ VEGA, EVA MARIA
+DNI: 6444732
+Teléfono: 600000153
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

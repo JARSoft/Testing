@@ -1,0 +1,8 @@
+Cliente: CABRERA MEDINA, DAVID
+DNI: 8475725
+Teléfono: 600000876
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

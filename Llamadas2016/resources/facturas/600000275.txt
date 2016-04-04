@@ -1,0 +1,8 @@
+Cliente: MOYA NIETO, MARIA JOSEFA
+DNI: 6874161
+Teléfono: 600000275
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

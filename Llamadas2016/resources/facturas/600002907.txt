@@ -1,0 +1,8 @@
+Cliente: CORTES PEREZ, MARIA MAR
+DNI: 9209553
+Teléfono: 600002907
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

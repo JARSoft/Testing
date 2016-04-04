@@ -1,0 +1,8 @@
+Cliente: SANZ VAZQUEZ, INMACULADA
+DNI: 6120087
+Teléfono: 600001046
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

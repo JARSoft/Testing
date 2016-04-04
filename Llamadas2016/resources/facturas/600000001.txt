@@ -1,0 +1,10 @@
+Cliente: GONZALEZ MORA, MARIA DOLORES
+DNI: 8060469
+Teléfono: 600000001
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+666666666	1/7/2014	10:0:0		600			9.16	TarifaDeTardes
+666666666	1/1/2016	22:0:0		600			0.0	TarifaDeTardes
+
+	Consumos: 9.16 €

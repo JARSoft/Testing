@@ -1,0 +1,8 @@
+Cliente: CARRASCO ORTEGA, AMPARO
+DNI: 7682670
+Teléfono: 600002806
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

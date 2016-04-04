@@ -1,0 +1,8 @@
+Cliente: SERRANO MARQUEZ, SONIA
+DNI: 7195768
+Teléfono: 600001771
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CARRASCO ROMERO, CARMEN
+DNI: 5998458
+Teléfono: 600000678
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

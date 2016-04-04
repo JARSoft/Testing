@@ -1,0 +1,8 @@
+Cliente: MORA CASTRO, NEREA
+DNI: 9650374
+Teléfono: 600002574
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

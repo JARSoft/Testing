@@ -1,0 +1,8 @@
+Cliente: SANCHEZ JIMENEZ, PILAR
+DNI: 8322589
+Teléfono: 600002190
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

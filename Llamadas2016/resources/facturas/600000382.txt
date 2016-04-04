@@ -1,0 +1,8 @@
+Cliente: FERNANDEZ CALVO, ENRIQUE
+DNI: 9012733
+Teléfono: 600000382
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

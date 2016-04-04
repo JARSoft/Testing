@@ -1,0 +1,8 @@
+Cliente: FERNANDEZ GARRIDO, JOSE ANTONIO
+DNI: 5447252
+Teléfono: 600000523
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

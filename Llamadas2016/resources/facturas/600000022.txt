@@ -1,0 +1,8 @@
+Cliente: BLANCO SOTO, SANDRA
+DNI: 8136311
+Teléfono: 600000022
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

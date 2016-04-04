@@ -1,0 +1,8 @@
+Cliente: BRAVO RUBIO, AURORA
+DNI: 8438748
+Teléfono: 600000061
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

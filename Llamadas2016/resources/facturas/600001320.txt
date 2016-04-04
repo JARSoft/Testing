@@ -1,0 +1,8 @@
+Cliente: MORENO HERRERO, AITOR
+DNI: 9166140
+Teléfono: 600001320
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

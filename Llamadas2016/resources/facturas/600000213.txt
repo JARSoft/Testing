@@ -1,0 +1,8 @@
+Cliente: SANZ GALLARDO, JOSE CARLOS
+DNI: 9568882
+Teléfono: 600000213
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MUÑOZ SUAREZ, ROSA
+DNI: 9390178
+Teléfono: 600002489
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

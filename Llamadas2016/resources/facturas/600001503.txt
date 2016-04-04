@@ -1,0 +1,8 @@
+Cliente: DIAZ PEREZ, MARIA MAR
+DNI: 5625213
+Teléfono: 600001503
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

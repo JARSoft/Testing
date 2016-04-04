@@ -1,0 +1,8 @@
+Cliente: LOPEZ BRAVO, ADRIAN
+DNI: 9747560
+Teléfono: 600002648
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

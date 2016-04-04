@@ -1,0 +1,8 @@
+Cliente: GOMEZ NUÑEZ, AITOR
+DNI: 6272402
+Teléfono: 600001031
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

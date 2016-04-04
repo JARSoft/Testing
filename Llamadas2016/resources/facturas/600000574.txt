@@ -1,0 +1,8 @@
+Cliente: CANO SOLER, JOSE MIGUEL
+DNI: 5361265
+Teléfono: 600000574
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

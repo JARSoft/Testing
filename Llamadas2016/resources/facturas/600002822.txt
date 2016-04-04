@@ -1,0 +1,8 @@
+Cliente: ESTEBAN RODRIGUEZ, JUAN LUIS
+DNI: 5161312
+Teléfono: 600002822
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

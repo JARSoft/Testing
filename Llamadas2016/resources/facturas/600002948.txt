@@ -1,0 +1,8 @@
+Cliente: SANTANA MENDEZ, MARGARITA
+DNI: 8614648
+Teléfono: 600002948
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

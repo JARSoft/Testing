@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ GALLARDO, JOSE MIGUEL
+DNI: 8927893
+Teléfono: 600002778
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

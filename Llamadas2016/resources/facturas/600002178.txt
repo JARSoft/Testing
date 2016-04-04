@@ -1,0 +1,8 @@
+Cliente: SAEZ GUTIERREZ, NATALIA
+DNI: 5064633
+Teléfono: 600002178
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

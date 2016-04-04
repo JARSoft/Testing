@@ -1,0 +1,8 @@
+Cliente: MOYA RAMIREZ, SONIA
+DNI: 7223414
+Teléfono: 600001446
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

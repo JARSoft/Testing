@@ -1,0 +1,8 @@
+Cliente: JIMENEZ ORTIZ, GONZALO
+DNI: 6088707
+Teléfono: 600000558
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

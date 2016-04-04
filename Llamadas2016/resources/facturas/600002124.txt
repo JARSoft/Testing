@@ -1,0 +1,8 @@
+Cliente: FERRER RAMIREZ, LUCIA
+DNI: 7436145
+Teléfono: 600002124
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

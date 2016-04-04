@@ -1,0 +1,8 @@
+Cliente: PASCUAL NUÑEZ, GREGORIO
+DNI: 5993545
+Teléfono: 600000326
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

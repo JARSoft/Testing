@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ SANZ, JUAN FRANCISCO
+DNI: 7973643
+Teléfono: 600001630
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

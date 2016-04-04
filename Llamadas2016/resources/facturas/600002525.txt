@@ -1,0 +1,8 @@
+Cliente: GARRIDO CALVO, JAVIER
+DNI: 6592824
+Teléfono: 600002525
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

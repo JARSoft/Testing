@@ -1,0 +1,8 @@
+Cliente: MONTERO DELGADO, SAMUEL
+DNI: 9294019
+Teléfono: 600000110
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GIL ORTIZ, IKER
+DNI: 7552028
+Teléfono: 600001760
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

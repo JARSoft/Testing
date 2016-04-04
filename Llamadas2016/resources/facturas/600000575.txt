@@ -1,0 +1,8 @@
+Cliente: PASCUAL MARTINEZ, MOHAMED
+DNI: 5090759
+Teléfono: 600000575
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

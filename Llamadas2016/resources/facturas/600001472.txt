@@ -1,0 +1,8 @@
+Cliente: GARCIA HERRERA, MARIA ANTONIA
+DNI: 7475921
+Teléfono: 600001472
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

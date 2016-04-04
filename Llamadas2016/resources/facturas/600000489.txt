@@ -1,0 +1,8 @@
+Cliente: CABRERA VEGA, JULIO
+DNI: 6875341
+Teléfono: 600000489
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

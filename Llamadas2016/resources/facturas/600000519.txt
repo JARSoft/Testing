@@ -1,0 +1,8 @@
+Cliente: ORTIZ MONTERO, FRANCISCO JAVIER
+DNI: 6032883
+Teléfono: 600000519
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CARMONA PASTOR, ALFONSO
+DNI: 7692534
+Teléfono: 600000609
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

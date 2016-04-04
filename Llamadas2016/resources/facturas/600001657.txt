@@ -1,0 +1,8 @@
+Cliente: FERRER MONTERO, ANA BELEN
+DNI: 5834921
+Teléfono: 600001657
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

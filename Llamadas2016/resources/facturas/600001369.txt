@@ -1,0 +1,8 @@
+Cliente: MUÑOZ GARRIDO, ANA
+DNI: 7147693
+Teléfono: 600001369
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

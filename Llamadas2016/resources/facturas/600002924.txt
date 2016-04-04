@@ -1,0 +1,8 @@
+Cliente: CABALLERO MARTINEZ, LAURA
+DNI: 7649225
+Teléfono: 600002924
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

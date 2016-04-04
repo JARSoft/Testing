@@ -1,0 +1,8 @@
+Cliente: CORTES FERRER, MARIA JOSEFA
+DNI: 5919788
+Teléfono: 600002770
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALVAREZ DOMINGUEZ, JUAN ANTONIO
+DNI: 8777824
+Teléfono: 600000210
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

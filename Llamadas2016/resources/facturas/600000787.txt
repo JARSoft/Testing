@@ -1,0 +1,8 @@
+Cliente: ALVAREZ GIMENEZ, PATRICIA
+DNI: 5178937
+Teléfono: 600000787
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RAMIREZ PARRA, JULIA
+DNI: 6927591
+Teléfono: 600002526
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

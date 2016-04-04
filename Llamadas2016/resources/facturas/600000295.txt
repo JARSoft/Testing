@@ -1,0 +1,8 @@
+Cliente: GALLEGO RODRIGUEZ, JOSE MARIA
+DNI: 8240273
+Teléfono: 600000295
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

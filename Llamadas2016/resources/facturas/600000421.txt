@@ -1,0 +1,8 @@
+Cliente: GONZALEZ ESTEBAN, IKER
+DNI: 8953160
+Teléfono: 600000421
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

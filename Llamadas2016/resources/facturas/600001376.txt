@@ -1,0 +1,8 @@
+Cliente: DIEZ GARCIA, AGUSTIN
+DNI: 8490084
+Teléfono: 600001376
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

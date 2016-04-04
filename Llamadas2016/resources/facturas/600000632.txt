@@ -1,0 +1,8 @@
+Cliente: GARCIA FUENTES, MARIA ROSA
+DNI: 6851243
+Teléfono: 600000632
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

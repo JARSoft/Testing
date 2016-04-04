@@ -1,0 +1,8 @@
+Cliente: DIEZ HERRERA, VICTORIA
+DNI: 8272668
+Teléfono: 600000867
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

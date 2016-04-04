@@ -1,0 +1,8 @@
+Cliente: SANTANA GIMENEZ, AURORA
+DNI: 6915268
+Teléfono: 600000271
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

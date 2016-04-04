@@ -1,0 +1,8 @@
+Cliente: ALVAREZ PEÑA, MARCOS
+DNI: 7441927
+Teléfono: 600001653
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

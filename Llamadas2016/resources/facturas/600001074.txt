@@ -1,0 +1,8 @@
+Cliente: PASCUAL SANTOS, JOSE ANTONIO
+DNI: 7997896
+Teléfono: 600001074
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

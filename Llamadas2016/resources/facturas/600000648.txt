@@ -1,0 +1,8 @@
+Cliente: DIAZ SERRANO, MARIA TERESA
+DNI: 5313383
+Teléfono: 600000648
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

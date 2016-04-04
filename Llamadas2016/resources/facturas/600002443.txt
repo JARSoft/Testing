@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ DELGADO, GREGORIO
+DNI: 8480494
+Teléfono: 600002443
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MORA GIL, CLAUDIA
+DNI: 8685934
+Teléfono: 600001292
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

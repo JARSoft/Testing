@@ -1,0 +1,8 @@
+Cliente: ROJAS SANTOS, XAVIER
+DNI: 9518226
+Teléfono: 600001434
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

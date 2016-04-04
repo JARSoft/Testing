@@ -1,0 +1,8 @@
+Cliente: PASCUAL SANZ, SANTIAGO
+DNI: 9393994
+Teléfono: 600001574
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

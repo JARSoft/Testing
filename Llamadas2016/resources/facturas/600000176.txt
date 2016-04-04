@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ ORTEGA, MOHAMED
+DNI: 8489115
+Teléfono: 600000176
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

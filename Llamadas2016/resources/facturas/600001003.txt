@@ -1,0 +1,8 @@
+Cliente: ALVAREZ PASTOR, CARLA
+DNI: 7655239
+Teléfono: 600001003
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

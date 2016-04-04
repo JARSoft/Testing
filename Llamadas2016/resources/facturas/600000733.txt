@@ -1,0 +1,8 @@
+Cliente: NAVARRO RUBIO, ROSA
+DNI: 6107287
+Teléfono: 600000733
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ CASTILLO, ALFONSO
+DNI: 5342400
+Teléfono: 600000238
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PEREZ GALLARDO, JOSE CARLOS
+DNI: 5024076
+Teléfono: 600001825
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

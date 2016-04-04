@@ -1,0 +1,8 @@
+Cliente: LEON HERRERA, PABLO
+DNI: 5810827
+Teléfono: 600001891
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

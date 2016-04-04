@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ RUBIO, ALFREDO
+DNI: 9023057
+Teléfono: 600001235
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

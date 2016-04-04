@@ -1,0 +1,8 @@
+Cliente: ROJAS LOZANO, JOSE RAMON
+DNI: 9436271
+Teléfono: 600000512
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

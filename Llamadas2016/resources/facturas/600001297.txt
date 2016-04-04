@@ -1,0 +1,8 @@
+Cliente: SANZ ALONSO, ROSARIO
+DNI: 6821522
+Teléfono: 600001297
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

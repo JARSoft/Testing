@@ -1,0 +1,8 @@
+Cliente: LEON VICENTE, JUAN LUIS
+DNI: 9163902
+Teléfono: 600001525
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

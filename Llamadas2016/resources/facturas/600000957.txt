@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ PEREZ, NURIA
+DNI: 9897650
+Teléfono: 600000957
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

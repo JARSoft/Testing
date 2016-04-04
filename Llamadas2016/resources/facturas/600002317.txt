@@ -1,0 +1,8 @@
+Cliente: AGUILAR DOMINGUEZ, AGUSTIN
+DNI: 5898843
+Teléfono: 600002317
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

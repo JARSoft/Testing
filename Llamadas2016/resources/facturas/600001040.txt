@@ -1,0 +1,8 @@
+Cliente: PEÑA VIDAL, ALBA
+DNI: 6862756
+Teléfono: 600001040
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GIMENEZ GALLEGO, ANA
+DNI: 6973757
+Teléfono: 600001322
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

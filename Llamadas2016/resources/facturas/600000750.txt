@@ -1,0 +1,8 @@
+Cliente: CRUZ TORRES, RAFAEL
+DNI: 6079059
+Teléfono: 600000750
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

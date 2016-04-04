@@ -1,0 +1,8 @@
+Cliente: GUERRERO SANTIAGO, OSCAR
+DNI: 6805395
+Teléfono: 600000913
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RUIZ PASTOR, DANIEL
+DNI: 8215432
+Teléfono: 600000669
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

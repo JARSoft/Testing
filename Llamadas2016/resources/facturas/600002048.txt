@@ -1,0 +1,8 @@
+Cliente: VIDAL MONTERO, INES
+DNI: 5667997
+Teléfono: 600002048
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

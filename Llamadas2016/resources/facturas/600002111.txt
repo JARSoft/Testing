@@ -1,0 +1,8 @@
+Cliente: MARQUEZ TORRES, JAIME
+DNI: 9494868
+Teléfono: 600002111
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

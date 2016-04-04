@@ -1,0 +1,8 @@
+Cliente: GUERRERO FLORES, BEATRIZ
+DNI: 7533454
+Teléfono: 600001876
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

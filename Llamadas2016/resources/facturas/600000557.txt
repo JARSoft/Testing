@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ IGLESIAS, JOSE RAMON
+DNI: 7519815
+Teléfono: 600000557
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

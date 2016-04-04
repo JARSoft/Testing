@@ -1,0 +1,8 @@
+Cliente: HIDALGO CAMPOS, MARIA JOSE
+DNI: 8460392
+Teléfono: 600000736
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

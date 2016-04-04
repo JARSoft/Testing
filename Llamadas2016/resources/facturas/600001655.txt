@@ -1,0 +1,8 @@
+Cliente: RAMOS GALLARDO, NATALIA
+DNI: 7850511
+Teléfono: 600001655
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

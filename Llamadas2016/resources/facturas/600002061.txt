@@ -1,0 +1,8 @@
+Cliente: MARTIN LOZANO, SARA
+DNI: 6179344
+Teléfono: 600002061
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

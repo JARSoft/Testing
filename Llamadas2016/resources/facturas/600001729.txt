@@ -1,0 +1,8 @@
+Cliente: GIL IBAÑEZ, FELIX
+DNI: 7966477
+Teléfono: 600001729
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

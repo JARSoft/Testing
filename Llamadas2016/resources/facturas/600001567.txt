@@ -1,0 +1,8 @@
+Cliente: MARTIN SANTIAGO, MARTIN
+DNI: 5473301
+Teléfono: 600001567
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

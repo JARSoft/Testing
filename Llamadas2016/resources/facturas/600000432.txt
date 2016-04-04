@@ -1,0 +1,8 @@
+Cliente: HIDALGO FERNANDEZ, MARIA
+DNI: 5507014
+Teléfono: 600000432
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

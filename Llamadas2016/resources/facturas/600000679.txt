@@ -1,0 +1,8 @@
+Cliente: PARRA MOYA, ALICIA
+DNI: 7778715
+Teléfono: 600000679
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: FERNANDEZ VEGA, MERCEDES
+DNI: 9533025
+Teléfono: 600002626
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

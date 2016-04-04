@@ -1,0 +1,8 @@
+Cliente: PEÑA GOMEZ, ANGEL
+DNI: 8738242
+Teléfono: 600001440
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

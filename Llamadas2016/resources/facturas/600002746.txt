@@ -1,0 +1,8 @@
+Cliente: SAEZ DURAN, MARIA MAR
+DNI: 6588275
+Teléfono: 600002746
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

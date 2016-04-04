@@ -1,0 +1,8 @@
+Cliente: HIDALGO DELGADO, MARC
+DNI: 8773362
+Teléfono: 600000931
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

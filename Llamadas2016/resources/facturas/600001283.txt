@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ CABRERA, JULIA
+DNI: 6305465
+Teléfono: 600001283
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

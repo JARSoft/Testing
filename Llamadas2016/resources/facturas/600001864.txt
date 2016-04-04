@@ -1,0 +1,8 @@
+Cliente: ORTEGA MUÑOZ, ALBA
+DNI: 8655533
+Teléfono: 600001864
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

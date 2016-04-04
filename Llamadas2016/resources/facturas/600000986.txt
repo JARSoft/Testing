@@ -1,0 +1,8 @@
+Cliente: GARCIA MOYA, MARIA JOSE
+DNI: 6349967
+Teléfono: 600000986
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

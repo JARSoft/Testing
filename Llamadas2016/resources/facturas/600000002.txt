@@ -1,0 +1,8 @@
+Cliente: HERRERA ORTEGA, VERONICA
+DNI: 9052917
+Teléfono: 600000002
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

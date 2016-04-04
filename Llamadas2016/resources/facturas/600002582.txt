@@ -1,0 +1,8 @@
+Cliente: JIMENEZ GIL, JAVIER
+DNI: 5197967
+Teléfono: 600002582
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

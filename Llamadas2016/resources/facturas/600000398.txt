@@ -1,0 +1,8 @@
+Cliente: SANTOS LOPEZ, DIEGO
+DNI: 8038024
+Teléfono: 600000398
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

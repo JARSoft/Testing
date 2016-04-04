@@ -1,0 +1,8 @@
+Cliente: GARCIA PASCUAL, RAFAEL
+DNI: 5678561
+Teléfono: 600001709
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

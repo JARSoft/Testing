@@ -1,0 +1,8 @@
+Cliente: MARQUEZ VAZQUEZ, GABRIEL
+DNI: 6095741
+Teléfono: 600001796
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALONSO FLORES, ALBERTO
+DNI: 5093592
+Teléfono: 600002850
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

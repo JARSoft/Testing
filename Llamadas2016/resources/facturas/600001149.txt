@@ -1,0 +1,8 @@
+Cliente: LORENZO ALONSO, SUSANA
+DNI: 8786194
+Teléfono: 600001149
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

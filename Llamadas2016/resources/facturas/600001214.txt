@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ ESTEBAN, LIDIA
+DNI: 5095849
+Teléfono: 600001214
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DURAN SANCHEZ, EDUARDO
+DNI: 8067513
+Teléfono: 600001299
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

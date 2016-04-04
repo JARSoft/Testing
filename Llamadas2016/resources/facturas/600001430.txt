@@ -1,0 +1,8 @@
+Cliente: VICENTE CASTRO, GABRIEL
+DNI: 5359089
+Teléfono: 600001430
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

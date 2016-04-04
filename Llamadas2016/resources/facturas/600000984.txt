@@ -1,0 +1,8 @@
+Cliente: ALVAREZ GARCIA, FRANCISCO JAVIER
+DNI: 6475538
+Teléfono: 600000984
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ MARIN, ROSA
+DNI: 6284414
+Teléfono: 600002056
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

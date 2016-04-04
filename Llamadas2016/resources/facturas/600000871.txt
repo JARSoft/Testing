@@ -1,0 +1,8 @@
+Cliente: SANZ REYES, LUIS MIGUEL
+DNI: 6394178
+Teléfono: 600000871
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALVAREZ SAEZ, MARIA PILAR
+DNI: 5947864
+Teléfono: 600000684
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

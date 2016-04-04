@@ -1,0 +1,8 @@
+Cliente: MORALES MORA, LUIS
+DNI: 6031359
+Teléfono: 600000865
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PASTOR DELGADO, RODRIGO
+DNI: 9503147
+Teléfono: 600002000
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

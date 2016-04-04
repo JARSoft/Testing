@@ -1,0 +1,8 @@
+Cliente: SOLER GALLEGO, LUISA
+DNI: 5984212
+Teléfono: 600001287
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

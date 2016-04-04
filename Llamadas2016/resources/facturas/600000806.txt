@@ -1,0 +1,8 @@
+Cliente: CASTRO DIEZ, OLGA
+DNI: 7937237
+Teléfono: 600000806
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

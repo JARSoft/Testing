@@ -1,0 +1,8 @@
+Cliente: PRIETO ESTEBAN, JOAQUIN
+DNI: 8349403
+Teléfono: 600000951
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

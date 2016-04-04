@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ PRIETO, ALEX
+DNI: 6240671
+Teléfono: 600000889
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

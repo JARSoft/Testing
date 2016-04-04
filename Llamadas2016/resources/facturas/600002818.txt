@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ VICENTE, DANIEL
+DNI: 8587197
+Teléfono: 600002818
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

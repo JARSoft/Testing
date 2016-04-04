@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ HERRERA, HECTOR
+DNI: 9819010
+Teléfono: 600001195
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

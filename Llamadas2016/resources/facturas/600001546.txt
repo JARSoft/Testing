@@ -1,0 +1,8 @@
+Cliente: VICENTE ALONSO, JOSE ANGEL
+DNI: 9765971
+Teléfono: 600001546
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

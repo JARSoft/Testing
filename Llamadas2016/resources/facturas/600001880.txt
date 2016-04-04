@@ -1,0 +1,8 @@
+Cliente: CALVO PRIETO, NOELIA
+DNI: 8346269
+Teléfono: 600001880
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

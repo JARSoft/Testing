@@ -1,0 +1,8 @@
+Cliente: RUBIO FLORES, AMPARO
+DNI: 5135113
+Teléfono: 600002839
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

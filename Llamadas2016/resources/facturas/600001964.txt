@@ -1,0 +1,8 @@
+Cliente: SUAREZ VIDAL, PAULA
+DNI: 9515758
+Teléfono: 600001964
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

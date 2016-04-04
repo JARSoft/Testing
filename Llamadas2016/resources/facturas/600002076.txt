@@ -1,0 +1,8 @@
+Cliente: ESTEBAN LOPEZ, EMILIO
+DNI: 8809575
+Teléfono: 600002076
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

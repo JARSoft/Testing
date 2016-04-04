@@ -1,0 +1,8 @@
+Cliente: VEGA IBAÑEZ, NATALIA
+DNI: 9317392
+Teléfono: 600000820
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

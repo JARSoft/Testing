@@ -1,0 +1,8 @@
+Cliente: SANCHEZ FERRER, ENCARNACION
+DNI: 6950689
+Teléfono: 600002057
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

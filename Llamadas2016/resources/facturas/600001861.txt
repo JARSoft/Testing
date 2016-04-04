@@ -1,0 +1,8 @@
+Cliente: RUIZ VIDAL, GUILLERMO
+DNI: 6076596
+Teléfono: 600001861
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

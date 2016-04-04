@@ -1,0 +1,8 @@
+Cliente: MUÑOZ DOMINGUEZ, PILAR
+DNI: 5922389
+Teléfono: 600000956
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

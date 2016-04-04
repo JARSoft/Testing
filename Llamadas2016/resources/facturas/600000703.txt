@@ -1,0 +1,8 @@
+Cliente: PARRA ROJAS, MARIA NIEVES
+DNI: 7458997
+Teléfono: 600000703
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

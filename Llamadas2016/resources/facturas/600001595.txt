@@ -1,0 +1,8 @@
+Cliente: GONZALEZ CABRERA, VICTOR
+DNI: 8264032
+Teléfono: 600001595
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

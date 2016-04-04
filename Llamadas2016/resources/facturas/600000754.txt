@@ -1,0 +1,8 @@
+Cliente: GARRIDO PRIETO, OSCAR
+DNI: 7859042
+Teléfono: 600000754
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

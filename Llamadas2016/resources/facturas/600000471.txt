@@ -1,0 +1,8 @@
+Cliente: PASCUAL CRUZ, CARMEN
+DNI: 9732738
+Teléfono: 600000471
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

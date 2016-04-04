@@ -1,0 +1,8 @@
+Cliente: GIMENEZ CORTES, MARTA
+DNI: 6056029
+Teléfono: 600002237
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

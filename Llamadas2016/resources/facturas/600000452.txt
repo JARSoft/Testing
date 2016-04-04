@@ -1,0 +1,8 @@
+Cliente: HIDALGO CRUZ, NURIA
+DNI: 9839263
+Teléfono: 600000452
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

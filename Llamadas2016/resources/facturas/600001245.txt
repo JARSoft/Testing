@@ -1,0 +1,8 @@
+Cliente: MOYA SANZ, FRANCISCO JOSE
+DNI: 5819640
+Teléfono: 600001245
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

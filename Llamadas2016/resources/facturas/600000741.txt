@@ -1,0 +1,8 @@
+Cliente: MARTINEZ LOZANO, ENRIQUE
+DNI: 9482178
+Teléfono: 600000741
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

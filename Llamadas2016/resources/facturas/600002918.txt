@@ -1,0 +1,8 @@
+Cliente: CANO SUAREZ, MARIA ROSA
+DNI: 9347915
+Teléfono: 600002918
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

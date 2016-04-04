@@ -1,0 +1,8 @@
+Cliente: PEREZ RAMOS, JOSE
+DNI: 8212719
+Teléfono: 600000127
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

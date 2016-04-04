@@ -1,0 +1,8 @@
+Cliente: ARIAS ESTEBAN, IKER
+DNI: 9898511
+Teléfono: 600002586
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

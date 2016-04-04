@@ -1,0 +1,8 @@
+Cliente: IGLESIAS HERRERA, ANA ISABEL
+DNI: 7778971
+Teléfono: 600001130
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

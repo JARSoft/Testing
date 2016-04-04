@@ -1,0 +1,8 @@
+Cliente: CASTRO PEREZ, PATRICIA
+DNI: 6130810
+Teléfono: 600001080
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

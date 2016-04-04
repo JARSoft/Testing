@@ -1,0 +1,8 @@
+Cliente: CAMPOS MORA, JOSEFINA
+DNI: 7377202
+Teléfono: 600001167
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

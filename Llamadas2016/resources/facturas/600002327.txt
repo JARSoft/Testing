@@ -1,0 +1,8 @@
+Cliente: CABRERA DELGADO, INES
+DNI: 9083792
+Teléfono: 600002327
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

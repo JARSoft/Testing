@@ -1,0 +1,8 @@
+Cliente: LOZANO MARTIN, MARIA PILAR
+DNI: 6476106
+Teléfono: 600000253
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CRUZ HERRERA, ADRIAN
+DNI: 9282400
+Teléfono: 600002454
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

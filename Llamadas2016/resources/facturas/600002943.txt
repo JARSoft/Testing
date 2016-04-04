@@ -1,0 +1,8 @@
+Cliente: SAEZ FERNANDEZ, MARIA CRISTINA
+DNI: 7685643
+Teléfono: 600002943
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: LEON MOLINA, JOSE FRANCISCO
+DNI: 9926615
+Teléfono: 600002536
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

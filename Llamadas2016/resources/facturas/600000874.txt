@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ PEREZ, FRANCISCO JOSE
+DNI: 6985909
+Teléfono: 600000874
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

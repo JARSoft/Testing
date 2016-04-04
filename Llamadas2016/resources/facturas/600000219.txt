@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ SANTOS, GABRIEL
+DNI: 6283192
+Teléfono: 600000219
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

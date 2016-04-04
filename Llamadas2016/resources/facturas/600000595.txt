@@ -1,0 +1,8 @@
+Cliente: PEREZ GOMEZ, ROSARIO
+DNI: 6958832
+Teléfono: 600000595
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

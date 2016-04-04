@@ -1,0 +1,8 @@
+Cliente: SOTO CABALLERO, ANTONIA
+DNI: 8197318
+Teléfono: 600000705
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

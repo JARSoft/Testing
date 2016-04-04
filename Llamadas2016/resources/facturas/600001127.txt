@@ -1,0 +1,8 @@
+Cliente: NUÑEZ SANCHEZ, JOSE IGNACIO
+DNI: 7535058
+Teléfono: 600001127
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

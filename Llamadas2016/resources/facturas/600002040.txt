@@ -1,0 +1,8 @@
+Cliente: CARMONA VARGAS, ALICIA
+DNI: 8448776
+Teléfono: 600002040
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: FUENTES SOTO, PILAR
+DNI: 5344527
+Teléfono: 600000844
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PARRA GARCIA, JOSE LUIS
+DNI: 7787998
+Teléfono: 600001490
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

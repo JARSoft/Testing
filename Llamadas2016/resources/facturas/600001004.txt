@@ -1,0 +1,8 @@
+Cliente: RAMOS CRESPO, DAVID
+DNI: 6182948
+Teléfono: 600001004
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

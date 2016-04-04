@@ -1,0 +1,8 @@
+Cliente: GUERRERO GUERRERO, LUCIA
+DNI: 8441357
+Teléfono: 600001914
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

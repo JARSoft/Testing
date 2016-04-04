@@ -1,0 +1,8 @@
+Cliente: LORENZO SERRANO, JOSE MARIA
+DNI: 5835443
+Teléfono: 600000970
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

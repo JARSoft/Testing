@@ -1,0 +1,8 @@
+Cliente: ROMAN MUÑOZ, SILVIA
+DNI: 7401509
+Teléfono: 600000700
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

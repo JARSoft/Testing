@@ -1,0 +1,8 @@
+Cliente: PASTOR ORTEGA, PEDRO
+DNI: 6978490
+Teléfono: 600001309
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

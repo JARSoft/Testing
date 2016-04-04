@@ -1,0 +1,8 @@
+Cliente: ORTIZ CRESPO, SAMUEL
+DNI: 8808740
+Teléfono: 600002970
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

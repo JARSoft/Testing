@@ -1,0 +1,8 @@
+Cliente: LEON MARTIN, JUAN LUIS
+DNI: 6855946
+Teléfono: 600001202
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

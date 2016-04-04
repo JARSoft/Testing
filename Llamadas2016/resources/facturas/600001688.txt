@@ -1,0 +1,8 @@
+Cliente: MOYA GIL, MARTA
+DNI: 9848870
+Teléfono: 600001688
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

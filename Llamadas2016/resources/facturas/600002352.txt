@@ -1,0 +1,8 @@
+Cliente: AGUILAR ORTIZ, PABLO
+DNI: 9529136
+Teléfono: 600002352
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

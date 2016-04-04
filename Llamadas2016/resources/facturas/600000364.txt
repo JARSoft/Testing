@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ CABALLERO, VICENTE
+DNI: 8228368
+Teléfono: 600000364
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

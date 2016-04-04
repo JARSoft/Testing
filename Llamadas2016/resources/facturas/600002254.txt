@@ -1,0 +1,8 @@
+Cliente: TORRES MENDEZ, MANUELA
+DNI: 5900577
+Teléfono: 600002254
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

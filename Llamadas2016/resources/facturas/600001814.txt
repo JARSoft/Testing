@@ -1,0 +1,8 @@
+Cliente: CABRERA ROJAS, SANDRA
+DNI: 7571932
+Teléfono: 600001814
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

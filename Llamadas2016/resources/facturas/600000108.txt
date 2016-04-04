@@ -1,0 +1,8 @@
+Cliente: CABRERA MARTIN, LORENA
+DNI: 5794542
+Teléfono: 600000108
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

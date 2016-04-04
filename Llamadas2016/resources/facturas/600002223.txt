@@ -1,0 +1,8 @@
+Cliente: MORENO GARCIA, SAMUEL
+DNI: 5757833
+Teléfono: 600002223
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

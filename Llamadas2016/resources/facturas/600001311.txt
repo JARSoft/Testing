@@ -1,0 +1,8 @@
+Cliente: LORENZO CARMONA, SONIA
+DNI: 9080155
+Teléfono: 600001311
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

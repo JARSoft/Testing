@@ -1,0 +1,8 @@
+Cliente: SOLER HERNANDEZ, EMILIA
+DNI: 6026301
+Teléfono: 600002233
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

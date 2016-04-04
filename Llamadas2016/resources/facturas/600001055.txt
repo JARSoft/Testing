@@ -1,0 +1,8 @@
+Cliente: MOYA IGLESIAS, AURORA
+DNI: 6890294
+Teléfono: 600001055
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

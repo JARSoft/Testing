@@ -1,0 +1,8 @@
+Cliente: NUÑEZ FLORES, XAVIER
+DNI: 9103180
+Teléfono: 600000690
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIEZ MOYA, MARIA DOLORES
+DNI: 5965084
+Teléfono: 600000335
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

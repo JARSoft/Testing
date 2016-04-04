@@ -1,0 +1,8 @@
+Cliente: CARMONA ALONSO, MARCOS
+DNI: 7934601
+Teléfono: 600000472
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

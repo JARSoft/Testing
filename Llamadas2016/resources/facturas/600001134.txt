@@ -1,0 +1,8 @@
+Cliente: GALLEGO SANZ, DOMINGO
+DNI: 6404342
+Teléfono: 600001134
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

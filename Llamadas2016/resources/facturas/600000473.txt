@@ -1,0 +1,8 @@
+Cliente: SERRANO MONTERO, MARIA TERESA
+DNI: 5168993
+Teléfono: 600000473
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

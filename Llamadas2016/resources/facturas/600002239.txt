@@ -1,0 +1,8 @@
+Cliente: ROMERO CABALLERO, MARGARITA
+DNI: 9329896
+Teléfono: 600002239
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

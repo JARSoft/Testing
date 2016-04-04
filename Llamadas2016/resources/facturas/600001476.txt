@@ -1,0 +1,8 @@
+Cliente: MORA MUÑOZ, RICARDO
+DNI: 8144367
+Teléfono: 600001476
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

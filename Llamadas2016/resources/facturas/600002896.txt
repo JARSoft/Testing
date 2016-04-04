@@ -1,0 +1,8 @@
+Cliente: CABRERA CRUZ, JORDI
+DNI: 7295380
+Teléfono: 600002896
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: IGLESIAS GUTIERREZ, JUAN CARLOS
+DNI: 6884163
+Teléfono: 600000329
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

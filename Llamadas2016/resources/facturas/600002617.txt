@@ -1,0 +1,8 @@
+Cliente: GONZALEZ CASTRO, MARIO
+DNI: 8531248
+Teléfono: 600002617
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

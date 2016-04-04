@@ -1,0 +1,8 @@
+Cliente: CAMPOS CARMONA, EVA MARIA
+DNI: 7036470
+Teléfono: 600002153
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

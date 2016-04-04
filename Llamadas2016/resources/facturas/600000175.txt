@@ -1,0 +1,8 @@
+Cliente: SOTO SANCHEZ, NURIA
+DNI: 7750569
+Teléfono: 600000175
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PASTOR CASTRO, FRANCISCO JAVIER
+DNI: 7738252
+Teléfono: 600000097
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

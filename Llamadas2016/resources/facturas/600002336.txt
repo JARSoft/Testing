@@ -1,0 +1,8 @@
+Cliente: MOYA DURAN, MOHAMED
+DNI: 5280640
+Teléfono: 600002336
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

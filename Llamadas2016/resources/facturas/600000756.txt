@@ -1,0 +1,8 @@
+Cliente: GIL ARIAS, JULIAN
+DNI: 5559556
+Teléfono: 600000756
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

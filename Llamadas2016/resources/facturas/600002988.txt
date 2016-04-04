@@ -1,0 +1,8 @@
+Cliente: CALVO HERNANDEZ, VERONICA
+DNI: 5559763
+Teléfono: 600002988
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

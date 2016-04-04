@@ -1,0 +1,8 @@
+Cliente: RAMIREZ ALVAREZ, JULIO
+DNI: 9834786
+Teléfono: 600001659
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

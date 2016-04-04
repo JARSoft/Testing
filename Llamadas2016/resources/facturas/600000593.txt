@@ -1,0 +1,8 @@
+Cliente: GIL SANZ, CONCEPCION
+DNI: 6625454
+Teléfono: 600000593
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

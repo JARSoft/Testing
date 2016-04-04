@@ -1,0 +1,8 @@
+Cliente: REYES SANZ, ALEX
+DNI: 9846655
+Teléfono: 600002240
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

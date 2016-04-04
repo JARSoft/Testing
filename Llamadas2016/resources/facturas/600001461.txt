@@ -1,0 +1,8 @@
+Cliente: VIDAL SANTOS, XAVIER
+DNI: 5740115
+Teléfono: 600001461
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

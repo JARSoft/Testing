@@ -1,0 +1,8 @@
+Cliente: DIEZ CASTRO, ALBERTO
+DNI: 9749213
+Teléfono: 600001588
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

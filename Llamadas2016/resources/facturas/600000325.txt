@@ -1,0 +1,8 @@
+Cliente: SANTANA DIEZ, CONSUELO
+DNI: 8677114
+Teléfono: 600000325
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

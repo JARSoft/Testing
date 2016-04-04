@@ -1,0 +1,8 @@
+Cliente: RUIZ CASTILLO, PAULA
+DNI: 7969488
+Teléfono: 600002100
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

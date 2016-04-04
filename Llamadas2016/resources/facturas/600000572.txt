@@ -1,0 +1,8 @@
+Cliente: HERRERA FLORES, MONICA
+DNI: 8057988
+Teléfono: 600000572
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

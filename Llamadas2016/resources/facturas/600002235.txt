@@ -1,0 +1,8 @@
+Cliente: GALLARDO SOTO, CARLA
+DNI: 9346646
+Teléfono: 600002235
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

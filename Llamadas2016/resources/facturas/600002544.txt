@@ -1,0 +1,8 @@
+Cliente: DELGADO DOMINGUEZ, VICTOR MANUEL
+DNI: 8574869
+Teléfono: 600002544
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

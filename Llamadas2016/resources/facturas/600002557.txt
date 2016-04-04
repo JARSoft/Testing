@@ -1,0 +1,8 @@
+Cliente: NAVARRO RAMIREZ, DOMINGO
+DNI: 6739597
+Teléfono: 600002557
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

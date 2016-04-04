@@ -1,0 +1,8 @@
+Cliente: MOLINA DIEZ, MARC
+DNI: 8191582
+Teléfono: 600001439
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

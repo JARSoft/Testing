@@ -1,0 +1,8 @@
+Cliente: SANTIAGO ARIAS, ANGELA
+DNI: 8772033
+Teléfono: 600001486
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

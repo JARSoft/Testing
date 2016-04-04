@@ -1,0 +1,8 @@
+Cliente: MENDEZ FERNANDEZ, ELENA
+DNI: 5062479
+Teléfono: 600000780
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

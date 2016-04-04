@@ -1,0 +1,8 @@
+Cliente: PASCUAL NAVARRO, MARGARITA
+DNI: 9964466
+Teléfono: 600002859
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

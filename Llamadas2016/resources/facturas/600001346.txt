@@ -1,0 +1,8 @@
+Cliente: GIMENEZ GARCIA, MARIA NIEVES
+DNI: 7747877
+Teléfono: 600001346
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

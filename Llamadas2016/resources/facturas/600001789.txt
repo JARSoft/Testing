@@ -1,0 +1,8 @@
+Cliente: FUENTES CORTES, ANA
+DNI: 5771965
+Teléfono: 600001789
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CANO FERRER, RAFAEL
+DNI: 9694993
+Teléfono: 600000362
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

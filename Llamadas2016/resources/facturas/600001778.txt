@@ -1,0 +1,8 @@
+Cliente: VARGAS MEDINA, ROSA MARIA
+DNI: 5123387
+Teléfono: 600001778
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ROMAN ORTIZ, FELIX
+DNI: 6895820
+Teléfono: 600001426
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

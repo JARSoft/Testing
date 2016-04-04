@@ -1,0 +1,8 @@
+Cliente: DELGADO ALVAREZ, XAVIER
+DNI: 9997405
+Teléfono: 600000026
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

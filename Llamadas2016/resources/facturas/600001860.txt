@@ -1,0 +1,8 @@
+Cliente: FLORES GALLARDO, ANDRES
+DNI: 9269347
+Teléfono: 600001860
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

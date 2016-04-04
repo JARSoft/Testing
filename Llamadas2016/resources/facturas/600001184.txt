@@ -1,0 +1,8 @@
+Cliente: SAEZ HERRERO, MIGUEL
+DNI: 8423950
+Teléfono: 600001184
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

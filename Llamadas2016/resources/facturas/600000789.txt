@@ -1,0 +1,8 @@
+Cliente: LORENZO PARRA, DAVID
+DNI: 7519921
+Teléfono: 600000789
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

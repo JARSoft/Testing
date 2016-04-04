@@ -1,0 +1,8 @@
+Cliente: ROJAS GARRIDO, JULIO
+DNI: 6453824
+Teléfono: 600001923
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

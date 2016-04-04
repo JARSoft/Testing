@@ -1,0 +1,8 @@
+Cliente: MORA DELGADO, JOSE MANUEL
+DNI: 5069957
+Teléfono: 600000479
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

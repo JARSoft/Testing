@@ -1,0 +1,8 @@
+Cliente: GONZALEZ PRIETO, CARLOS
+DNI: 9543155
+Teléfono: 600002225
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

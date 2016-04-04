@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ GARCIA, OSCAR
+DNI: 8209101
+Teléfono: 600000831
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

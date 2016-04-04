@@ -1,0 +1,8 @@
+Cliente: PRIETO CABALLERO, ROBERTO
+DNI: 8400728
+Teléfono: 600000486
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

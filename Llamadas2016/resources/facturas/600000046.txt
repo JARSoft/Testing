@@ -1,0 +1,8 @@
+Cliente: MARTINEZ IGLESIAS, EMILIA
+DNI: 8423282
+Teléfono: 600000046
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

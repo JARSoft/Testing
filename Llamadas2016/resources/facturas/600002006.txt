@@ -1,0 +1,8 @@
+Cliente: ORTEGA CALVO, DANIEL
+DNI: 5233466
+Teléfono: 600002006
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

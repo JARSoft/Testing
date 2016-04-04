@@ -1,0 +1,8 @@
+Cliente: FLORES SUAREZ, MARIO
+DNI: 9643677
+Teléfono: 600001219
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

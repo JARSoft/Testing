@@ -1,0 +1,8 @@
+Cliente: BRAVO VICENTE, FRANCISCO JAVIER
+DNI: 5733151
+Teléfono: 600001321
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

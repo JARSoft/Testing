@@ -1,0 +1,8 @@
+Cliente: LORENZO LOZANO, ANGEL
+DNI: 7419751
+Teléfono: 600001638
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

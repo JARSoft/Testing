@@ -1,0 +1,8 @@
+Cliente: CALVO GARCIA, MARIA ELENA
+DNI: 9264115
+Teléfono: 600002063
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CALVO CABRERA, GUILLERMO
+DNI: 5076112
+Teléfono: 600002118
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RUIZ HERRERO, FELIPE
+DNI: 7181035
+Teléfono: 600000358
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

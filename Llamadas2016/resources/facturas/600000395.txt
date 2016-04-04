@@ -1,0 +1,8 @@
+Cliente: GUERRERO ARIAS, ANA
+DNI: 9204510
+Teléfono: 600000395
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

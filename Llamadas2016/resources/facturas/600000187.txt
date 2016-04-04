@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ CORTES, JOSE ANGEL
+DNI: 5581654
+Teléfono: 600000187
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

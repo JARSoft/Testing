@@ -1,0 +1,8 @@
+Cliente: SANTANA VAZQUEZ, ENCARNACION
+DNI: 8050275
+Teléfono: 600001686
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

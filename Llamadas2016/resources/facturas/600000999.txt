@@ -1,0 +1,8 @@
+Cliente: SAEZ HIDALGO, VICENTE
+DNI: 6578062
+Teléfono: 600000999
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

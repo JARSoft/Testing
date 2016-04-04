@@ -1,0 +1,8 @@
+Cliente: MARTIN CARRASCO, PAULA
+DNI: 7328762
+Teléfono: 600001724
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

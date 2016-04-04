@@ -1,0 +1,8 @@
+Cliente: CARMONA PRIETO, JUAN MANUEL
+DNI: 6851783
+Teléfono: 600002597
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

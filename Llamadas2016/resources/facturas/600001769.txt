@@ -1,0 +1,8 @@
+Cliente: CARMONA ARIAS, PILAR
+DNI: 6792537
+Teléfono: 600001769
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

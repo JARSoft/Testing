@@ -1,0 +1,8 @@
+Cliente: MENDEZ GONZALEZ, IGNACIO
+DNI: 8559729
+Teléfono: 600002043
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

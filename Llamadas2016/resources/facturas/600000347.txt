@@ -1,0 +1,8 @@
+Cliente: CAMPOS CARMONA, LORENA
+DNI: 7635858
+Teléfono: 600000347
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

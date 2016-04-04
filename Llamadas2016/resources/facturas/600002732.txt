@@ -1,0 +1,8 @@
+Cliente: DELGADO IGLESIAS, MANUEL
+DNI: 8962724
+Teléfono: 600002732
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

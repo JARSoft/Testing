@@ -1,0 +1,8 @@
+Cliente: PRIETO CAMPOS, JOSE IGNACIO
+DNI: 8825065
+Teléfono: 600002691
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

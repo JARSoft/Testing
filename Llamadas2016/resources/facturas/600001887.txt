@@ -1,0 +1,8 @@
+Cliente: GIL ALVAREZ, MARIA JOSEFA
+DNI: 8595298
+Teléfono: 600001887
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

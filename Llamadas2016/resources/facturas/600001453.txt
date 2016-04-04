@@ -1,0 +1,8 @@
+Cliente: BRAVO ROJAS, MANUELA
+DNI: 5913904
+Teléfono: 600001453
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

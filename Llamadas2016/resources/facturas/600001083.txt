@@ -1,0 +1,8 @@
+Cliente: DIEZ HERRERO, MARIA SOLEDAD
+DNI: 9890800
+Teléfono: 600001083
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

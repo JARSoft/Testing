@@ -1,0 +1,8 @@
+Cliente: DIAZ DURAN, MILAGROS
+DNI: 9569142
+Teléfono: 600000435
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

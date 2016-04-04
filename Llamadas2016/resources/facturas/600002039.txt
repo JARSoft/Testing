@@ -1,0 +1,8 @@
+Cliente: AGUILAR MENDEZ, JUAN ANTONIO
+DNI: 9827901
+Teléfono: 600002039
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

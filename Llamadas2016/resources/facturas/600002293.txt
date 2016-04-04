@@ -1,0 +1,8 @@
+Cliente: MENDEZ RAMOS, AITOR
+DNI: 7257030
+Teléfono: 600002293
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DURAN LEON, JULIA
+DNI: 5245317
+Teléfono: 600002977
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

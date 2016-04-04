@@ -1,0 +1,8 @@
+Cliente: NUÑEZ VARGAS, JOSE CARLOS
+DNI: 8811105
+Teléfono: 600001276
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

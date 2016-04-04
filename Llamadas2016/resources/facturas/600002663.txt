@@ -1,0 +1,8 @@
+Cliente: MORENO DOMINGUEZ, NICOLAS
+DNI: 7912621
+Teléfono: 600002663
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

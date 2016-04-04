@@ -1,0 +1,8 @@
+Cliente: BRAVO IGLESIAS, MARIA MAR
+DNI: 9759776
+Teléfono: 600000369
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

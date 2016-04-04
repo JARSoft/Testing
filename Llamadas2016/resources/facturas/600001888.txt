@@ -1,0 +1,8 @@
+Cliente: RAMIREZ RUBIO, EMILIO
+DNI: 8315377
+Teléfono: 600001888
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

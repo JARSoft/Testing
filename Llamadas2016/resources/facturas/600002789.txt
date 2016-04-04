@@ -1,0 +1,8 @@
+Cliente: PASCUAL GIMENEZ, SARA
+DNI: 6368251
+Teléfono: 600002789
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

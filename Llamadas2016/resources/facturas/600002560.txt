@@ -1,0 +1,8 @@
+Cliente: GONZALEZ AGUILAR, MILAGROS
+DNI: 6320757
+Teléfono: 600002560
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

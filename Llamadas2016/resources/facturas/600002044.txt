@@ -1,0 +1,8 @@
+Cliente: VEGA SOTO, ISMAEL
+DNI: 9081031
+Teléfono: 600002044
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

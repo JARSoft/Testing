@@ -1,0 +1,8 @@
+Cliente: CALVO CORTES, JOSE FRANCISCO
+DNI: 8069421
+Teléfono: 600000446
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CASTRO VARGAS, ROSA
+DNI: 6457446
+Teléfono: 600001858
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

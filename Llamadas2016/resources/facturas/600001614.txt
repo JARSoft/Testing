@@ -1,0 +1,8 @@
+Cliente: CABRERA BENITEZ, JULIAN
+DNI: 8113518
+Teléfono: 600001614
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

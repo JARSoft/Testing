@@ -1,0 +1,8 @@
+Cliente: NIETO VAZQUEZ, JOSE IGNACIO
+DNI: 8561129
+Teléfono: 600000943
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

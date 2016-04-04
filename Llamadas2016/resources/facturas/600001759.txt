@@ -1,0 +1,8 @@
+Cliente: LEON CAMPOS, NICOLAS
+DNI: 9748687
+Teléfono: 600001759
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

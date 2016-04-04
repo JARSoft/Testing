@@ -1,0 +1,8 @@
+Cliente: GOMEZ MOLINA, CARLA
+DNI: 7725511
+Teléfono: 600001899
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

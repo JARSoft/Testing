@@ -1,0 +1,8 @@
+Cliente: CORTES CRESPO, CARLOS
+DNI: 9165842
+Teléfono: 600002975
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

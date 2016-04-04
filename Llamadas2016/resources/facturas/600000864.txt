@@ -1,0 +1,8 @@
+Cliente: SERRANO GALLARDO, SILVIA
+DNI: 7996294
+Teléfono: 600000864
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

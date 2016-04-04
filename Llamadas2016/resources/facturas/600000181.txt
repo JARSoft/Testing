@@ -1,0 +1,8 @@
+Cliente: MEDINA IGLESIAS, IGNACIO
+DNI: 7113463
+Teléfono: 600000181
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

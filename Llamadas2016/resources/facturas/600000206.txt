@@ -1,0 +1,8 @@
+Cliente: GONZALEZ PASCUAL, MARIA TERESA
+DNI: 5018334
+Teléfono: 600000206
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RUBIO SANTANA, HECTOR
+DNI: 9163625
+Teléfono: 600000407
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

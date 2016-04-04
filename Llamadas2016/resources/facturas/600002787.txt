@@ -1,0 +1,8 @@
+Cliente: MORENO DOMINGUEZ, AITOR
+DNI: 7537561
+Teléfono: 600002787
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: LORENZO MARIN, MONTSERRAT
+DNI: 8589823
+Teléfono: 600002071
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NIETO DOMINGUEZ, JESUS
+DNI: 6364270
+Teléfono: 600002957
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIAZ MENDEZ, LUCIA
+DNI: 9479798
+Teléfono: 600000170
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

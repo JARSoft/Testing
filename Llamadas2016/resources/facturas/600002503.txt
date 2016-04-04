@@ -1,0 +1,8 @@
+Cliente: NIETO RUBIO, ALBERT
+DNI: 7267876
+Teléfono: 600002503
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SOTO LOPEZ, DAVID
+DNI: 7103000
+Teléfono: 600002766
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

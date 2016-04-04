@@ -1,0 +1,8 @@
+Cliente: MORALES GALLARDO, CAROLINA
+DNI: 5974896
+Teléfono: 600000130
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

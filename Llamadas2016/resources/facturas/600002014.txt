@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ VARGAS, MARIA TERESA
+DNI: 7891782
+Teléfono: 600002014
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

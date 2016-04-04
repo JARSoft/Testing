@@ -1,0 +1,8 @@
+Cliente: ORTIZ PEÑA, MARIA CONCEPCION
+DNI: 6960121
+Teléfono: 600001834
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

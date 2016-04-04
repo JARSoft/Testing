@@ -1,0 +1,8 @@
+Cliente: PARRA VIDAL, JULIAN
+DNI: 9381105
+Teléfono: 600001048
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

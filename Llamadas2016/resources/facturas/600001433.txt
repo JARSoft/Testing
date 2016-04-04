@@ -1,0 +1,8 @@
+Cliente: DURAN MOLINA, EDUARDO
+DNI: 8840285
+Teléfono: 600001433
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

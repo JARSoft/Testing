@@ -1,0 +1,8 @@
+Cliente: MORENO RAMOS, MONTSERRAT
+DNI: 5620448
+Teléfono: 600001900
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

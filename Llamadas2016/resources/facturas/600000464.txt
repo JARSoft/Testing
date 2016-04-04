@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ MOYA, JOSE MIGUEL
+DNI: 7198151
+Teléfono: 600000464
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIEZ GUTIERREZ, ANTONIA
+DNI: 9700936
+Teléfono: 600001212
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

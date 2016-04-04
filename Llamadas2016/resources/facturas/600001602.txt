@@ -1,0 +1,8 @@
+Cliente: CASTRO MENDEZ, MARIA MAR
+DNI: 8560925
+Teléfono: 600001602
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

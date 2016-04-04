@@ -1,0 +1,8 @@
+Cliente: GALLEGO ALVAREZ, DIEGO
+DNI: 5602690
+Teléfono: 600002824
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MEDINA VARGAS, LORENZO
+DNI: 6034173
+Teléfono: 600002369
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

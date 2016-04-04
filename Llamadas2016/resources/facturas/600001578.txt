@@ -1,0 +1,8 @@
+Cliente: ESTEBAN CARRASCO, ALICIA
+DNI: 8786758
+Teléfono: 600001578
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

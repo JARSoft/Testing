@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ ESTEBAN, MARTA
+DNI: 9873767
+Teléfono: 600002115
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

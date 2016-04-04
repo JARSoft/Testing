@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ GARCIA, ELENA
+DNI: 7151368
+Teléfono: 600001257
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

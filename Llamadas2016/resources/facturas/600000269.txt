@@ -1,0 +1,8 @@
+Cliente: GARRIDO DURAN, SUSANA
+DNI: 9620561
+Teléfono: 600000269
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

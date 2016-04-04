@@ -1,0 +1,8 @@
+Cliente: MARTIN ROJAS, ALBA
+DNI: 6019356
+Teléfono: 600000722
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

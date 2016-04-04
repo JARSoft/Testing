@@ -1,0 +1,8 @@
+Cliente: DIAZ DIAZ, FRANCISCO JAVIER
+DNI: 5987549
+Teléfono: 600002245
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

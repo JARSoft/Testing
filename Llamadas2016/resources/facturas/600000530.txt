@@ -1,0 +1,8 @@
+Cliente: RUBIO SAEZ, ANDREA
+DNI: 6023656
+Teléfono: 600000530
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

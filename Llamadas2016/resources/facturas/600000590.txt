@@ -1,0 +1,8 @@
+Cliente: SOLER SUAREZ, ANA ISABEL
+DNI: 9792769
+Teléfono: 600000590
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

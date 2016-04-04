@@ -1,0 +1,8 @@
+Cliente: CARMONA RODRIGUEZ, ALBERT
+DNI: 8245203
+Teléfono: 600001082
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

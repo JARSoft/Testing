@@ -1,0 +1,8 @@
+Cliente: GONZALEZ JIMENEZ, MARIA ELENA
+DNI: 9918625
+Teléfono: 600002600
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

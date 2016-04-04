@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ GUERRERO, DIEGO
+DNI: 8863723
+Teléfono: 600001498
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

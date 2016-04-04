@@ -1,0 +1,8 @@
+Cliente: CASTILLO LEON, MARIA CRISTINA
+DNI: 6365972
+Teléfono: 600000411
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

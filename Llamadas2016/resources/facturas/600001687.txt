@@ -1,0 +1,8 @@
+Cliente: DIAZ MEDINA, ENCARNACION
+DNI: 5737547
+Teléfono: 600001687
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

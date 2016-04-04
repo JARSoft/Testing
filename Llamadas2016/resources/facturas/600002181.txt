@@ -1,0 +1,8 @@
+Cliente: ORTIZ REYES, ANTONIO
+DNI: 8633607
+Teléfono: 600002181
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

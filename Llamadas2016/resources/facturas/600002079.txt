@@ -1,0 +1,8 @@
+Cliente: SANTOS VELASCO, MARIA MERCEDES
+DNI: 6559899
+Teléfono: 600002079
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

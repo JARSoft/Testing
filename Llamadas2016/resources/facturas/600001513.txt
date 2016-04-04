@@ -1,0 +1,8 @@
+Cliente: RAMIREZ CASTILLO, SANDRA
+DNI: 8743077
+Teléfono: 600001513
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

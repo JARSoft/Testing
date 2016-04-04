@@ -1,0 +1,8 @@
+Cliente: ORTEGA FERNANDEZ, CATALINA
+DNI: 6132695
+Teléfono: 600000568
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

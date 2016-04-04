@@ -1,0 +1,8 @@
+Cliente: CALVO IBAÑEZ, DANIEL
+DNI: 9832764
+Teléfono: 600001099
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

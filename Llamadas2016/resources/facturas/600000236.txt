@@ -1,0 +1,8 @@
+Cliente: VICENTE MONTERO, ANDRES
+DNI: 6564240
+Teléfono: 600000236
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

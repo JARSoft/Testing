@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ AGUILAR, VICENTE
+DNI: 8606687
+Teléfono: 600000027
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

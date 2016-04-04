@@ -1,0 +1,8 @@
+Cliente: PASCUAL REYES, JAIME
+DNI: 9256780
+Teléfono: 600000642
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

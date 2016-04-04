@@ -1,0 +1,8 @@
+Cliente: ROMERO GUTIERREZ, FELIPE
+DNI: 6794674
+Teléfono: 600001593
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

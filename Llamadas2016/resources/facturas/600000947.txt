@@ -1,0 +1,8 @@
+Cliente: GONZALEZ MARQUEZ, ALFONSO
+DNI: 9226197
+Teléfono: 600000947
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

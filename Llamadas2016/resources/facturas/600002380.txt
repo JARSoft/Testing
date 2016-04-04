@@ -1,0 +1,8 @@
+Cliente: VICENTE DIEZ, JULIA
+DNI: 9686892
+Teléfono: 600002380
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

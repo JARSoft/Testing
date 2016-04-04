@@ -1,0 +1,8 @@
+Cliente: CASTILLO MORA, CAROLINA
+DNI: 7048997
+Teléfono: 600000102
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

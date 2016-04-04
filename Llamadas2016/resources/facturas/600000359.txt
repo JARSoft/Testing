@@ -1,0 +1,8 @@
+Cliente: NAVARRO SANCHEZ, JULIAN
+DNI: 5377280
+Teléfono: 600000359
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

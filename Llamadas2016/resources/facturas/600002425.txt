@@ -1,0 +1,8 @@
+Cliente: AGUILAR MEDINA, GUILLERMO
+DNI: 6495662
+Teléfono: 600002425
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

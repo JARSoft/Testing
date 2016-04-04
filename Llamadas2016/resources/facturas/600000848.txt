@@ -1,0 +1,8 @@
+Cliente: MEDINA GALLEGO, JULIO
+DNI: 5523475
+Teléfono: 600000848
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

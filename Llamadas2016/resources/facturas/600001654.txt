@@ -1,0 +1,8 @@
+Cliente: GARRIDO LOPEZ, ANA ISABEL
+DNI: 7038700
+Teléfono: 600001654
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GARCIA CABRERA, JUAN FRANCISCO
+DNI: 9212766
+Teléfono: 600002668
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PARRA PASTOR, ADRIAN
+DNI: 9568374
+Teléfono: 600000730
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

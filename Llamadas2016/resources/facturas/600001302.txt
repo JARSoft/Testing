@@ -1,0 +1,8 @@
+Cliente: LEON CARRASCO, JOSE RAMON
+DNI: 6952015
+Teléfono: 600001302
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

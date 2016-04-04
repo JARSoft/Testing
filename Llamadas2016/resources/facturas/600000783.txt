@@ -1,0 +1,8 @@
+Cliente: ORTEGA BENITEZ, ISMAEL
+DNI: 5580036
+Teléfono: 600000783
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

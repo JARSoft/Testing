@@ -1,0 +1,8 @@
+Cliente: CRESPO MOYA, ALFREDO
+DNI: 6200433
+Teléfono: 600002399
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

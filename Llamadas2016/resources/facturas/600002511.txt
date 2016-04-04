@@ -1,0 +1,8 @@
+Cliente: BENITEZ SUAREZ, MILAGROS
+DNI: 7344330
+Teléfono: 600002511
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

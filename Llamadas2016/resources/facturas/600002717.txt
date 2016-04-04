@@ -1,0 +1,8 @@
+Cliente: PEREZ FLORES, CRISTINA
+DNI: 5896480
+Teléfono: 600002717
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

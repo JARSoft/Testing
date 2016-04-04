@@ -1,0 +1,8 @@
+Cliente: GONZALEZ HIDALGO, LAURA
+DNI: 5632262
+Teléfono: 600001807
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

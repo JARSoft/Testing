@@ -1,0 +1,8 @@
+Cliente: NIETO DELGADO, JORGE
+DNI: 9442323
+Teléfono: 600000972
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

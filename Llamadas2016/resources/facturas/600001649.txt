@@ -1,0 +1,8 @@
+Cliente: RUBIO RUBIO, ROSA MARIA
+DNI: 8528138
+Teléfono: 600001649
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

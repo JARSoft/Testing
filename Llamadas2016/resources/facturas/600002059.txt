@@ -1,0 +1,8 @@
+Cliente: GALLEGO GUTIERREZ, DOLORES
+DNI: 7838151
+Teléfono: 600002059
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

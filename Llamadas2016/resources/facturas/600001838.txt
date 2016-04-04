@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ CARMONA, ROSA MARIA
+DNI: 6507441
+Teléfono: 600001838
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

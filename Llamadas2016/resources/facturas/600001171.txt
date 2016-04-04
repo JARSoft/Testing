@@ -1,0 +1,8 @@
+Cliente: GIMENEZ BLANCO, LORENZO
+DNI: 9849333
+Teléfono: 600001171
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

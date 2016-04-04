@@ -1,0 +1,8 @@
+Cliente: MORENO VIDAL, JUAN FRANCISCO
+DNI: 9162831
+Teléfono: 600001568
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

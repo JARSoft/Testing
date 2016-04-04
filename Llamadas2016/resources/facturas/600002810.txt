@@ -1,0 +1,8 @@
+Cliente: VICENTE SANTANA, ROSA
+DNI: 8167702
+Teléfono: 600002810
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

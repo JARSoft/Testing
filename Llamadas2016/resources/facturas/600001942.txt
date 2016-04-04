@@ -1,0 +1,8 @@
+Cliente: DIEZ HERNANDEZ, ANA
+DNI: 5863750
+Teléfono: 600001942
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

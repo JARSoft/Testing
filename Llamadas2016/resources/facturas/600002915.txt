@@ -1,0 +1,8 @@
+Cliente: GALLEGO ARIAS, ALEX
+DNI: 6660887
+Teléfono: 600002915
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

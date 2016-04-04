@@ -1,0 +1,8 @@
+Cliente: CRESPO ROJAS, MARIA CRISTINA
+DNI: 7191531
+Teléfono: 600000545
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

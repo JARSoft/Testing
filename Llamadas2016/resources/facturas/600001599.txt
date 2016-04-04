@@ -1,0 +1,8 @@
+Cliente: CABRERA PEÑA, PATRICIA
+DNI: 7535736
+Teléfono: 600001599
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

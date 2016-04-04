@@ -1,0 +1,8 @@
+Cliente: MENDEZ GIMENEZ, LORENZO
+DNI: 7701437
+Teléfono: 600001281
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

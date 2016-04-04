@@ -1,0 +1,8 @@
+Cliente: RUBIO MOLINA, AITOR
+DNI: 7069006
+Teléfono: 600002387
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

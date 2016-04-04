@@ -1,0 +1,8 @@
+Cliente: BLANCO MORALES, MARIA NIEVES
+DNI: 6609833
+Teléfono: 600000869
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

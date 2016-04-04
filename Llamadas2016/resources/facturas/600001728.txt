@@ -1,0 +1,8 @@
+Cliente: LOPEZ ALVAREZ, VICTOR MANUEL
+DNI: 7123109
+Teléfono: 600001728
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

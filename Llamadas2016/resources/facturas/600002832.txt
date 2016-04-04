@@ -1,0 +1,8 @@
+Cliente: ESTEBAN DIEZ, PAULA
+DNI: 6551359
+Teléfono: 600002832
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

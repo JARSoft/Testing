@@ -1,0 +1,8 @@
+Cliente: LOPEZ PASCUAL, MIGUEL ANGEL
+DNI: 6346899
+Teléfono: 600000204
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

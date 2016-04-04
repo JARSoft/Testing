@@ -1,0 +1,8 @@
+Cliente: SUAREZ HERRERO, VICTOR
+DNI: 9855257
+Teléfono: 600002390
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CABRERA VICENTE, MARIA CRISTINA
+DNI: 5291109
+Teléfono: 600000455
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

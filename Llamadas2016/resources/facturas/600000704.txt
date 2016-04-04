@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ CARRASCO, MIGUEL
+DNI: 8219530
+Teléfono: 600000704
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

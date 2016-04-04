@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ VIDAL, EVA
+DNI: 7385417
+Teléfono: 600002947
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

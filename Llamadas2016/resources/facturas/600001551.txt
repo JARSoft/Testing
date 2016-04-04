@@ -1,0 +1,8 @@
+Cliente: MARTIN GALLEGO, ESTHER
+DNI: 6403075
+Teléfono: 600001551
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

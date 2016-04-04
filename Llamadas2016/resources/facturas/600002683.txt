@@ -1,0 +1,8 @@
+Cliente: VICENTE CRUZ, ANTONIA
+DNI: 8571302
+Teléfono: 600002683
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

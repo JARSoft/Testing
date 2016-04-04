@@ -1,0 +1,8 @@
+Cliente: CABALLERO HERRERO, JOAN
+DNI: 6975645
+Teléfono: 600001254
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALONSO ROMAN, PEDRO
+DNI: 7686053
+Teléfono: 600001241
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

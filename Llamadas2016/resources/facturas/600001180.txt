@@ -1,0 +1,8 @@
+Cliente: CABALLERO PEÑA, BEATRIZ
+DNI: 7668318
+Teléfono: 600001180
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PRIETO CANO, CATALINA
+DNI: 7068089
+Teléfono: 600002012
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

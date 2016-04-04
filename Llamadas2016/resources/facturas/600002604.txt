@@ -1,0 +1,8 @@
+Cliente: SOTO FERRER, JUAN JOSE
+DNI: 6979012
+Teléfono: 600002604
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

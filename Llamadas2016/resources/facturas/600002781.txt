@@ -1,0 +1,8 @@
+Cliente: LOZANO ROMERO, INMACULADA
+DNI: 8061109
+Teléfono: 600002781
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: BRAVO BLANCO, SANDRA
+DNI: 5017417
+Teléfono: 600000498
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

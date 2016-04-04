@@ -1,0 +1,8 @@
+Cliente: MONTERO PEÑA, MARIA ELENA
+DNI: 5945845
+Teléfono: 600002436
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

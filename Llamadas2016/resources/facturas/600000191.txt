@@ -1,0 +1,8 @@
+Cliente: LEON ESTEBAN, MARIA CONCEPCION
+DNI: 5572045
+Teléfono: 600000191
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

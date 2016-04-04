@@ -1,0 +1,8 @@
+Cliente: MARTIN HERNANDEZ, MARTIN
+DNI: 8853098
+Teléfono: 600002104
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

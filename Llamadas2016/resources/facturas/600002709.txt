@@ -1,0 +1,8 @@
+Cliente: TORRES MORENO, MARTA
+DNI: 5369720
+Teléfono: 600002709
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

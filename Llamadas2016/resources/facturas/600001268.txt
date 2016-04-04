@@ -1,0 +1,8 @@
+Cliente: CASTRO SANTANA, VICENTE
+DNI: 9429568
+Teléfono: 600001268
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

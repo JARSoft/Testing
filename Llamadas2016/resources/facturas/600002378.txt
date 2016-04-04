@@ -1,0 +1,8 @@
+Cliente: CALVO SANTANA, MARIA CARMEN
+DNI: 7847203
+Teléfono: 600002378
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

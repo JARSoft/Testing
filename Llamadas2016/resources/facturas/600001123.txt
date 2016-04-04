@@ -1,0 +1,8 @@
+Cliente: GALLEGO BLANCO, MARIA JOSEFA
+DNI: 9982314
+Teléfono: 600001123
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

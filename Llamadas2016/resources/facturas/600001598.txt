@@ -1,0 +1,8 @@
+Cliente: SANTIAGO FLORES, ESPERANZA
+DNI: 7933820
+Teléfono: 600001598
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

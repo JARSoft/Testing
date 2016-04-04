@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ SERRANO, JOSE IGNACIO
+DNI: 5430516
+Teléfono: 600001866
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

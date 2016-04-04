@@ -1,0 +1,8 @@
+Cliente: VARGAS RAMIREZ, JOSE CARLOS
+DNI: 5627942
+Teléfono: 600000038
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

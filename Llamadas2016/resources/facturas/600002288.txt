@@ -1,0 +1,8 @@
+Cliente: NIETO SANTANA, JUAN MANUEL
+DNI: 5989233
+Teléfono: 600002288
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

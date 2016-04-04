@@ -1,0 +1,8 @@
+Cliente: VIDAL DIEZ, ALBA
+DNI: 5526454
+Teléfono: 600002067
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

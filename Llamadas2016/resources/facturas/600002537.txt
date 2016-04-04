@@ -1,0 +1,8 @@
+Cliente: GOMEZ HERRERO, ALVARO
+DNI: 9215829
+Teléfono: 600002537
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: LORENZO DURAN, JOSE MANUEL
+DNI: 8522935
+Teléfono: 600002228
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

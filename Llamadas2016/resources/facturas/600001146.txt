@@ -1,0 +1,8 @@
+Cliente: CASTRO FERRER, MARIA ANGELES
+DNI: 7399226
+Teléfono: 600001146
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

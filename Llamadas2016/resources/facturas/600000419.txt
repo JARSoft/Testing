@@ -1,0 +1,8 @@
+Cliente: CRESPO VEGA, JOSE MIGUEL
+DNI: 5489697
+Teléfono: 600000419
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

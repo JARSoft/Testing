@@ -1,0 +1,8 @@
+Cliente: PRIETO DURAN, MARGARITA
+DNI: 8213576
+Teléfono: 600001012
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

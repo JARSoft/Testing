@@ -1,0 +1,8 @@
+Cliente: CASTRO DIEZ, JOSE FRANCISCO
+DNI: 7793833
+Teléfono: 600001407
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

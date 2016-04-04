@@ -1,0 +1,8 @@
+Cliente: SANZ MONTERO, VERONICA
+DNI: 6342144
+Teléfono: 600002780
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

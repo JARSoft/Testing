@@ -1,0 +1,8 @@
+Cliente: NAVARRO TORRES, ROCIO
+DNI: 5720114
+Teléfono: 600002946
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

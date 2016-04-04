@@ -1,0 +1,8 @@
+Cliente: NAVARRO FERNANDEZ, JOSE CARLOS
+DNI: 7759498
+Teléfono: 600000318
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

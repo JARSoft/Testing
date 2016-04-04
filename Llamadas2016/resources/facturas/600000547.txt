@@ -1,0 +1,8 @@
+Cliente: SANTIAGO VELASCO, JULIO
+DNI: 5565991
+Teléfono: 600000547
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

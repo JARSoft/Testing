@@ -1,0 +1,8 @@
+Cliente: ESTEBAN RAMOS, LORENZO
+DNI: 6838292
+Teléfono: 600000309
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

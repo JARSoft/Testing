@@ -1,0 +1,8 @@
+Cliente: CALVO SANTANA, ESTHER
+DNI: 6928543
+Teléfono: 600002221
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

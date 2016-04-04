@@ -1,0 +1,8 @@
+Cliente: PASTOR RAMIREZ, RUBEN
+DNI: 9528868
+Teléfono: 600002136
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RUIZ HIDALGO, FRANCISCA
+DNI: 8430623
+Teléfono: 600000509
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

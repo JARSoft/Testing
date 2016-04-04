@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ VAZQUEZ, AURORA
+DNI: 5175624
+Teléfono: 600002841
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

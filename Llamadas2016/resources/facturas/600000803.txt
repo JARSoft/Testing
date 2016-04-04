@@ -1,0 +1,8 @@
+Cliente: REYES SANTANA, LUCIA
+DNI: 5093884
+Teléfono: 600000803
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ROMERO SANCHEZ, MARIA ELENA
+DNI: 8226996
+Teléfono: 600001641
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

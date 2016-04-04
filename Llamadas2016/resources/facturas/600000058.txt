@@ -1,0 +1,8 @@
+Cliente: GIMENEZ CANO, ALEJANDRO
+DNI: 7270880
+Teléfono: 600000058
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: BENITEZ PRIETO, MARIA DOLORES
+DNI: 6192967
+Teléfono: 600002540
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

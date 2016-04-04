@@ -1,0 +1,8 @@
+Cliente: RUIZ MOLINA, RAFAEL
+DNI: 8798043
+Teléfono: 600000118
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

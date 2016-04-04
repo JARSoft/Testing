@@ -1,0 +1,8 @@
+Cliente: GUERRERO RUBIO, JOSE
+DNI: 9532021
+Teléfono: 600001034
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

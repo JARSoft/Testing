@@ -1,0 +1,8 @@
+Cliente: RAMOS CABRERA, MARIA JESUS
+DNI: 8028304
+Teléfono: 600002779
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

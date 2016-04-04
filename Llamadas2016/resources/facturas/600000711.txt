@@ -1,0 +1,8 @@
+Cliente: NAVARRO ARIAS, ALBA
+DNI: 9986177
+Teléfono: 600000711
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

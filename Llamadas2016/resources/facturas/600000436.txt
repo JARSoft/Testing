@@ -1,0 +1,8 @@
+Cliente: SANZ SAEZ, MARIA ROSA
+DNI: 6265246
+Teléfono: 600000436
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

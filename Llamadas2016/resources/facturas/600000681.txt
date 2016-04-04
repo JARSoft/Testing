@@ -1,0 +1,8 @@
+Cliente: ROMERO NUÑEZ, MARIA MAR
+DNI: 6356496
+Teléfono: 600000681
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

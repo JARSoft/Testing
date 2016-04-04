@@ -1,0 +1,8 @@
+Cliente: AGUILAR MARTIN, ENRIQUE
+DNI: 5304864
+Teléfono: 600001033
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

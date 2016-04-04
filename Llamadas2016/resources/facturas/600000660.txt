@@ -1,0 +1,8 @@
+Cliente: CORTES DIEZ, FELIPE
+DNI: 6567769
+Teléfono: 600000660
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

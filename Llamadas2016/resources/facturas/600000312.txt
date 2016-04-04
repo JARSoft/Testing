@@ -1,0 +1,8 @@
+Cliente: AGUILAR NAVARRO, AGUSTIN
+DNI: 9007487
+Teléfono: 600000312
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SOTO ORTIZ, ANA BELEN
+DNI: 7908368
+Teléfono: 600000244
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

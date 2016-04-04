@@ -1,0 +1,8 @@
+Cliente: HERRERO ESTEBAN, MARTIN
+DNI: 8125497
+Teléfono: 600001238
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

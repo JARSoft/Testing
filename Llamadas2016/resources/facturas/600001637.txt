@@ -1,0 +1,8 @@
+Cliente: PEÑA MORALES, MARIA CRISTINA
+DNI: 9957384
+Teléfono: 600001637
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

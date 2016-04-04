@@ -1,0 +1,8 @@
+Cliente: MUÑOZ CANO, CRISTIAN
+DNI: 8312087
+Teléfono: 600001306
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

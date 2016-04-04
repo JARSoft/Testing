@@ -1,0 +1,8 @@
+Cliente: MONTERO SANCHEZ, ISABEL
+DNI: 5961352
+Teléfono: 600002053
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

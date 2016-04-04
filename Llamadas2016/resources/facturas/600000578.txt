@@ -1,0 +1,8 @@
+Cliente: LORENZO LOZANO, MANUELA
+DNI: 9684898
+Teléfono: 600000578
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

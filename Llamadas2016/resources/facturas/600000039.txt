@@ -1,0 +1,8 @@
+Cliente: MORENO CARRASCO, MILAGROS
+DNI: 8921440
+Teléfono: 600000039
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

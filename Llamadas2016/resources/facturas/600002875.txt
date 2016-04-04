@@ -1,0 +1,8 @@
+Cliente: PRIETO ROMERO, MONTSERRAT
+DNI: 9778656
+Teléfono: 600002875
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

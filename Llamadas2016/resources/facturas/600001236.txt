@@ -1,0 +1,8 @@
+Cliente: LEON DOMINGUEZ, JUAN FRANCISCO
+DNI: 9181778
+Teléfono: 600001236
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

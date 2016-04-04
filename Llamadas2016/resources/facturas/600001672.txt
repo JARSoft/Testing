@@ -1,0 +1,8 @@
+Cliente: MENDEZ CAMPOS, MARIA ANTONIA
+DNI: 8358302
+Teléfono: 600001672
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

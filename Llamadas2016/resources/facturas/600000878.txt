@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ HERNANDEZ, ESPERANZA
+DNI: 7214035
+Teléfono: 600000878
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: LOZANO DIEZ, FELIPE
+DNI: 5514113
+Teléfono: 600001117
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

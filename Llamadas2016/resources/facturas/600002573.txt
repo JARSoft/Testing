@@ -1,0 +1,8 @@
+Cliente: ORTIZ AGUILAR, ALFREDO
+DNI: 6914853
+Teléfono: 600002573
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

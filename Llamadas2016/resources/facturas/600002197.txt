@@ -1,0 +1,8 @@
+Cliente: RAMOS GARCIA, AGUSTIN
+DNI: 5998306
+Teléfono: 600002197
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

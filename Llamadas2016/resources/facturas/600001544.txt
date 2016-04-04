@@ -1,0 +1,8 @@
+Cliente: SERRANO HERNANDEZ, IKER
+DNI: 6943535
+Teléfono: 600001544
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PASCUAL VARGAS, JAIME
+DNI: 8984300
+Teléfono: 600001209
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

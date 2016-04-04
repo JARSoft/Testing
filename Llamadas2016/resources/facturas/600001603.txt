@@ -1,0 +1,8 @@
+Cliente: BLANCO IBAÑEZ, FELIX
+DNI: 9561016
+Teléfono: 600001603
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

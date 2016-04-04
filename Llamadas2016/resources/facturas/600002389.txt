@@ -1,0 +1,8 @@
+Cliente: GIMENEZ HERNANDEZ, ALICIA
+DNI: 9615222
+Teléfono: 600002389
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

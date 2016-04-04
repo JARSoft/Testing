@@ -1,0 +1,8 @@
+Cliente: PARRA MARTIN, FRANCISCO JAVIER
+DNI: 6427909
+Teléfono: 600000966
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CABRERA VELASCO, PAULA
+DNI: 6203137
+Teléfono: 600002887
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

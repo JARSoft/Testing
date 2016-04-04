@@ -1,0 +1,8 @@
+Cliente: SOLER FUENTES, OSCAR
+DNI: 7956607
+Teléfono: 600002330
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

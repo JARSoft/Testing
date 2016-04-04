@@ -1,0 +1,8 @@
+Cliente: HIDALGO NIETO, JOSE LUIS
+DNI: 6774075
+Teléfono: 600001801
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

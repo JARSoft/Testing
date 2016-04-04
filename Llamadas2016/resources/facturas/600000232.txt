@@ -1,0 +1,8 @@
+Cliente: CRESPO SANCHEZ, NATALIA
+DNI: 9764110
+Teléfono: 600000232
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

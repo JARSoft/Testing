@@ -1,0 +1,8 @@
+Cliente: MOLINA LEON, OLGA
+DNI: 7082112
+Teléfono: 600000029
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

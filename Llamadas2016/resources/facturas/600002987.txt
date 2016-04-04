@@ -1,0 +1,8 @@
+Cliente: GARRIDO CALVO, MOHAMED
+DNI: 7786497
+Teléfono: 600002987
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

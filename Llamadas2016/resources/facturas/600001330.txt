@@ -1,0 +1,8 @@
+Cliente: JIMENEZ MOLINA, EVA MARIA
+DNI: 8223702
+Teléfono: 600001330
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

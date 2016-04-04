@@ -1,0 +1,8 @@
+Cliente: MEDINA MORENO, PILAR
+DNI: 7413421
+Teléfono: 600000099
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

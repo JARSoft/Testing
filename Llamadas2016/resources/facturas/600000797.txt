@@ -1,0 +1,8 @@
+Cliente: BLANCO CRUZ, ISABEL
+DNI: 5559458
+Teléfono: 600000797
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

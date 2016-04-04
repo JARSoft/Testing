@@ -1,0 +1,8 @@
+Cliente: BRAVO PEREZ, MARIA JOSE
+DNI: 6352082
+Teléfono: 600002219
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

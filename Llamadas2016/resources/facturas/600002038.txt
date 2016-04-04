@@ -1,0 +1,8 @@
+Cliente: PEÑA ROMAN, MARIA TERESA
+DNI: 9229761
+Teléfono: 600002038
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: BENITEZ CAMPOS, TOMAS
+DNI: 5864758
+Teléfono: 600001890
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

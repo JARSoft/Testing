@@ -1,0 +1,8 @@
+Cliente: SANZ GARRIDO, JOSE FRANCISCO
+DNI: 6777090
+Teléfono: 600002370
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

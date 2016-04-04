@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ VIDAL, GLORIA
+DNI: 8942155
+Teléfono: 600000052
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

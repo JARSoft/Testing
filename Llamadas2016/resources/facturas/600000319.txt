@@ -1,0 +1,8 @@
+Cliente: GONZALEZ ROJAS, JUAN FRANCISCO
+DNI: 7820412
+Teléfono: 600000319
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

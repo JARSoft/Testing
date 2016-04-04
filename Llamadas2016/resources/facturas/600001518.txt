@@ -1,0 +1,8 @@
+Cliente: GONZALEZ SANTIAGO, MARIA ELENA
+DNI: 6803008
+Teléfono: 600001518
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

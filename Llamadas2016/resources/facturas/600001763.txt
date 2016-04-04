@@ -1,0 +1,8 @@
+Cliente: GARCIA ORTEGA, JOSE ANTONIO
+DNI: 9744862
+Teléfono: 600001763
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

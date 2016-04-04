@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ SANZ, LAURA
+DNI: 8465248
+Teléfono: 600000137
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

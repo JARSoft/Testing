@@ -1,0 +1,8 @@
+Cliente: CASTILLO SOLER, ANTONIO
+DNI: 6820837
+Teléfono: 600000573
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

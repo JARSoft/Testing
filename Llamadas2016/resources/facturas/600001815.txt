@@ -1,0 +1,8 @@
+Cliente: MARQUEZ HERRERO, OSCAR
+DNI: 5006935
+Teléfono: 600001815
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

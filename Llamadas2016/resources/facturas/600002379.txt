@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ HERRERA, VICTORIA
+DNI: 6174534
+Teléfono: 600002379
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

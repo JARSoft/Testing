@@ -1,0 +1,8 @@
+Cliente: PEREZ VELASCO, EDUARDO
+DNI: 7451717
+Teléfono: 600001211
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

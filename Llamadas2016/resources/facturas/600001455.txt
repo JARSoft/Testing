@@ -1,0 +1,8 @@
+Cliente: MONTERO FLORES, MARCOS
+DNI: 9681740
+Teléfono: 600001455
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: HIDALGO VARGAS, JOSE ANTONIO
+DNI: 9847838
+Teléfono: 600000234
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

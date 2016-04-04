@@ -1,0 +1,8 @@
+Cliente: CALVO NUÑEZ, TERESA
+DNI: 9505156
+Teléfono: 600002895
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

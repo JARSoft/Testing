@@ -1,0 +1,8 @@
+Cliente: LOZANO IGLESIAS, ROCIO
+DNI: 8391636
+Teléfono: 600001094
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

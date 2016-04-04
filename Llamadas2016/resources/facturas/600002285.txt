@@ -1,0 +1,8 @@
+Cliente: ROMAN FERNANDEZ, MARIA CONCEPCION
+DNI: 5079516
+Teléfono: 600002285
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

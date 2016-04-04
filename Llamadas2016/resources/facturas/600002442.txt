@@ -1,0 +1,8 @@
+Cliente: SANTIAGO VEGA, RAUL
+DNI: 5739631
+Teléfono: 600002442
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

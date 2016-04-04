@@ -1,0 +1,8 @@
+Cliente: GARCIA CARRASCO, ELENA
+DNI: 7403436
+Teléfono: 600002202
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

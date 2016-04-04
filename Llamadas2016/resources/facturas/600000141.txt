@@ -1,0 +1,8 @@
+Cliente: RAMIREZ PRIETO, BEATRIZ
+DNI: 7766772
+Teléfono: 600000141
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

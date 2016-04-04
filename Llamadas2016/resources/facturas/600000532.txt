@@ -1,0 +1,8 @@
+Cliente: VELASCO RODRIGUEZ, IKER
+DNI: 9135018
+Teléfono: 600000532
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

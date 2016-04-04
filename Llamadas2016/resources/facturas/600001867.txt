@@ -1,0 +1,8 @@
+Cliente: PASTOR MUÑOZ, ALEX
+DNI: 8111961
+Teléfono: 600001867
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: JIMENEZ SOTO, FRANCISCA
+DNI: 5637763
+Teléfono: 600002255
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

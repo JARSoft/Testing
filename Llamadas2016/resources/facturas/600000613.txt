@@ -1,0 +1,8 @@
+Cliente: PASTOR GALLEGO, AGUSTIN
+DNI: 5451220
+Teléfono: 600000613
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

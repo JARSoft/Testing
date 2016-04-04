@@ -1,0 +1,8 @@
+Cliente: ESTEBAN CRUZ, MARIA
+DNI: 6633050
+Teléfono: 600002631
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

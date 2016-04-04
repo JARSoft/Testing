@@ -1,0 +1,8 @@
+Cliente: ARIAS FERNANDEZ, ALVARO
+DNI: 6786147
+Teléfono: 600000037
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

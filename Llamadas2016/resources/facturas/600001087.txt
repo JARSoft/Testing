@@ -1,0 +1,8 @@
+Cliente: CALVO PEÑA, ALBERT
+DNI: 9671559
+Teléfono: 600001087
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

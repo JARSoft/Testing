@@ -1,0 +1,8 @@
+Cliente: TORRES PRIETO, MOHAMED
+DNI: 9923317
+Teléfono: 600002351
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

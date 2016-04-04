@@ -1,0 +1,8 @@
+Cliente: IGLESIAS CRESPO, RAMON
+DNI: 5271508
+Teléfono: 600001349
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

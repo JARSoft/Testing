@@ -1,0 +1,8 @@
+Cliente: RAMOS GIMENEZ, SARA
+DNI: 7317171
+Teléfono: 600000879
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

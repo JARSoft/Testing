@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ HERNANDEZ, ALFREDO
+DNI: 5198603
+Teléfono: 600001022
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

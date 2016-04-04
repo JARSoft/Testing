@@ -1,0 +1,8 @@
+Cliente: MENDEZ PASTOR, PILAR
+DNI: 5221417
+Teléfono: 600001793
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

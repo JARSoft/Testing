@@ -1,0 +1,8 @@
+Cliente: ARIAS FERNANDEZ, ALBERTO
+DNI: 9629904
+Teléfono: 600002350
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIAZ SANCHEZ, DANIELA
+DNI: 5766159
+Teléfono: 600000546
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

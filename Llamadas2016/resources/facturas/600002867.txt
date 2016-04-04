@@ -1,0 +1,8 @@
+Cliente: JIMENEZ PARRA, ANA BELEN
+DNI: 8809803
+Teléfono: 600002867
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

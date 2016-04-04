@@ -1,0 +1,8 @@
+Cliente: GUERRERO NAVARRO, MARIA PILAR
+DNI: 8537180
+Teléfono: 600002159
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

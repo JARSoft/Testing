@@ -1,0 +1,8 @@
+Cliente: ARIAS LOPEZ, EVA MARIA
+DNI: 8985756
+Teléfono: 600000387
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

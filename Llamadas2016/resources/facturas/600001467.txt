@@ -1,0 +1,8 @@
+Cliente: SUAREZ HIDALGO, MARIA JOSEFA
+DNI: 8651859
+Teléfono: 600001467
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

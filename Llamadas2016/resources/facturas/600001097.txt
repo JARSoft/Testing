@@ -1,0 +1,8 @@
+Cliente: SERRANO PASTOR, ANDRES
+DNI: 6672729
+Teléfono: 600001097
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

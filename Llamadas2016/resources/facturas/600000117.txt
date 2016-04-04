@@ -1,0 +1,8 @@
+Cliente: PEÑA PASTOR, VICTOR MANUEL
+DNI: 9957761
+Teléfono: 600000117
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

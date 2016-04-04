@@ -1,0 +1,8 @@
+Cliente: CARRASCO FUENTES, GONZALO
+DNI: 6597980
+Teléfono: 600000149
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

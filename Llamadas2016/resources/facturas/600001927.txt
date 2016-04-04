@@ -1,0 +1,8 @@
+Cliente: RAMOS JIMENEZ, CRISTINA
+DNI: 6949799
+Teléfono: 600001927
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CABALLERO MARQUEZ, RICARDO
+DNI: 8399988
+Teléfono: 600001310
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

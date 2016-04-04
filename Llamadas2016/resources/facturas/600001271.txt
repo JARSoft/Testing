@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ MENDEZ, GLORIA
+DNI: 6404567
+Teléfono: 600001271
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

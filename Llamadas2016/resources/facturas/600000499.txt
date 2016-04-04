@@ -1,0 +1,8 @@
+Cliente: SAEZ GOMEZ, ALBERTO
+DNI: 5323689
+Teléfono: 600000499
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

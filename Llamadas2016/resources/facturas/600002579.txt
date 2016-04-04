@@ -1,0 +1,8 @@
+Cliente: ORTIZ LOPEZ, JOSE LUIS
+DNI: 5666571
+Teléfono: 600002579
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

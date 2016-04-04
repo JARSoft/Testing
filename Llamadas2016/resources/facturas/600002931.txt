@@ -1,0 +1,8 @@
+Cliente: VICENTE AGUILAR, CARLA
+DNI: 7600526
+Teléfono: 600002931
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

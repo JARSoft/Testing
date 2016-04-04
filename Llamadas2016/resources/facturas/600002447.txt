@@ -1,0 +1,8 @@
+Cliente: GARRIDO MUÑOZ, EMILIA
+DNI: 8271227
+Teléfono: 600002447
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

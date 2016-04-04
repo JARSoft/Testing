@@ -1,0 +1,8 @@
+Cliente: ARIAS VELASCO, JOSE ANGEL
+DNI: 8646541
+Teléfono: 600001468
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SANCHEZ RAMIREZ, LIDIA
+DNI: 9184022
+Teléfono: 600002653
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

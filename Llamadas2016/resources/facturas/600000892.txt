@@ -1,0 +1,8 @@
+Cliente: TORRES SUAREZ, TOMAS
+DNI: 7203272
+Teléfono: 600000892
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

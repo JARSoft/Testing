@@ -1,0 +1,8 @@
+Cliente: SAEZ VELASCO, JOSE
+DNI: 8494331
+Teléfono: 600001450
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

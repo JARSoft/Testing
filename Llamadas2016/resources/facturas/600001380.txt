@@ -1,0 +1,8 @@
+Cliente: VARGAS ESTEBAN, SALVADOR
+DNI: 5036831
+Teléfono: 600001380
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

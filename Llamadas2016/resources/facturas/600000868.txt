@@ -1,0 +1,8 @@
+Cliente: ALVAREZ NUÑEZ, ALFREDO
+DNI: 5503545
+Teléfono: 600000868
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RUIZ ALVAREZ, ISABEL
+DNI: 5406394
+Teléfono: 600001473
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

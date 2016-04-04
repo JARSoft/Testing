@@ -1,0 +1,8 @@
+Cliente: LOPEZ ROMAN, GUILLERMO
+DNI: 8103139
+Teléfono: 600001090
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

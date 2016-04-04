@@ -1,0 +1,8 @@
+Cliente: SAEZ ORTIZ, SEBASTIAN
+DNI: 6970383
+Teléfono: 600001920
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

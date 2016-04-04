@@ -1,0 +1,8 @@
+Cliente: GONZALEZ PASCUAL, GLORIA
+DNI: 9042165
+Teléfono: 600001555
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

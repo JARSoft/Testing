@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ CORTES, JULIA
+DNI: 9363022
+Teléfono: 600002891
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

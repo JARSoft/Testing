@@ -1,0 +1,8 @@
+Cliente: RAMIREZ SANTOS, CARMEN
+DNI: 7422675
+Teléfono: 600001406
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

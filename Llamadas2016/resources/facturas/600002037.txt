@@ -1,0 +1,8 @@
+Cliente: SANZ VAZQUEZ, RODRIGO
+DNI: 5382202
+Teléfono: 600002037
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

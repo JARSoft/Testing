@@ -1,0 +1,8 @@
+Cliente: BRAVO MARQUEZ, GABRIEL
+DNI: 9200349
+Teléfono: 600001207
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

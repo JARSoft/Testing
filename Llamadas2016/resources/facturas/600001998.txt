@@ -1,0 +1,8 @@
+Cliente: PARRA NAVARRO, MARIO
+DNI: 5843155
+Teléfono: 600001998
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

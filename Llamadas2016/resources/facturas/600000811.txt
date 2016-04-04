@@ -1,0 +1,8 @@
+Cliente: CALVO GOMEZ, MARIA DOLORES
+DNI: 9068542
+Teléfono: 600000811
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

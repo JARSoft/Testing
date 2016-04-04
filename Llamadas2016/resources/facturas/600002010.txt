@@ -1,0 +1,8 @@
+Cliente: MOYA SERRANO, EDUARDO
+DNI: 9745114
+Teléfono: 600002010
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

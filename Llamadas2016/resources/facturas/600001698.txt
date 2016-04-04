@@ -1,0 +1,8 @@
+Cliente: SUAREZ ROJAS, MIGUEL
+DNI: 8666604
+Teléfono: 600001698
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

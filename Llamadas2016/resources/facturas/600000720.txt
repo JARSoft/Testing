@@ -1,0 +1,8 @@
+Cliente: NAVARRO DELGADO, CARMEN
+DNI: 8541893
+Teléfono: 600000720
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

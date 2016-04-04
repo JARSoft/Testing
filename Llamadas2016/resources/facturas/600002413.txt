@@ -1,0 +1,8 @@
+Cliente: VELASCO IGLESIAS, CARMEN
+DNI: 6365498
+Teléfono: 600002413
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SUAREZ SOLER, MARIA CARMEN
+DNI: 5957375
+Teléfono: 600000822
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RAMIREZ DELGADO, JAIME
+DNI: 9234361
+Teléfono: 600000293
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

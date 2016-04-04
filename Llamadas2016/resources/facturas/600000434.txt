@@ -1,0 +1,8 @@
+Cliente: HERRERO CABALLERO, PAULA
+DNI: 5220811
+Teléfono: 600000434
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

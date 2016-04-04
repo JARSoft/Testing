@@ -1,0 +1,8 @@
+Cliente: GARCIA GALLEGO, MONTSERRAT
+DNI: 5347960
+Teléfono: 600000511
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

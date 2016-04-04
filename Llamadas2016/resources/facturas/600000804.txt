@@ -1,0 +1,8 @@
+Cliente: DIAZ GOMEZ, NOELIA
+DNI: 6680378
+Teléfono: 600000804
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

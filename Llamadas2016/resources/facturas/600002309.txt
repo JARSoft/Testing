@@ -1,0 +1,8 @@
+Cliente: DIAZ DELGADO, ENCARNACION
+DNI: 8635813
+Teléfono: 600002309
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

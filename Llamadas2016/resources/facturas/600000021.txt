@@ -1,0 +1,8 @@
+Cliente: CASTRO CABALLERO, ANDRES
+DNI: 8355431
+Teléfono: 600000021
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIEZ REYES, LUIS
+DNI: 7056724
+Teléfono: 600001264
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

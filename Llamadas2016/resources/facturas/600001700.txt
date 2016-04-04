@@ -1,0 +1,8 @@
+Cliente: ROJAS DELGADO, IGNACIO
+DNI: 8863123
+Teléfono: 600001700
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

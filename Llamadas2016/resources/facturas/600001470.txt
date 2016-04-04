@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ CABRERA, MARIO
+DNI: 9618962
+Teléfono: 600001470
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

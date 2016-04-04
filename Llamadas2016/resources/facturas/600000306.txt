@@ -1,0 +1,8 @@
+Cliente: CALVO REYES, CRISTINA
+DNI: 9455580
+Teléfono: 600000306
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

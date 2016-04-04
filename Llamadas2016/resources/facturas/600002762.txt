@@ -1,0 +1,8 @@
+Cliente: HIDALGO SAEZ, NURIA
+DNI: 6457154
+Teléfono: 600002762
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

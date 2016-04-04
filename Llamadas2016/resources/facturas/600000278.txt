@@ -1,0 +1,8 @@
+Cliente: NUÑEZ CAMPOS, MARIA MERCEDES
+DNI: 9209352
+Teléfono: 600000278
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ FERRER, MARIA NIEVES
+DNI: 5436632
+Teléfono: 600000314
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

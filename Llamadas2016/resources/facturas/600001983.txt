@@ -1,0 +1,8 @@
+Cliente: CASTRO DURAN, MARIA ROSARIO
+DNI: 6308917
+Teléfono: 600001983
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

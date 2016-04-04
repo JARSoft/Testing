@@ -1,0 +1,8 @@
+Cliente: FLORES RUIZ, MANUELA
+DNI: 6846072
+Teléfono: 600002480
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

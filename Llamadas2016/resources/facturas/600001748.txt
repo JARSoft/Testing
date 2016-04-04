@@ -1,0 +1,8 @@
+Cliente: ROJAS MENDEZ, IRENE
+DNI: 8632829
+Teléfono: 600001748
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SANTOS MENDEZ, MARIA MERCEDES
+DNI: 5227026
+Teléfono: 600002898
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

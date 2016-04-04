@@ -1,0 +1,8 @@
+Cliente: SANTOS CABALLERO, OSCAR
+DNI: 7401748
+Teléfono: 600000644
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

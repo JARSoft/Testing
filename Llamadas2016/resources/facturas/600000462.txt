@@ -1,0 +1,8 @@
+Cliente: SERRANO VIDAL, JULIO
+DNI: 6622611
+Teléfono: 600000462
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

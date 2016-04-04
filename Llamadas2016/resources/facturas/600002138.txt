@@ -1,0 +1,8 @@
+Cliente: GIMENEZ ORTIZ, MOHAMED
+DNI: 6662871
+Teléfono: 600002138
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

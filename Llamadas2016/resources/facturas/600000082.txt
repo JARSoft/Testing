@@ -1,0 +1,8 @@
+Cliente: MENDEZ SERRANO, LORENZO
+DNI: 6339755
+Teléfono: 600000082
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

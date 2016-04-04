@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ ALONSO, MARGARITA
+DNI: 7712671
+Teléfono: 600001646
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

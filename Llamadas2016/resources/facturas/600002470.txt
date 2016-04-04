@@ -1,0 +1,8 @@
+Cliente: MARTIN CRUZ, SUSANA
+DNI: 7721174
+Teléfono: 600002470
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

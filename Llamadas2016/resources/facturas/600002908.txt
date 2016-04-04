@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ SERRANO, JUAN CARLOS
+DNI: 9408490
+Teléfono: 600002908
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

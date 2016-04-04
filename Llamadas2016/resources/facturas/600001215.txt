@@ -1,0 +1,8 @@
+Cliente: SANTANA DIAZ, JAIME
+DNI: 8019294
+Teléfono: 600001215
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

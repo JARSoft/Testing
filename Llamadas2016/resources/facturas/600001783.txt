@@ -1,0 +1,8 @@
+Cliente: CABRERA JIMENEZ, ROBERTO
+DNI: 7928751
+Teléfono: 600001783
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

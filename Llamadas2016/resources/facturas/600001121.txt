@@ -1,0 +1,8 @@
+Cliente: GARRIDO GIL, JUANA
+DNI: 7121109
+Teléfono: 600001121
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

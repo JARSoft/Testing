@@ -1,0 +1,8 @@
+Cliente: ROJAS CRESPO, MIGUEL
+DNI: 6233104
+Teléfono: 600000776
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

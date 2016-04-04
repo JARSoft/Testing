@@ -1,0 +1,8 @@
+Cliente: DELGADO FERNANDEZ, OLGA
+DNI: 6508390
+Teléfono: 600002241
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

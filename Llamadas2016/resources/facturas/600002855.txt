@@ -1,0 +1,8 @@
+Cliente: GIMENEZ SOTO, ALICIA
+DNI: 8558067
+Teléfono: 600002855
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

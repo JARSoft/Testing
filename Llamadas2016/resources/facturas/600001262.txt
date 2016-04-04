@@ -1,0 +1,8 @@
+Cliente: JIMENEZ CASTILLO, CRISTINA
+DNI: 6880821
+Teléfono: 600001262
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

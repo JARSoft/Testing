@@ -1,0 +1,8 @@
+Cliente: MOLINA MONTERO, RODRIGO
+DNI: 5775396
+Teléfono: 600002094
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

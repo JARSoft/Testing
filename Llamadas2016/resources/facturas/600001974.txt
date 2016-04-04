@@ -1,0 +1,8 @@
+Cliente: MARIN SUAREZ, EVA
+DNI: 7729044
+Teléfono: 600001974
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

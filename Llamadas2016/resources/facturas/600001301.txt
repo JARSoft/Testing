@@ -1,0 +1,8 @@
+Cliente: CRUZ SOLER, LIDIA
+DNI: 6645693
+Teléfono: 600001301
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: VELASCO GUERRERO, MARIA VICTORIA
+DNI: 9822734
+Teléfono: 600002606
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

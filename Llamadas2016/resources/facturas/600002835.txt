@@ -1,0 +1,8 @@
+Cliente: NIETO CASTILLO, ALVARO
+DNI: 7000400
+Teléfono: 600002835
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

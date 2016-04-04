@@ -1,0 +1,8 @@
+Cliente: MOLINA ORTIZ, INMACULADA
+DNI: 5264960
+Teléfono: 600001250
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

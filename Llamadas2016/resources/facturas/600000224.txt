@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ MEDINA, EDUARDO
+DNI: 7773814
+Teléfono: 600000224
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: TORRES IBAÑEZ, ROCIO
+DNI: 9614587
+Teléfono: 600000677
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

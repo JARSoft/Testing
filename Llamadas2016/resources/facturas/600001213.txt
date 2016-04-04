@@ -1,0 +1,8 @@
+Cliente: PEÑA BLANCO, MARIA JESUS
+DNI: 9533055
+Teléfono: 600001213
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

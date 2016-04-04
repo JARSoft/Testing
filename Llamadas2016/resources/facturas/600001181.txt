@@ -1,0 +1,8 @@
+Cliente: VICENTE MARTIN, LIDIA
+DNI: 5230264
+Teléfono: 600001181
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

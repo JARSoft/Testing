@@ -1,0 +1,8 @@
+Cliente: JIMENEZ CABALLERO, LUISA
+DNI: 6131142
+Teléfono: 600000923
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: LORENZO MUÑOZ, MOHAMED
+DNI: 9568667
+Teléfono: 600000299
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

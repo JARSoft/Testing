@@ -1,0 +1,8 @@
+Cliente: PEREZ MORA, SARA
+DNI: 8601023
+Teléfono: 600000908
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

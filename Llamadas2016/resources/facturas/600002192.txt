@@ -1,0 +1,8 @@
+Cliente: NUÑEZ MONTERO, SALVADOR
+DNI: 8507544
+Teléfono: 600002192
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

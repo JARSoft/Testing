@@ -1,0 +1,8 @@
+Cliente: REYES VICENTE, PAULA
+DNI: 6861921
+Teléfono: 600000056
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MORALES NUÑEZ, MERCEDES
+DNI: 6801470
+Teléfono: 600002183
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

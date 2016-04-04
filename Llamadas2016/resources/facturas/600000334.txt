@@ -1,0 +1,8 @@
+Cliente: MOYA LORENZO, VICTOR MANUEL
+DNI: 8138841
+Teléfono: 600000334
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

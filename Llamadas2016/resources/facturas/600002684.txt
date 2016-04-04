@@ -1,0 +1,8 @@
+Cliente: RAMOS MARTIN, NURIA
+DNI: 8716759
+Teléfono: 600002684
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

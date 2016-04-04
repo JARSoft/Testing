@@ -1,0 +1,8 @@
+Cliente: BENITEZ MOLINA, VERONICA
+DNI: 9740797
+Teléfono: 600002728
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

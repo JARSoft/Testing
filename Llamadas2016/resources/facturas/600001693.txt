@@ -1,0 +1,8 @@
+Cliente: GALLEGO ALVAREZ, JUAN MANUEL
+DNI: 6642717
+Teléfono: 600001693
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

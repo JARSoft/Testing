@@ -1,0 +1,8 @@
+Cliente: AGUILAR ESTEBAN, MARIANO
+DNI: 9372045
+Teléfono: 600001751
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

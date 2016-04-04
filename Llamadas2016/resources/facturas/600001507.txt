@@ -1,0 +1,8 @@
+Cliente: REYES HIDALGO, ELENA
+DNI: 9419482
+Teléfono: 600001507
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

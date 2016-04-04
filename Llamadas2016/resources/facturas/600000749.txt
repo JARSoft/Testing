@@ -1,0 +1,8 @@
+Cliente: SAEZ RAMIREZ, SERGIO
+DNI: 6560349
+Teléfono: 600000749
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

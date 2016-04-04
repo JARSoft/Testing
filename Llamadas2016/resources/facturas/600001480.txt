@@ -1,0 +1,8 @@
+Cliente: LEON RAMOS, INMACULADA
+DNI: 5936029
+Teléfono: 600001480
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

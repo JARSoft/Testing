@@ -1,0 +1,8 @@
+Cliente: HIDALGO CARRASCO, JOSE CARLOS
+DNI: 8627243
+Teléfono: 600001112
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

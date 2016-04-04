@@ -1,0 +1,8 @@
+Cliente: ORTEGA MORALES, JOSEFA
+DNI: 8949828
+Teléfono: 600001909
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

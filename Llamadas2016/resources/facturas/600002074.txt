@@ -1,0 +1,8 @@
+Cliente: CAMPOS GALLEGO, ANA ISABEL
+DNI: 8222059
+Teléfono: 600002074
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

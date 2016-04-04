@@ -1,0 +1,8 @@
+Cliente: FLORES BENITEZ, ALBA
+DNI: 8742922
+Teléfono: 600001200
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

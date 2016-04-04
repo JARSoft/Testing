@@ -1,0 +1,8 @@
+Cliente: SERRANO BRAVO, MANUEL
+DNI: 6662679
+Teléfono: 600001485
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

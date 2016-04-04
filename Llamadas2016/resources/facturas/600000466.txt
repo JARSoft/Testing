@@ -1,0 +1,8 @@
+Cliente: SAEZ MOLINA, DANIELA
+DNI: 8183203
+Teléfono: 600000466
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GARRIDO ORTEGA, JULIO
+DNI: 5424328
+Teléfono: 600001856
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

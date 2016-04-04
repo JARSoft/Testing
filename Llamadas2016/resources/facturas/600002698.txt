@@ -1,0 +1,8 @@
+Cliente: VEGA VELASCO, ALBERTO
+DNI: 9981826
+Teléfono: 600002698
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

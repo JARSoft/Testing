@@ -1,0 +1,8 @@
+Cliente: SANTANA MARIN, JUAN MANUEL
+DNI: 5312439
+Teléfono: 600002315
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

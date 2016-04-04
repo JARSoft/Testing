@@ -1,0 +1,8 @@
+Cliente: FERRER DURAN, FRANCISCA
+DNI: 6654636
+Teléfono: 600001493
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

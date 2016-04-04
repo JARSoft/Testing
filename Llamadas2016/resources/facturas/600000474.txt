@@ -1,0 +1,8 @@
+Cliente: BLANCO CARMONA, MARIA LUISA
+DNI: 9512592
+Teléfono: 600000474
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

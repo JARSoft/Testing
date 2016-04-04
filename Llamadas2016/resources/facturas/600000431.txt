@@ -1,0 +1,8 @@
+Cliente: ORTIZ GOMEZ, ROSA MARIA
+DNI: 8430539
+Teléfono: 600000431
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

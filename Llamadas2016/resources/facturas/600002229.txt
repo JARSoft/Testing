@@ -1,0 +1,8 @@
+Cliente: ORTEGA CASTILLO, NEREA
+DNI: 7141065
+Teléfono: 600002229
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

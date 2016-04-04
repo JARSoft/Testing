@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ BRAVO, JOSEP
+DNI: 5094890
+Teléfono: 600001078
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

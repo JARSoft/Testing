@@ -1,0 +1,8 @@
+Cliente: NUÑEZ CALVO, CARMEN
+DNI: 5282680
+Teléfono: 600002367
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ORTEGA RAMOS, MARIA ANTONIA
+DNI: 6989735
+Teléfono: 600002452
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

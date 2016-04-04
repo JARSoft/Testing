@@ -1,0 +1,8 @@
+Cliente: PARRA ROMERO, ROSA
+DNI: 6008127
+Teléfono: 600002427
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

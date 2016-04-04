@@ -1,0 +1,8 @@
+Cliente: NAVARRO CASTRO, SALVADOR
+DNI: 8883572
+Teléfono: 600002166
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

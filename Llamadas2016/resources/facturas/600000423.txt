@@ -1,0 +1,8 @@
+Cliente: GARCIA PRIETO, ANTONIO
+DNI: 5198981
+Teléfono: 600000423
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

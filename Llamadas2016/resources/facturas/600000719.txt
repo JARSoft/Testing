@@ -1,0 +1,8 @@
+Cliente: CASTRO SANCHEZ, MANUELA
+DNI: 5200716
+Teléfono: 600000719
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

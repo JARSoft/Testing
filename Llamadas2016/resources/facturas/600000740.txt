@@ -1,0 +1,8 @@
+Cliente: VELASCO MOLINA, ROSARIO
+DNI: 5975643
+Teléfono: 600000740
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

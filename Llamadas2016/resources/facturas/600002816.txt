@@ -1,0 +1,8 @@
+Cliente: GALLARDO ROJAS, OLGA
+DNI: 9304197
+Teléfono: 600002816
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ LOZANO, MARIA NIEVES
+DNI: 8939261
+Teléfono: 600000515
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

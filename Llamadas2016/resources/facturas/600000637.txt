@@ -1,0 +1,8 @@
+Cliente: CORTES SERRANO, ESTHER
+DNI: 6839354
+Teléfono: 600000637
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

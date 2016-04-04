@@ -1,0 +1,8 @@
+Cliente: RAMIREZ HERRERA, MARIA ELENA
+DNI: 5320981
+Teléfono: 600000522
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

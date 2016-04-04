@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ ORTIZ, MARCOS
+DNI: 5071905
+Teléfono: 600000280
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

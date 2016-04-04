@@ -1,0 +1,8 @@
+Cliente: NUÑEZ PEREZ, DOLORES
+DNI: 9560088
+Teléfono: 600001916
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

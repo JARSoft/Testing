@@ -1,0 +1,8 @@
+Cliente: CORTES MORALES, LIDIA
+DNI: 9404248
+Teléfono: 600000343
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

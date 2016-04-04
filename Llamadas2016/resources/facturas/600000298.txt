@@ -1,0 +1,8 @@
+Cliente: CRUZ DELGADO, FERNANDO
+DNI: 9986933
+Teléfono: 600000298
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIAZ GOMEZ, JOSE MARIA
+DNI: 5406385
+Teléfono: 600002011
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARIN RAMIREZ, JOAN
+DNI: 6960941
+Teléfono: 600002270
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

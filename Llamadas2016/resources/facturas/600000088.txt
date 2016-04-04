@@ -1,0 +1,8 @@
+Cliente: GALLARDO IBAÑEZ, TOMAS
+DNI: 9446856
+Teléfono: 600000088
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

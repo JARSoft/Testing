@@ -1,0 +1,8 @@
+Cliente: SANTOS CARRASCO, ALICIA
+DNI: 9510352
+Teléfono: 600000494
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

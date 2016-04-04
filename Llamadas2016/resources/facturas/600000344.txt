@@ -1,0 +1,8 @@
+Cliente: CRUZ SANCHEZ, JUAN JOSE
+DNI: 7023208
+Teléfono: 600000344
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

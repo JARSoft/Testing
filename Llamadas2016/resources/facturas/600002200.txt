@@ -1,0 +1,8 @@
+Cliente: DELGADO FUENTES, HECTOR
+DNI: 8873850
+Teléfono: 600002200
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

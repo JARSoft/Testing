@@ -1,0 +1,8 @@
+Cliente: NUÑEZ NAVARRO, LIDIA
+DNI: 8775739
+Teléfono: 600001722
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARTINEZ MEDINA, ADRIAN
+DNI: 6312049
+Teléfono: 600000079
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

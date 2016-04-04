@@ -1,0 +1,8 @@
+Cliente: ROMERO CABALLERO, SOFIA
+DNI: 5424815
+Teléfono: 600000025
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

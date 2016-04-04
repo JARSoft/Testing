@@ -1,0 +1,8 @@
+Cliente: GONZALEZ MORA, LORENZO
+DNI: 8503328
+Teléfono: 600000584
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MEDINA PASCUAL, MARTIN
+DNI: 8643269
+Teléfono: 600002080
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

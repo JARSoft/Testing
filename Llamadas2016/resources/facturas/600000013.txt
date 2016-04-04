@@ -1,0 +1,8 @@
+Cliente: PASTOR GUTIERREZ, SERGIO
+DNI: 8512204
+Teléfono: 600000013
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

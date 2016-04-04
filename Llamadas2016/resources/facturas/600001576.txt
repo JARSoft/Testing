@@ -1,0 +1,8 @@
+Cliente: MOLINA LEON, CARMEN
+DNI: 9036946
+Teléfono: 600001576
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

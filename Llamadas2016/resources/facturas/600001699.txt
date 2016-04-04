@@ -1,0 +1,8 @@
+Cliente: FUENTES GONZALEZ, JULIA
+DNI: 5231204
+Teléfono: 600001699
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

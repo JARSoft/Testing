@@ -1,0 +1,8 @@
+Cliente: HERRERO LOPEZ, JUAN CARLOS
+DNI: 7727960
+Teléfono: 600000442
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

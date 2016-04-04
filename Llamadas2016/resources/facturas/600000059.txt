@@ -1,0 +1,8 @@
+Cliente: PRIETO PEÑA, JORDI
+DNI: 9843233
+Teléfono: 600000059
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

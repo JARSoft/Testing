@@ -1,0 +1,8 @@
+Cliente: ROMAN DELGADO, HUGO
+DNI: 6359492
+Teléfono: 600000050
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

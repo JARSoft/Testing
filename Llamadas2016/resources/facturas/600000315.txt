@@ -1,0 +1,8 @@
+Cliente: MARIN RAMOS, MIRIAM
+DNI: 8517918
+Teléfono: 600000315
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

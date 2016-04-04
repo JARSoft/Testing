@@ -1,0 +1,8 @@
+Cliente: SANTANA SOLER, CESAR
+DNI: 5884913
+Teléfono: 600000163
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

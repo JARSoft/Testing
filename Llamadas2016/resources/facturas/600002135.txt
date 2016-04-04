@@ -1,0 +1,8 @@
+Cliente: IGLESIAS LOZANO, MARGARITA
+DNI: 7747763
+Teléfono: 600002135
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

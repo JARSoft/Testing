@@ -1,0 +1,8 @@
+Cliente: FLORES NAVARRO, VERONICA
+DNI: 7147192
+Teléfono: 600000887
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

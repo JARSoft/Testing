@@ -1,0 +1,8 @@
+Cliente: ESTEBAN DIAZ, SAMUEL
+DNI: 9268874
+Teléfono: 600000770
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

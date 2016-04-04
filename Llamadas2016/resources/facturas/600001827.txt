@@ -1,0 +1,8 @@
+Cliente: CASTILLO MARTINEZ, CARLOS
+DNI: 9984822
+Teléfono: 600001827
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

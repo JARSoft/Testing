@@ -1,0 +1,8 @@
+Cliente: LOPEZ BLANCO, JUAN CARLOS
+DNI: 6849995
+Teléfono: 600002628
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

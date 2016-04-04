@@ -1,0 +1,8 @@
+Cliente: BRAVO NUÑEZ, ALICIA
+DNI: 8268470
+Teléfono: 600001420
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

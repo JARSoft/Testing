@@ -1,0 +1,8 @@
+Cliente: VARGAS DURAN, JUAN
+DNI: 9573839
+Teléfono: 600000332
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

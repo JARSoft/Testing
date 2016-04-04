@@ -1,0 +1,8 @@
+Cliente: CABRERA CABRERA, RAUL
+DNI: 9987338
+Teléfono: 600001009
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

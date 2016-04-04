@@ -1,0 +1,8 @@
+Cliente: CABALLERO GARRIDO, INES
+DNI: 6393551
+Teléfono: 600001279
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

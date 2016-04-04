@@ -1,0 +1,8 @@
+Cliente: SOTO GONZALEZ, PEDRO
+DNI: 5170877
+Teléfono: 600000969
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CABALLERO REYES, JOSE ANTONIO
+DNI: 9599905
+Teléfono: 600001164
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NAVARRO VICENTE, IGNACIO
+DNI: 5797310
+Teléfono: 600000682
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ CABRERA, JULIAN
+DNI: 5822717
+Teléfono: 600001873
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

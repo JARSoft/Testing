@@ -1,0 +1,8 @@
+Cliente: ROMERO GARRIDO, FRANCISCO
+DNI: 8046076
+Teléfono: 600002505
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

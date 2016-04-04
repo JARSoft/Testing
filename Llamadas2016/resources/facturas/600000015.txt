@@ -1,0 +1,8 @@
+Cliente: CASTILLO GIL, CONSUELO
+DNI: 5484393
+Teléfono: 600000015
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

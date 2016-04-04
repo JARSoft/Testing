@@ -1,0 +1,8 @@
+Cliente: SOTO ALONSO, DOLORES
+DNI: 5748178
+Teléfono: 600001893
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

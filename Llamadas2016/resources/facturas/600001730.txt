@@ -1,0 +1,8 @@
+Cliente: CARRASCO FERRER, MOHAMED
+DNI: 7795930
+Teléfono: 600001730
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

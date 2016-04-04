@@ -1,0 +1,8 @@
+Cliente: MORA ORTIZ, ANA
+DNI: 7432681
+Teléfono: 600001266
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

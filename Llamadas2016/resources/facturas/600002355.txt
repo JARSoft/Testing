@@ -1,0 +1,8 @@
+Cliente: RAMIREZ MARTINEZ, JULIO
+DNI: 7929189
+Teléfono: 600002355
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MORA ROMAN, ANDRES
+DNI: 8369370
+Teléfono: 600001607
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

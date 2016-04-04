@@ -1,0 +1,8 @@
+Cliente: RAMOS ROJAS, NICOLAS
+DNI: 7358481
+Teléfono: 600002123
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

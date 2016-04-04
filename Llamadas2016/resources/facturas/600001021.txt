@@ -1,0 +1,8 @@
+Cliente: MUÑOZ MORENO, SAMUEL
+DNI: 5448129
+Teléfono: 600001021
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

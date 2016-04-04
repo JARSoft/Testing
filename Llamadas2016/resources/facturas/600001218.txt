@@ -1,0 +1,8 @@
+Cliente: ALVAREZ LOPEZ, AITOR
+DNI: 9041538
+Teléfono: 600001218
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

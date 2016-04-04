@@ -1,0 +1,8 @@
+Cliente: SAEZ IGLESIAS, ANGELES
+DNI: 9528319
+Teléfono: 600001260
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

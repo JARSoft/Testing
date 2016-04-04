@@ -1,0 +1,8 @@
+Cliente: MORA MORENO, MARINA
+DNI: 9179854
+Teléfono: 600000774
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

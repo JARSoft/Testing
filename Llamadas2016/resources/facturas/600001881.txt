@@ -1,0 +1,8 @@
+Cliente: CALVO SUAREZ, CONSUELO
+DNI: 8154525
+Teléfono: 600001881
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

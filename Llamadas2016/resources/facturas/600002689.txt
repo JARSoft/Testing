@@ -1,0 +1,8 @@
+Cliente: MARTIN LOZANO, JOSE ANTONIO
+DNI: 9483426
+Teléfono: 600002689
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CARRASCO LOPEZ, GREGORIO
+DNI: 7611902
+Teléfono: 600002364
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

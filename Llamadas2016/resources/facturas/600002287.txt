@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ DIAZ, JOSE ANGEL
+DNI: 7614595
+Teléfono: 600002287
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

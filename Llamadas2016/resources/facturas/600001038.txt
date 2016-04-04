@@ -1,0 +1,8 @@
+Cliente: BRAVO DURAN, ANTONIA
+DNI: 7136449
+Teléfono: 600001038
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

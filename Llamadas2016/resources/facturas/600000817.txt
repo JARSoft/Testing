@@ -1,0 +1,8 @@
+Cliente: ALVAREZ PASTOR, MARIA SOLEDAD
+DNI: 8418525
+Teléfono: 600000817
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

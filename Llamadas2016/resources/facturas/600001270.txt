@@ -1,0 +1,8 @@
+Cliente: GIL MARIN, ENRIQUE
+DNI: 6958312
+Teléfono: 600001270
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

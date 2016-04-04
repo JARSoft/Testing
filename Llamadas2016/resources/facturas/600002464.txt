@@ -1,0 +1,8 @@
+Cliente: RUBIO RODRIGUEZ, ALBERT
+DNI: 8676017
+Teléfono: 600002464
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

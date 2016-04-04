@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ GONZALEZ, PILAR
+DNI: 7687743
+Teléfono: 600002962
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

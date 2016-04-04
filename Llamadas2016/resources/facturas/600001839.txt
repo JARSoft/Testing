@@ -1,0 +1,8 @@
+Cliente: SOTO FLORES, JUAN JOSE
+DNI: 6227024
+Teléfono: 600001839
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

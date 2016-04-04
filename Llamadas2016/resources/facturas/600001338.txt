@@ -1,0 +1,8 @@
+Cliente: RAMIREZ SANCHEZ, OLGA
+DNI: 7128313
+Teléfono: 600001338
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

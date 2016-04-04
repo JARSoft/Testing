@@ -1,0 +1,8 @@
+Cliente: LOZANO GARRIDO, VICTOR
+DNI: 8580589
+Teléfono: 600001456
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CRESPO GOMEZ, MONICA
+DNI: 6442375
+Teléfono: 600002177
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RAMOS RUBIO, RAUL
+DNI: 7765672
+Teléfono: 600000921
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

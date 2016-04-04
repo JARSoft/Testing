@@ -1,0 +1,8 @@
+Cliente: CARMONA BRAVO, MONTSERRAT
+DNI: 5149566
+Teléfono: 600000838
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

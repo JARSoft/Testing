@@ -1,0 +1,8 @@
+Cliente: CALVO REYES, IKER
+DNI: 7838102
+Teléfono: 600000953
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

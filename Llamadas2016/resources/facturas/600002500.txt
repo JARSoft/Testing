@@ -1,0 +1,8 @@
+Cliente: VICENTE ESTEBAN, CELIA
+DNI: 7754121
+Teléfono: 600002500
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

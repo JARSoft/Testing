@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ SAEZ, RAUL
+DNI: 8336504
+Teléfono: 600002020
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

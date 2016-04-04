@@ -1,0 +1,8 @@
+Cliente: SUAREZ GOMEZ, IRENE
+DNI: 9163264
+Teléfono: 600002702
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

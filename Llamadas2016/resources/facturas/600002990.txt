@@ -1,0 +1,8 @@
+Cliente: DURAN FERNANDEZ, PATRICIA
+DNI: 6346750
+Teléfono: 600002990
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

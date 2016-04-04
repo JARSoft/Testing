@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ GIL, ESTHER
+DNI: 5379851
+Teléfono: 600000068
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

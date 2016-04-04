@@ -1,0 +1,8 @@
+Cliente: DURAN CANO, MILAGROS
+DNI: 6491321
+Teléfono: 600002475
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

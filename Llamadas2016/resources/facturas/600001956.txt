@@ -1,0 +1,8 @@
+Cliente: GIMENEZ LOPEZ, ROSA
+DNI: 5439347
+Teléfono: 600001956
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

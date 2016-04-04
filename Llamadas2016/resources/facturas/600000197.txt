@@ -1,0 +1,8 @@
+Cliente: NIETO CARMONA, BEATRIZ
+DNI: 7686805
+Teléfono: 600000197
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

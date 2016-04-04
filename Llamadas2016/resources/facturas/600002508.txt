@@ -1,0 +1,8 @@
+Cliente: ALONSO LEON, ROBERTO
+DNI: 8755392
+Teléfono: 600002508
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

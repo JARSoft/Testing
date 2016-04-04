@@ -1,0 +1,8 @@
+Cliente: GIMENEZ MARTIN, NATALIA
+DNI: 9506137
+Teléfono: 600001024
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

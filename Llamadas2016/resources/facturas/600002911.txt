@@ -1,0 +1,8 @@
+Cliente: VIDAL NUÑEZ, ANTONIA
+DNI: 7619052
+Teléfono: 600002911
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

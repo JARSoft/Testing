@@ -1,0 +1,8 @@
+Cliente: PARRA JIMENEZ, OLGA
+DNI: 7560559
+Teléfono: 600000533
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

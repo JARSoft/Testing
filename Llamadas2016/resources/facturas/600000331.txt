@@ -1,0 +1,8 @@
+Cliente: VICENTE DIAZ, ANA ISABEL
+DNI: 9595641
+Teléfono: 600000331
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

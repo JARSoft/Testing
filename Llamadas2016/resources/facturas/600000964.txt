@@ -1,0 +1,8 @@
+Cliente: MENDEZ MEDINA, MARTA
+DNI: 6261543
+Teléfono: 600000964
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

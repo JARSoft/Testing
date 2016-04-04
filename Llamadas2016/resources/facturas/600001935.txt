@@ -1,0 +1,8 @@
+Cliente: DELGADO CRESPO, EMILIA
+DNI: 8683621
+Teléfono: 600001935
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

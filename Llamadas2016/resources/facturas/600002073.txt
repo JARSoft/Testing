@@ -1,0 +1,8 @@
+Cliente: PASCUAL GIL, JUAN
+DNI: 8062465
+Teléfono: 600002073
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

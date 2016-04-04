@@ -1,0 +1,8 @@
+Cliente: SANTOS RAMOS, LORENZO
+DNI: 6715739
+Teléfono: 600000365
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

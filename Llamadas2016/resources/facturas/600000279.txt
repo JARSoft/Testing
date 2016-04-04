@@ -1,0 +1,8 @@
+Cliente: AGUILAR PARRA, ADRIAN
+DNI: 8047343
+Teléfono: 600000279
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ARIAS MORALES, ROSA MARIA
+DNI: 7900228
+Teléfono: 600001766
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

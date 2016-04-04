@@ -1,0 +1,8 @@
+Cliente: FERRER MOYA, ANTONIA
+DNI: 8238882
+Teléfono: 600002114
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

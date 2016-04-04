@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ FUENTES, JOAN
+DNI: 7401929
+Teléfono: 600000501
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

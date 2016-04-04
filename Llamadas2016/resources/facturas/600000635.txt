@@ -1,0 +1,8 @@
+Cliente: CRESPO NAVARRO, JOSE LUIS
+DNI: 9688940
+Teléfono: 600000635
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CANO ARIAS, MIGUEL ANGEL
+DNI: 9962122
+Teléfono: 600002488
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

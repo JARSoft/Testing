@@ -1,0 +1,8 @@
+Cliente: CABRERA VICENTE, ANDRES
+DNI: 6659995
+Teléfono: 600002249
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

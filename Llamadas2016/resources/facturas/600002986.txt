@@ -1,0 +1,8 @@
+Cliente: PASCUAL DELGADO, MARIA LUISA
+DNI: 5383215
+Teléfono: 600002986
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIEZ MARIN, OLGA
+DNI: 5219540
+Teléfono: 600002790
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

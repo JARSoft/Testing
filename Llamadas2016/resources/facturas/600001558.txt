@@ -1,0 +1,8 @@
+Cliente: SOLER RAMOS, SONIA
+DNI: 5858913
+Teléfono: 600001558
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

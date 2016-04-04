@@ -1,0 +1,8 @@
+Cliente: VELASCO TORRES, MARIA MERCEDES
+DNI: 6933291
+Teléfono: 600001813
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

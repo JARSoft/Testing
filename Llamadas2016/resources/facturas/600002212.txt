@@ -1,0 +1,8 @@
+Cliente: MARIN IGLESIAS, ANA ISABEL
+DNI: 8237207
+Teléfono: 600002212
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

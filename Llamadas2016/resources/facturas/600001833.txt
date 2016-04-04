@@ -1,0 +1,8 @@
+Cliente: LOZANO MUÑOZ, RUBEN
+DNI: 8939106
+Teléfono: 600001833
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

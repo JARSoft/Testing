@@ -1,0 +1,8 @@
+Cliente: CALVO REYES, SILVIA
+DNI: 6686865
+Teléfono: 600002542
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

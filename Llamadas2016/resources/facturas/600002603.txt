@@ -1,0 +1,8 @@
+Cliente: SANZ ALONSO, SEBASTIAN
+DNI: 9708734
+Teléfono: 600002603
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

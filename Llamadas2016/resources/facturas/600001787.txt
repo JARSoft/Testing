@@ -1,0 +1,8 @@
+Cliente: GARRIDO ARIAS, BEATRIZ
+DNI: 9538265
+Teléfono: 600001787
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

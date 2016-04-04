@@ -1,0 +1,8 @@
+Cliente: GARRIDO PEÑA, JULIAN
+DNI: 6416343
+Teléfono: 600000401
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

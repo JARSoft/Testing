@@ -1,0 +1,8 @@
+Cliente: CABRERA GARRIDO, MARIA MAR
+DNI: 5208174
+Teléfono: 600000272
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

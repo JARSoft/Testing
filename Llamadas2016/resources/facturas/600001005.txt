@@ -1,0 +1,8 @@
+Cliente: LOPEZ MOYA, DOMINGO
+DNI: 7676651
+Teléfono: 600001005
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

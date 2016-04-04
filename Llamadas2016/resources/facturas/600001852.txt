@@ -1,0 +1,8 @@
+Cliente: IGLESIAS ROJAS, LORENA
+DNI: 5090752
+Teléfono: 600001852
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

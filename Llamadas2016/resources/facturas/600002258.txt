@@ -1,0 +1,8 @@
+Cliente: LOPEZ HERRERO, MONTSERRAT
+DNI: 9513705
+Teléfono: 600002258
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

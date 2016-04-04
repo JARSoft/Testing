@@ -1,0 +1,8 @@
+Cliente: GUERRERO MEDINA, LUIS
+DNI: 5081000
+Teléfono: 600002058
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

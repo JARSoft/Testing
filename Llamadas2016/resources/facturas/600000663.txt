@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ LEON, FRANCISCA
+DNI: 5488357
+Teléfono: 600000663
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

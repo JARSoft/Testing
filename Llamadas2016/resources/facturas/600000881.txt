@@ -1,0 +1,8 @@
+Cliente: BRAVO SAEZ, FELIPE
+DNI: 9374280
+Teléfono: 600000881
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

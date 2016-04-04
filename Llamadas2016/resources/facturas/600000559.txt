@@ -1,0 +1,8 @@
+Cliente: AGUILAR IGLESIAS, ANA MARIA
+DNI: 6326517
+Teléfono: 600000559
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

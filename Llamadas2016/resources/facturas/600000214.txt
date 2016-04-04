@@ -1,0 +1,8 @@
+Cliente: VELASCO CABALLERO, LUIS MIGUEL
+DNI: 9241834
+Teléfono: 600000214
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ NAVARRO, JOSE MANUEL
+DNI: 9487168
+Teléfono: 600001423
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

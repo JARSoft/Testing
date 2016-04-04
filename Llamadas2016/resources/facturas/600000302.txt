@@ -1,0 +1,8 @@
+Cliente: PASTOR HERRERA, JORDI
+DNI: 5987373
+Teléfono: 600000302
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

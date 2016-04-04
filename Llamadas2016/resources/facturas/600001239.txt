@@ -1,0 +1,8 @@
+Cliente: REYES DELGADO, GABRIEL
+DNI: 9477332
+Teléfono: 600001239
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

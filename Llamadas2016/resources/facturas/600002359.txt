@@ -1,0 +1,8 @@
+Cliente: ROMERO CORTES, SANDRA
+DNI: 7445306
+Teléfono: 600002359
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

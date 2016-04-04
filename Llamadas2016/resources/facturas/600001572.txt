@@ -1,0 +1,8 @@
+Cliente: PARRA VARGAS, JULIA
+DNI: 8318277
+Teléfono: 600001572
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

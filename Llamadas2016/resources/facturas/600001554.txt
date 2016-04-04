@@ -1,0 +1,8 @@
+Cliente: ORTEGA RAMIREZ, IVAN
+DNI: 6447623
+Teléfono: 600001554
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MOLINA MUÑOZ, ROSARIO
+DNI: 9563715
+Teléfono: 600002857
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

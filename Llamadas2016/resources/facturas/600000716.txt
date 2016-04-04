@@ -1,0 +1,8 @@
+Cliente: LOPEZ VELASCO, JOSE RAMON
+DNI: 7352397
+Teléfono: 600000716
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: LOZANO PEREZ, CAROLINA
+DNI: 5746650
+Teléfono: 600002275
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

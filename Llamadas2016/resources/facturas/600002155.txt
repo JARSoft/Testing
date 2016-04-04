@@ -1,0 +1,8 @@
+Cliente: PRIETO HERRERO, JUAN FRANCISCO
+DNI: 6281503
+Teléfono: 600002155
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

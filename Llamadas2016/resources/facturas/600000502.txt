@@ -1,0 +1,8 @@
+Cliente: SOTO RODRIGUEZ, JUAN
+DNI: 9448195
+Teléfono: 600000502
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

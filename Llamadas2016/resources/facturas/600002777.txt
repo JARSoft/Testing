@@ -1,0 +1,8 @@
+Cliente: GALLARDO VIDAL, RUBEN
+DNI: 5183128
+Teléfono: 600002777
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

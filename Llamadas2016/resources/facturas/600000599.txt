@@ -1,0 +1,8 @@
+Cliente: BENITEZ ALONSO, JESUS
+DNI: 9413114
+Teléfono: 600000599
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

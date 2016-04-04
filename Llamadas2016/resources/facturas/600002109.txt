@@ -1,0 +1,8 @@
+Cliente: LORENZO MARQUEZ, IKER
+DNI: 9146727
+Teléfono: 600002109
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

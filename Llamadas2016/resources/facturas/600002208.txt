@@ -1,0 +1,8 @@
+Cliente: CORTES GONZALEZ, SANTIAGO
+DNI: 9849146
+Teléfono: 600002208
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

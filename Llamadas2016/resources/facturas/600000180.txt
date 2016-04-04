@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ SANTOS, SILVIA
+DNI: 6009794
+Teléfono: 600000180
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

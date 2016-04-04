@@ -1,0 +1,8 @@
+Cliente: PASTOR GONZALEZ, JULIO
+DNI: 8170576
+Teléfono: 600000482
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

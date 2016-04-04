@@ -1,0 +1,8 @@
+Cliente: GARCIA DURAN, ANGELA
+DNI: 6610861
+Teléfono: 600002820
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

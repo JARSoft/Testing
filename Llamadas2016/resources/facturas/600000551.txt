@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ FUENTES, JOSE
+DNI: 8261374
+Teléfono: 600000551
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

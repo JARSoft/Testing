@@ -1,0 +1,8 @@
+Cliente: SANTIAGO VELASCO, EMILIO
+DNI: 7155051
+Teléfono: 600001717
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

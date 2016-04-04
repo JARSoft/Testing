@@ -1,0 +1,8 @@
+Cliente: SUAREZ LOZANO, CARLA
+DNI: 5869265
+Teléfono: 600002036
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

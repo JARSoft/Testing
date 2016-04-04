@@ -1,0 +1,8 @@
+Cliente: ARIAS NIETO, JOSEFA
+DNI: 8008200
+Teléfono: 600002601
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

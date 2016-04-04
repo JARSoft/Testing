@@ -1,0 +1,8 @@
+Cliente: DIEZ SAEZ, SERGIO
+DNI: 9588696
+Teléfono: 600002714
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

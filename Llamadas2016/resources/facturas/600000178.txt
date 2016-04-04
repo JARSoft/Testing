@@ -1,0 +1,8 @@
+Cliente: CALVO RAMOS, NEREA
+DNI: 8376884
+Teléfono: 600000178
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

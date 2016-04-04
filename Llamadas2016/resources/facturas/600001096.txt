@@ -1,0 +1,8 @@
+Cliente: PARRA PRIETO, SOFIA
+DNI: 8339025
+Teléfono: 600001096
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SANCHEZ DURAN, MARINA
+DNI: 5305341
+Teléfono: 600002581
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

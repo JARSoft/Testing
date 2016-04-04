@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ BLANCO, LORENA
+DNI: 6492235
+Teléfono: 600000159
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

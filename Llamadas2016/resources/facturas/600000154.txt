@@ -1,0 +1,8 @@
+Cliente: ORTIZ PRIETO, ANGELES
+DNI: 8411172
+Teléfono: 600000154
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

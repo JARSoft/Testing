@@ -1,0 +1,8 @@
+Cliente: REYES HERRERO, JUAN FRANCISCO
+DNI: 9408011
+Teléfono: 600000355
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

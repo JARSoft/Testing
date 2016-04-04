@@ -1,0 +1,8 @@
+Cliente: CASTILLO LORENZO, CARLA
+DNI: 8057655
+Teléfono: 600001979
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

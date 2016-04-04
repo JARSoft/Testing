@@ -1,0 +1,8 @@
+Cliente: CANO PRIETO, FRANCISCA
+DNI: 8729813
+Teléfono: 600000209
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

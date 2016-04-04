@@ -1,0 +1,8 @@
+Cliente: CALVO MOYA, MARIA ANGELES
+DNI: 6343302
+Teléfono: 600001966
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

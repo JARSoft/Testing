@@ -1,0 +1,8 @@
+Cliente: SANTIAGO CABALLERO, MONTSERRAT
+DNI: 9000211
+Teléfono: 600002658
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

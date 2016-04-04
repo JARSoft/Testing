@@ -1,0 +1,8 @@
+Cliente: SAEZ PEREZ, FERNANDO
+DNI: 5374356
+Teléfono: 600000196
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

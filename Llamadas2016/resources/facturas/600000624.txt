@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ SOLER, MONTSERRAT
+DNI: 5602790
+Teléfono: 600000624
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

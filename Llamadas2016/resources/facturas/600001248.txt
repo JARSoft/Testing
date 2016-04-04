@@ -1,0 +1,8 @@
+Cliente: RAMOS RAMIREZ, PILAR
+DNI: 7244721
+Teléfono: 600001248
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RUBIO PEÑA, RODRIGO
+DNI: 9427134
+Teléfono: 600002274
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

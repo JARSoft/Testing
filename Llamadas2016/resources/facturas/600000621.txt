@@ -1,0 +1,8 @@
+Cliente: ROJAS ARIAS, EMILIA
+DNI: 8744620
+Teléfono: 600000621
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

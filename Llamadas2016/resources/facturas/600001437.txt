@@ -1,0 +1,8 @@
+Cliente: JIMENEZ VIDAL, MIGUEL
+DNI: 8787485
+Teléfono: 600001437
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

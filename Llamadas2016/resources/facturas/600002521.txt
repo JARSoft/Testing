@@ -1,0 +1,8 @@
+Cliente: ORTEGA ALVAREZ, MONICA
+DNI: 5712943
+Teléfono: 600002521
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

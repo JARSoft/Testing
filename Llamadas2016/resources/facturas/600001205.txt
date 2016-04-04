@@ -1,0 +1,8 @@
+Cliente: MONTERO VARGAS, HECTOR
+DNI: 5313287
+Teléfono: 600001205
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

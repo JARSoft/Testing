@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ NAVARRO, FRANCISCO JAVIER
+DNI: 7291904
+Teléfono: 600001013
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

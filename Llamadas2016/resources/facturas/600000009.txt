@@ -1,0 +1,8 @@
+Cliente: MORALES IGLESIAS, MANUEL
+DNI: 5471257
+Teléfono: 600000009
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

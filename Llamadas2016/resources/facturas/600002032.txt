@@ -1,0 +1,8 @@
+Cliente: ARIAS CARMONA, JUAN JOSE
+DNI: 9593307
+Teléfono: 600002032
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ARIAS CRESPO, JUAN JOSE
+DNI: 5223257
+Teléfono: 600001886
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CALVO VIDAL, RAQUEL
+DNI: 8455490
+Teléfono: 600000341
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

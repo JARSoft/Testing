@@ -1,0 +1,8 @@
+Cliente: ROMERO BENITEZ, EDUARDO
+DNI: 9437292
+Teléfono: 600002614
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

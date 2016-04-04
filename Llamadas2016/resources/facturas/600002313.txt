@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ NUÑEZ, AMPARO
+DNI: 6180849
+Teléfono: 600002313
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

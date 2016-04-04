@@ -1,0 +1,8 @@
+Cliente: SANTIAGO TORRES, MARC
+DNI: 8753811
+Teléfono: 600001830
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

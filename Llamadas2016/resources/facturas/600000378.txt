@@ -1,0 +1,8 @@
+Cliente: ARIAS PRIETO, MARIA MAR
+DNI: 7472967
+Teléfono: 600000378
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

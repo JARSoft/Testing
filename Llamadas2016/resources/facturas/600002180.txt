@@ -1,0 +1,8 @@
+Cliente: CRESPO CASTILLO, JULIO
+DNI: 7961835
+Teléfono: 600002180
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

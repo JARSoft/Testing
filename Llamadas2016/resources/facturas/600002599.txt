@@ -1,0 +1,8 @@
+Cliente: LEON CRUZ, SERGIO
+DNI: 6213887
+Teléfono: 600002599
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

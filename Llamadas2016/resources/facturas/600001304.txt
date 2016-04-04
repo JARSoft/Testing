@@ -1,0 +1,8 @@
+Cliente: MORA NAVARRO, SILVIA
+DNI: 5108073
+Teléfono: 600001304
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

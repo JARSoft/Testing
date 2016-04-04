@@ -1,0 +1,8 @@
+Cliente: CABALLERO DOMINGUEZ, ISABEL
+DNI: 7717332
+Teléfono: 600000448
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

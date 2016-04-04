@@ -1,0 +1,8 @@
+Cliente: MORALES ORTIZ, CLAUDIA
+DNI: 6350632
+Teléfono: 600000914
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

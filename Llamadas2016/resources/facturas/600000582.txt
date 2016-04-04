@@ -1,0 +1,8 @@
+Cliente: SERRANO PRIETO, JOAQUIN
+DNI: 5434943
+Teléfono: 600000582
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

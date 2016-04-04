@@ -1,0 +1,8 @@
+Cliente: LORENZO CASTRO, RAUL
+DNI: 9267936
+Teléfono: 600002920
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

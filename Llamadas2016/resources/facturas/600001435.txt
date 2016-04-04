@@ -1,0 +1,8 @@
+Cliente: FERRER LOPEZ, INES
+DNI: 5058743
+Teléfono: 600001435
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ROJAS CASTRO, IKER
+DNI: 5709179
+Teléfono: 600000166
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

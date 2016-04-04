@@ -1,0 +1,8 @@
+Cliente: SOLER NAVARRO, ANGEL
+DNI: 5059144
+Teléfono: 600000791
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

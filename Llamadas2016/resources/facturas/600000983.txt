@@ -1,0 +1,8 @@
+Cliente: FERRER MOLINA, JUAN LUIS
+DNI: 7896268
+Teléfono: 600000983
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

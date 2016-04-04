@@ -1,0 +1,8 @@
+Cliente: SANTIAGO GARCIA, MARIANO
+DNI: 9676322
+Teléfono: 600001542
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

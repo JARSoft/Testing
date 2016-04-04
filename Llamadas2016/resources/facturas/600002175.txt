@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ MORALES, ADRIAN
+DNI: 6423492
+Teléfono: 600002175
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARTINEZ RUIZ, ALFONSO
+DNI: 9618836
+Teléfono: 600001608
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

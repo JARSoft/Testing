@@ -1,0 +1,8 @@
+Cliente: NIETO ESTEBAN, PATRICIA
+DNI: 8935598
+Teléfono: 600000051
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

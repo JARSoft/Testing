@@ -1,0 +1,8 @@
+Cliente: ROMERO VIDAL, IGNACIO
+DNI: 7155890
+Teléfono: 600001817
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

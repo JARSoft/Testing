@@ -1,0 +1,8 @@
+Cliente: PEÑA PEÑA, MARIA
+DNI: 8786631
+Teléfono: 600000903
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

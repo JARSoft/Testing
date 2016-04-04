@@ -1,0 +1,8 @@
+Cliente: PRIETO RUIZ, ROSARIO
+DNI: 8462059
+Teléfono: 600002434
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

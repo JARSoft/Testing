@@ -1,0 +1,8 @@
+Cliente: RUIZ MORENO, RICARDO
+DNI: 8369819
+Teléfono: 600000229
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

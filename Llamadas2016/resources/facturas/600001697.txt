@@ -1,0 +1,8 @@
+Cliente: JIMENEZ VELASCO, MARIA CARMEN
+DNI: 8981241
+Teléfono: 600001697
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ROJAS GONZALEZ, JUAN LUIS
+DNI: 6524865
+Teléfono: 600001454
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

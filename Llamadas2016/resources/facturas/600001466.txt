@@ -1,0 +1,8 @@
+Cliente: SOTO SUAREZ, JOSEFA
+DNI: 5008472
+Teléfono: 600001466
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

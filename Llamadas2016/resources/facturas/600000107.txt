@@ -1,0 +1,8 @@
+Cliente: GALLEGO MONTERO, FELIX
+DNI: 7334024
+Teléfono: 600000107
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

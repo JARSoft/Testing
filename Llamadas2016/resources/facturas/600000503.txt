@@ -1,0 +1,8 @@
+Cliente: NUÑEZ CASTRO, ENCARNACION
+DNI: 7831610
+Teléfono: 600000503
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

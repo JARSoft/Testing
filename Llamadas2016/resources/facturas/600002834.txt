@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ MORENO, JOSEFA
+DNI: 8522767
+Teléfono: 600002834
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

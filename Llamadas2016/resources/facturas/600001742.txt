@@ -1,0 +1,8 @@
+Cliente: SANTIAGO GOMEZ, ALEJANDRO
+DNI: 6013951
+Teléfono: 600001742
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

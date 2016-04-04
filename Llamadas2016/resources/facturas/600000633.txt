@@ -1,0 +1,8 @@
+Cliente: SOLER DIEZ, SAMUEL
+DNI: 7075525
+Teléfono: 600000633
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

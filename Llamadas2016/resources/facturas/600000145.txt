@@ -1,0 +1,8 @@
+Cliente: FUENTES LOPEZ, SERGIO
+DNI: 8667560
+Teléfono: 600000145
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

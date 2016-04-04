@@ -1,0 +1,8 @@
+Cliente: GALLEGO CRESPO, EDUARDO
+DNI: 9981965
+Teléfono: 600001246
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

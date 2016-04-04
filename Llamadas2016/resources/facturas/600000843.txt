@@ -1,0 +1,8 @@
+Cliente: RUIZ CALVO, JULIA
+DNI: 5221594
+Teléfono: 600000843
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NIETO AGUILAR, ADRIAN
+DNI: 6621889
+Teléfono: 600001008
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

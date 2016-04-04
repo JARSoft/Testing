@@ -1,0 +1,8 @@
+Cliente: BRAVO GIMENEZ, ENRIQUE
+DNI: 7591487
+Teléfono: 600001901
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: HERRERO LEON, AITOR
+DNI: 7409771
+Teléfono: 600001496
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

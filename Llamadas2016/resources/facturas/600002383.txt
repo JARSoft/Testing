@@ -1,0 +1,8 @@
+Cliente: ESTEBAN HERRERO, CLAUDIA
+DNI: 8132653
+Teléfono: 600002383
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

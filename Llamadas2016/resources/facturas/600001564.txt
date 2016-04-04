@@ -1,0 +1,8 @@
+Cliente: GARRIDO PEÑA, ESTHER
+DNI: 8583627
+Teléfono: 600001564
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

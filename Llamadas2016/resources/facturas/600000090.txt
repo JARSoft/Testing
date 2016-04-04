@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ CARMONA, LORENA
+DNI: 7213309
+Teléfono: 600000090
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

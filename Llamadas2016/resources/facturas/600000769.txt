@@ -1,0 +1,8 @@
+Cliente: GIL DOMINGUEZ, JOSE FRANCISCO
+DNI: 5866055
+Teléfono: 600000769
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

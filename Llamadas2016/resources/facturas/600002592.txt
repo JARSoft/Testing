@@ -1,0 +1,8 @@
+Cliente: ESTEBAN NIETO, IKER
+DNI: 5516770
+Teléfono: 600002592
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

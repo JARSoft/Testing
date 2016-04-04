@@ -1,0 +1,8 @@
+Cliente: MUÑOZ MORALES, MARIA ISABEL
+DNI: 8434889
+Teléfono: 600002444
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

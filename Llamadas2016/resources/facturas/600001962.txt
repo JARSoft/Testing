@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ CASTRO, MARIA ELENA
+DNI: 9288202
+Teléfono: 600001962
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

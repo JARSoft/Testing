@@ -1,0 +1,8 @@
+Cliente: VICENTE FLORES, JOSE ANGEL
+DNI: 9083818
+Teléfono: 600002077
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

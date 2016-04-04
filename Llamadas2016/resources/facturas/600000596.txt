@@ -1,0 +1,8 @@
+Cliente: DURAN BLANCO, MOHAMED
+DNI: 9658451
+Teléfono: 600000596
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

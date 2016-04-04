@@ -1,0 +1,8 @@
+Cliente: RUIZ ROMERO, MARIA ISABEL
+DNI: 6962169
+Teléfono: 600002851
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

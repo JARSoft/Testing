@@ -1,0 +1,8 @@
+Cliente: CABALLERO TORRES, ENRIQUE
+DNI: 9874715
+Teléfono: 600000353
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: FUENTES IGLESIAS, HECTOR
+DNI: 9667751
+Teléfono: 600001810
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

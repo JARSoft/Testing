@@ -1,0 +1,8 @@
+Cliente: RUIZ CRUZ, OSCAR
+DNI: 5741837
+Teléfono: 600001874
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

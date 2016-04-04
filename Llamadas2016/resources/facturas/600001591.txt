@@ -1,0 +1,8 @@
+Cliente: DURAN SANZ, MARIA CONCEPCION
+DNI: 9211234
+Teléfono: 600001591
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

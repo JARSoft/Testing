@@ -1,0 +1,8 @@
+Cliente: DELGADO SERRANO, JUAN FRANCISCO
+DNI: 5117756
+Teléfono: 600002796
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

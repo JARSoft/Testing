@@ -1,0 +1,8 @@
+Cliente: NAVARRO GONZALEZ, ANGEL
+DNI: 7578595
+Teléfono: 600001837
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

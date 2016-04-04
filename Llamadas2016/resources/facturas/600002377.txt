@@ -1,0 +1,8 @@
+Cliente: DELGADO DIEZ, JAVIER
+DNI: 8430390
+Teléfono: 600002377
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

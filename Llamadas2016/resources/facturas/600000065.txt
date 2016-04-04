@@ -1,0 +1,8 @@
+Cliente: MONTERO RUIZ, LUIS
+DNI: 8527864
+Teléfono: 600000065
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

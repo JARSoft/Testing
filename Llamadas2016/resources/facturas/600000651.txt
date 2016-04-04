@@ -1,0 +1,8 @@
+Cliente: LOPEZ CALVO, MARIA ROSA
+DNI: 8067089
+Teléfono: 600000651
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

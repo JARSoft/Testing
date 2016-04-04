@@ -1,0 +1,8 @@
+Cliente: GARRIDO SANZ, PEDRO
+DNI: 7087775
+Teléfono: 600000429
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

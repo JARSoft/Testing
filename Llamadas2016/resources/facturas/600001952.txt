@@ -1,0 +1,8 @@
+Cliente: CAMPOS CAMPOS, ANGEL
+DNI: 9328381
+Teléfono: 600001952
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

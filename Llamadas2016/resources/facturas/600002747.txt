@@ -1,0 +1,8 @@
+Cliente: MOLINA ROMAN, SALVADOR
+DNI: 8902469
+Teléfono: 600002747
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

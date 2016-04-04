@@ -1,0 +1,8 @@
+Cliente: LEON GONZALEZ, FRANCISCO JOSE
+DNI: 7173906
+Teléfono: 600001102
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

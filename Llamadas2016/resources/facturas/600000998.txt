@@ -1,0 +1,8 @@
+Cliente: IGLESIAS AGUILAR, RAMON
+DNI: 7694732
+Teléfono: 600000998
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

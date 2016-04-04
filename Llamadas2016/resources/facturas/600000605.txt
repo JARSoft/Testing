@@ -1,0 +1,8 @@
+Cliente: MARTIN HIDALGO, ALFONSO
+DNI: 8749727
+Teléfono: 600000605
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

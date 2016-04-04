@@ -1,0 +1,8 @@
+Cliente: PASTOR VICENTE, INES
+DNI: 9986605
+Teléfono: 600000281
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

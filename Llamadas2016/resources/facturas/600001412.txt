@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ GARRIDO, JUAN JOSE
+DNI: 9638659
+Teléfono: 600001412
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

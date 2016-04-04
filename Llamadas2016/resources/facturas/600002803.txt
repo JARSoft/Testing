@@ -1,0 +1,8 @@
+Cliente: DELGADO IGLESIAS, MARIA SOLEDAD
+DNI: 5726898
+Teléfono: 600002803
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

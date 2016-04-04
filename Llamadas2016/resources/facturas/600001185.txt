@@ -1,0 +1,8 @@
+Cliente: ESTEBAN NIETO, PILAR
+DNI: 6475474
+Teléfono: 600001185
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

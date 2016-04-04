@@ -1,0 +1,8 @@
+Cliente: GALLEGO CABRERA, MARIA JOSE
+DNI: 5907798
+Teléfono: 600000150
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CORTES BRAVO, VICTOR MANUEL
+DNI: 5540238
+Teléfono: 600000328
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

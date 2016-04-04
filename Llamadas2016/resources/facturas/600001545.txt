@@ -1,0 +1,8 @@
+Cliente: CRUZ SANTOS, JULIO
+DNI: 8740682
+Teléfono: 600001545
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

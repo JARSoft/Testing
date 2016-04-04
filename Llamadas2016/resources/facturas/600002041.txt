@@ -1,0 +1,8 @@
+Cliente: ROMAN SANTANA, MARIA ANGELES
+DNI: 7559616
+Teléfono: 600002041
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

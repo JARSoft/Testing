@@ -1,0 +1,8 @@
+Cliente: MORENO HERRERO, ALBERT
+DNI: 5829459
+Teléfono: 600001727
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

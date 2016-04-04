@@ -1,0 +1,8 @@
+Cliente: DIEZ SUAREZ, NEREA
+DNI: 6571037
+Teléfono: 600002923
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

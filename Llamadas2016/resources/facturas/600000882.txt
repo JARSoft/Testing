@@ -1,0 +1,8 @@
+Cliente: MENDEZ ESTEBAN, FERNANDO
+DNI: 9134317
+Teléfono: 600000882
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

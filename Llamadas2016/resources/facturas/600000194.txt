@@ -1,0 +1,8 @@
+Cliente: LORENZO ORTIZ, ROSARIO
+DNI: 6322829
+Teléfono: 600000194
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

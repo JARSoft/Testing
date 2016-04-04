@@ -1,0 +1,8 @@
+Cliente: GUERRERO IGLESIAS, MARIA TERESA
+DNI: 9930211
+Teléfono: 600001665
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

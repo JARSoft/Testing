@@ -1,0 +1,8 @@
+Cliente: SUAREZ PEÑA, CELIA
+DNI: 9357137
+Teléfono: 600002431
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

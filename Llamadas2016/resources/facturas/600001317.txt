@@ -1,0 +1,8 @@
+Cliente: GALLARDO LORENZO, DOMINGO
+DNI: 6876336
+Teléfono: 600001317
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

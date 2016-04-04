@@ -1,0 +1,8 @@
+Cliente: VICENTE PRIETO, MARIA ROSA
+DNI: 7051661
+Teléfono: 600001192
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

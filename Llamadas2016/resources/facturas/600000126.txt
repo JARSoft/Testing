@@ -1,0 +1,8 @@
+Cliente: MENDEZ SANTANA, MIGUEL ANGEL
+DNI: 5392084
+Teléfono: 600000126
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

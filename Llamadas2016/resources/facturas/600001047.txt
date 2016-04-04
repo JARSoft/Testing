@@ -1,0 +1,8 @@
+Cliente: CAMPOS HERRERO, IGNACIO
+DNI: 6277227
+Teléfono: 600001047
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

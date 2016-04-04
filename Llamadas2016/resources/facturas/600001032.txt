@@ -1,0 +1,8 @@
+Cliente: PARRA MOYA, SAMUEL
+DNI: 8819079
+Teléfono: 600001032
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

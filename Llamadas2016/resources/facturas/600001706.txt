@@ -1,0 +1,8 @@
+Cliente: MORENO MENDEZ, PILAR
+DNI: 9349259
+Teléfono: 600001706
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

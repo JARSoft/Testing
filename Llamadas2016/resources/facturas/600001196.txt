@@ -1,0 +1,8 @@
+Cliente: ARIAS ESTEBAN, SONIA
+DNI: 9231549
+Teléfono: 600001196
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

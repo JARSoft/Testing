@@ -1,0 +1,8 @@
+Cliente: MENDEZ SANTOS, ALBERTO
+DNI: 9493607
+Teléfono: 600002636
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CALVO LEON, NATALIA
+DNI: 6143312
+Teléfono: 600000938
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

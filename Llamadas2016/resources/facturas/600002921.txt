@@ -1,0 +1,8 @@
+Cliente: MUÑOZ DELGADO, JOSE MIGUEL
+DNI: 5652111
+Teléfono: 600002921
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

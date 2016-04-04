@@ -1,0 +1,8 @@
+Cliente: REYES FLORES, JUAN CARLOS
+DNI: 7936387
+Teléfono: 600000477
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

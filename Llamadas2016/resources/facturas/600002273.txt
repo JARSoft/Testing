@@ -1,0 +1,8 @@
+Cliente: HERRERA PRIETO, MARINA
+DNI: 6075971
+Teléfono: 600002273
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

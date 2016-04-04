@@ -1,0 +1,8 @@
+Cliente: MORALES ROJAS, AGUSTIN
+DNI: 7218645
+Teléfono: 600001394
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

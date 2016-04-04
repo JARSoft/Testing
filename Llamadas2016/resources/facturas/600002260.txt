@@ -1,0 +1,8 @@
+Cliente: BLANCO CRUZ, EDUARDO
+DNI: 6096852
+Teléfono: 600002260
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

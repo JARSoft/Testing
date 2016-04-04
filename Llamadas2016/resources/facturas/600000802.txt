@@ -1,0 +1,8 @@
+Cliente: GIL IBAÑEZ, CELIA
+DNI: 7359290
+Teléfono: 600000802
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

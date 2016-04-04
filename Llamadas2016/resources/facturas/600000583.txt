@@ -1,0 +1,8 @@
+Cliente: NAVARRO SANTANA, MARIA SOLEDAD
+DNI: 8462611
+Teléfono: 600000583
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

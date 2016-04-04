@@ -1,0 +1,8 @@
+Cliente: VICENTE MORALES, CRISTINA
+DNI: 5409614
+Teléfono: 600000664
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: LOZANO PEREZ, MARTIN
+DNI: 7275369
+Teléfono: 600000894
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

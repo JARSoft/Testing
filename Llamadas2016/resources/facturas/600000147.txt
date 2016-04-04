@@ -1,0 +1,8 @@
+Cliente: MARTIN CABRERA, TOMAS
+DNI: 5995421
+Teléfono: 600000147
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

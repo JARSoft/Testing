@@ -1,0 +1,8 @@
+Cliente: SANTIAGO RAMOS, PABLO
+DNI: 9036822
+Teléfono: 600002078
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

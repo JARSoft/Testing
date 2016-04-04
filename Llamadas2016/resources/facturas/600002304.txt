@@ -1,0 +1,8 @@
+Cliente: SANCHEZ HIDALGO, JOSE ANGEL
+DNI: 8650460
+Teléfono: 600002304
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

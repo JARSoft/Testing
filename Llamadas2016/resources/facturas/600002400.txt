@@ -1,0 +1,8 @@
+Cliente: MARTIN AGUILAR, ALBERTO
+DNI: 7441084
+Teléfono: 600002400
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

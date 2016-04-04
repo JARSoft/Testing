@@ -1,0 +1,8 @@
+Cliente: LORENZO SOLER, CRISTINA
+DNI: 9276785
+Teléfono: 600000491
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

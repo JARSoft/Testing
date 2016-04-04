@@ -1,0 +1,8 @@
+Cliente: SANCHEZ GUTIERREZ, HECTOR
+DNI: 9843482
+Teléfono: 600002150
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

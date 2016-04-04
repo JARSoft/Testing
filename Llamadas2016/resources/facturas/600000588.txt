@@ -1,0 +1,8 @@
+Cliente: DELGADO SAEZ, SILVIA
+DNI: 6581157
+Teléfono: 600000588
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GIMENEZ GIMENEZ, CATALINA
+DNI: 9861322
+Teléfono: 600002703
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

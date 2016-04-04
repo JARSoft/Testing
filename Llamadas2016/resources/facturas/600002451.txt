@@ -1,0 +1,8 @@
+Cliente: BENITEZ GOMEZ, RODRIGO
+DNI: 6605911
+Teléfono: 600002451
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

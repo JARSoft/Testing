@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ SANCHEZ, JUANA
+DNI: 5031177
+Teléfono: 600002585
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

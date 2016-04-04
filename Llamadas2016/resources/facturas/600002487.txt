@@ -1,0 +1,8 @@
+Cliente: ORTIZ ALVAREZ, VICTOR MANUEL
+DNI: 8136666
+Teléfono: 600002487
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

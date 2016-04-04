@@ -1,0 +1,8 @@
+Cliente: GOMEZ RUIZ, SERGIO
+DNI: 9866123
+Teléfono: 600000333
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

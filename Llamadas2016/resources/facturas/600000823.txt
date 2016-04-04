@@ -1,0 +1,8 @@
+Cliente: SERRANO SANTOS, ALFONSO
+DNI: 6516172
+Teléfono: 600000823
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

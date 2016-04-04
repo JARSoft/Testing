@@ -1,0 +1,8 @@
+Cliente: MORENO REYES, ANGELA
+DNI: 5886898
+Teléfono: 600000459
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GONZALEZ SANCHEZ, JULIAN
+DNI: 7064513
+Teléfono: 600000441
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

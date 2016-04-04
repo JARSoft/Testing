@@ -1,0 +1,8 @@
+Cliente: CAMPOS PASCUAL, CARMEN
+DNI: 5903264
+Teléfono: 600002740
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

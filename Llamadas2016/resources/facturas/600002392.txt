@@ -1,0 +1,8 @@
+Cliente: CANO ESTEBAN, EMILIA
+DNI: 8569691
+Teléfono: 600002392
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

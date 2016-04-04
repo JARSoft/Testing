@@ -1,0 +1,8 @@
+Cliente: RAMIREZ BRAVO, FRANCISCO
+DNI: 6303105
+Teléfono: 600002455
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

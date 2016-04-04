@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ RUBIO, ALEJANDRO
+DNI: 9338267
+Teléfono: 600000666
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

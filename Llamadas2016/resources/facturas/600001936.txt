@@ -1,0 +1,8 @@
+Cliente: ROMAN CABRERA, MARCOS
+DNI: 6792670
+Teléfono: 600001936
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

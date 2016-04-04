@@ -1,0 +1,8 @@
+Cliente: FLORES ORTIZ, YOLANDA
+DNI: 9232238
+Teléfono: 600000929
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

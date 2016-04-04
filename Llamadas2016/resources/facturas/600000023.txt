@@ -1,0 +1,8 @@
+Cliente: ROMERO CAMPOS, VICTOR
+DNI: 9674792
+Teléfono: 600000023
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

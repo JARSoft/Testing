@@ -1,0 +1,8 @@
+Cliente: ORTEGA MORALES, JORDI
+DNI: 5588301
+Teléfono: 600001565
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

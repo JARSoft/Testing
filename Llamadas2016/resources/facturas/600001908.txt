@@ -1,0 +1,8 @@
+Cliente: FUENTES ROMERO, FRANCISCO JOSE
+DNI: 6862090
+Teléfono: 600001908
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

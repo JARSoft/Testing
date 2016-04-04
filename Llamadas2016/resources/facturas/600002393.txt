@@ -1,0 +1,8 @@
+Cliente: VEGA MORALES, MARC
+DNI: 7029406
+Teléfono: 600002393
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

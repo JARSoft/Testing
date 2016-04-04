@@ -1,0 +1,8 @@
+Cliente: VEGA REYES, MONICA
+DNI: 9817614
+Teléfono: 600001921
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PEREZ RUIZ, ALICIA
+DNI: 8729030
+Teléfono: 600002713
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ MONTERO, CARMEN
+DNI: 8434026
+Teléfono: 600001086
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

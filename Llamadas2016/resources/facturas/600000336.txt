@@ -1,0 +1,8 @@
+Cliente: GIL SANTANA, XAVIER
+DNI: 7127275
+Teléfono: 600000336
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

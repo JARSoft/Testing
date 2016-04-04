@@ -1,0 +1,8 @@
+Cliente: VEGA DIAZ, LORENA
+DNI: 7389138
+Teléfono: 600001671
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

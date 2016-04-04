@@ -1,0 +1,8 @@
+Cliente: PASCUAL MARIN, LUIS
+DNI: 9533829
+Teléfono: 600002926
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DELGADO HIDALGO, JOAN
+DNI: 6704297
+Teléfono: 600002823
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

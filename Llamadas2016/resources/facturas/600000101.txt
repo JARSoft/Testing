@@ -1,0 +1,8 @@
+Cliente: PARRA PASTOR, JOSEP
+DNI: 9749897
+Teléfono: 600000101
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

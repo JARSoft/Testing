@@ -1,0 +1,8 @@
+Cliente: CABALLERO HERNANDEZ, MARIA CRISTINA
+DNI: 8056574
+Teléfono: 600002795
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

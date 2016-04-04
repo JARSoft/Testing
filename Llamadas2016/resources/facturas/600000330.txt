@@ -1,0 +1,8 @@
+Cliente: VELASCO ARIAS, MARTA
+DNI: 5681474
+Teléfono: 600000330
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

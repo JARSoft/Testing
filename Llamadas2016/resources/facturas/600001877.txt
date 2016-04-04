@@ -1,0 +1,8 @@
+Cliente: GALLEGO IGLESIAS, LUISA
+DNI: 8344540
+Teléfono: 600001877
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

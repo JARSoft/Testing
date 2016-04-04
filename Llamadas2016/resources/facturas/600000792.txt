@@ -1,0 +1,8 @@
+Cliente: ALVAREZ SANTOS, JOSE MANUEL
+DNI: 6756580
+Teléfono: 600000792
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

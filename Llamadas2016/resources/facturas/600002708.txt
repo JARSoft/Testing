@@ -1,0 +1,8 @@
+Cliente: ALVAREZ MEDINA, ANA MARIA
+DNI: 7681436
+Teléfono: 600002708
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

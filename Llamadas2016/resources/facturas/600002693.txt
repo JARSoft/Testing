@@ -1,0 +1,8 @@
+Cliente: MOYA GONZALEZ, ENCARNACION
+DNI: 5329558
+Teléfono: 600002693
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

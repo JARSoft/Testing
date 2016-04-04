@@ -1,0 +1,8 @@
+Cliente: HIDALGO REYES, JUAN FRANCISCO
+DNI: 5999546
+Teléfono: 600001634
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

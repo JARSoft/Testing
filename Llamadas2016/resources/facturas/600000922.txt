@@ -1,0 +1,8 @@
+Cliente: GONZALEZ CARRASCO, CRISTINA
+DNI: 9523627
+Teléfono: 600000922
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: BRAVO LORENZO, CELIA
+DNI: 9367848
+Teléfono: 600002341
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

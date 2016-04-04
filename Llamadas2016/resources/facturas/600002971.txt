@@ -1,0 +1,8 @@
+Cliente: IGLESIAS SOTO, ELENA
+DNI: 5442520
+Teléfono: 600002971
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

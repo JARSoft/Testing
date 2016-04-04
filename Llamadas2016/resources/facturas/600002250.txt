@@ -1,0 +1,8 @@
+Cliente: ALVAREZ CALVO, GABRIEL
+DNI: 9404543
+Teléfono: 600002250
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

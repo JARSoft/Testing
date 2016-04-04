@@ -1,0 +1,8 @@
+Cliente: FLORES BLANCO, EMILIO
+DNI: 9809903
+Teléfono: 600000973
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

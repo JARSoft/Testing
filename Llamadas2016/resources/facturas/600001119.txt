@@ -1,0 +1,8 @@
+Cliente: BENITEZ GARCIA, JAVIER
+DNI: 7877015
+Teléfono: 600001119
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

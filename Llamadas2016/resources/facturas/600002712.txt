@@ -1,0 +1,8 @@
+Cliente: LOPEZ AGUILAR, SILVIA
+DNI: 8245110
+Teléfono: 600002712
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

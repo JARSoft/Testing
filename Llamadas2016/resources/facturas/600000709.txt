@@ -1,0 +1,8 @@
+Cliente: MOLINA NUÑEZ, MIGUEL
+DNI: 5282141
+Teléfono: 600000709
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

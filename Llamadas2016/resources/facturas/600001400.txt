@@ -1,0 +1,8 @@
+Cliente: ESTEBAN RAMOS, ANA
+DNI: 9390035
+Teléfono: 600001400
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

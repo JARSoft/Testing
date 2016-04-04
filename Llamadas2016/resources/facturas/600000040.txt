@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ GUERRERO, LAURA
+DNI: 8358381
+Teléfono: 600000040
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

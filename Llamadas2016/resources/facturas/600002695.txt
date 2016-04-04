@@ -1,0 +1,8 @@
+Cliente: MOYA GUTIERREZ, ANDRES
+DNI: 6618467
+Teléfono: 600002695
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

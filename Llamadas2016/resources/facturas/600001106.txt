@@ -1,0 +1,8 @@
+Cliente: ROMERO DELGADO, JUAN CARLOS
+DNI: 6269155
+Teléfono: 600001106
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

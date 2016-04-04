@@ -1,0 +1,8 @@
+Cliente: SUAREZ FLORES, PATRICIA
+DNI: 9409569
+Teléfono: 600001986
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

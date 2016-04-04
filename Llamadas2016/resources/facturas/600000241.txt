@@ -1,0 +1,8 @@
+Cliente: MARQUEZ MARTIN, FELIPE
+DNI: 5043938
+Teléfono: 600000241
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

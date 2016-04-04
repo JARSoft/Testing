@@ -1,0 +1,8 @@
+Cliente: RAMIREZ FERRER, MARIA ROSA
+DNI: 6005920
+Teléfono: 600002226
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

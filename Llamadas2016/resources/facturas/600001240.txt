@@ -1,0 +1,8 @@
+Cliente: PASTOR FUENTES, RICARDO
+DNI: 7795329
+Teléfono: 600001240
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

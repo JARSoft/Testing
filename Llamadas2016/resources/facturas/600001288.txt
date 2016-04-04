@@ -1,0 +1,8 @@
+Cliente: NUÑEZ DELGADO, RODRIGO
+DNI: 5945756
+Teléfono: 600001288
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

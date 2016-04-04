@@ -1,0 +1,8 @@
+Cliente: SANTANA FERRER, JOSE MARIA
+DNI: 9286191
+Teléfono: 600000307
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

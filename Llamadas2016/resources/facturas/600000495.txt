@@ -1,0 +1,8 @@
+Cliente: CAMPOS GOMEZ, MARGARITA
+DNI: 6296785
+Teléfono: 600000495
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

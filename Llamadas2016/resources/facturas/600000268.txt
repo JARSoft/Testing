@@ -1,0 +1,8 @@
+Cliente: MORENO AGUILAR, JOSE
+DNI: 8162621
+Teléfono: 600000268
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

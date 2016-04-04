@@ -1,0 +1,8 @@
+Cliente: ESTEBAN CARRASCO, ENRIQUE
+DNI: 5897786
+Teléfono: 600000507
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

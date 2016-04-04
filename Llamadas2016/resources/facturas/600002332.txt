@@ -1,0 +1,8 @@
+Cliente: NAVARRO FERNANDEZ, MARIA JOSEFA
+DNI: 7219265
+Teléfono: 600002332
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

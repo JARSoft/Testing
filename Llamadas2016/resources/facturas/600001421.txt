@@ -1,0 +1,8 @@
+Cliente: LOPEZ DIAZ, LORENA
+DNI: 5057336
+Teléfono: 600001421
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

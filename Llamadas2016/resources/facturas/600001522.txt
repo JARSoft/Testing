@@ -1,0 +1,8 @@
+Cliente: CALVO VAZQUEZ, MARIA SOLEDAD
+DNI: 7968400
+Teléfono: 600001522
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

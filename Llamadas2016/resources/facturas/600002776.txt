@@ -1,0 +1,8 @@
+Cliente: ESTEBAN SANTOS, MARIA JOSE
+DNI: 8880029
+Teléfono: 600002776
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIEZ TORRES, PABLO
+DNI: 7841379
+Teléfono: 600002724
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

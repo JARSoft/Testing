@@ -1,0 +1,8 @@
+Cliente: CASTILLO GARRIDO, PATRICIA
+DNI: 7711361
+Teléfono: 600002421
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

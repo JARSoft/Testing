@@ -1,0 +1,8 @@
+Cliente: TORRES RUIZ, INMACULADA
+DNI: 9515567
+Teléfono: 600001762
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

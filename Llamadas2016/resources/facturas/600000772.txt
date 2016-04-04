@@ -1,0 +1,8 @@
+Cliente: MORENO SUAREZ, PAULA
+DNI: 7065120
+Teléfono: 600000772
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

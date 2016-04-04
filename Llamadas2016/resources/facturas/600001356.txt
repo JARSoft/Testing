@@ -1,0 +1,8 @@
+Cliente: SOTO HIDALGO, OLGA
+DNI: 8564635
+Teléfono: 600001356
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARQUEZ PEÑA, ANGELES
+DNI: 6246095
+Teléfono: 600000877
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

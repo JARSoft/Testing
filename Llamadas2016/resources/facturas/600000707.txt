@@ -1,0 +1,8 @@
+Cliente: VICENTE BENITEZ, DIEGO
+DNI: 5199301
+Teléfono: 600000707
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

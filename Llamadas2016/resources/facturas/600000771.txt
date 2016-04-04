@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ SERRANO, MARIA ROSARIO
+DNI: 8572768
+Teléfono: 600000771
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

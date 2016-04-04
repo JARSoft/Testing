@@ -1,0 +1,8 @@
+Cliente: CABALLERO SERRANO, MIRIAM
+DNI: 9882276
+Teléfono: 600000165
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

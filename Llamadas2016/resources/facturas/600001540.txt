@@ -1,0 +1,8 @@
+Cliente: AGUILAR SAEZ, RUBEN
+DNI: 5569488
+Teléfono: 600001540
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

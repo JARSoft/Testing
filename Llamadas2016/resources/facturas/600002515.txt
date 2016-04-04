@@ -1,0 +1,8 @@
+Cliente: PASCUAL PEÑA, MANUELA
+DNI: 8235470
+Teléfono: 600002515
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

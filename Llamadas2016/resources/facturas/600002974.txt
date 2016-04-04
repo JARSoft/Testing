@@ -1,0 +1,8 @@
+Cliente: CALVO SOTO, JUAN JOSE
+DNI: 8492249
+Teléfono: 600002974
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

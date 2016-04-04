@@ -1,0 +1,8 @@
+Cliente: BRAVO GIMENEZ, IGNACIO
+DNI: 7794887
+Teléfono: 600001442
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

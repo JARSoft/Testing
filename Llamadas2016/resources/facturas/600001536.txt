@@ -1,0 +1,8 @@
+Cliente: ARIAS TORRES, ROSARIO
+DNI: 6909900
+Teléfono: 600001536
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

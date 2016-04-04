@@ -1,0 +1,8 @@
+Cliente: LEON FERNANDEZ, ROBERTO
+DNI: 8245590
+Teléfono: 600001755
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

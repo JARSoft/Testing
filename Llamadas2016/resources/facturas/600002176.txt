@@ -1,0 +1,8 @@
+Cliente: DIEZ BENITEZ, SANTIAGO
+DNI: 5054162
+Teléfono: 600002176
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

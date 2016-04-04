@@ -1,0 +1,8 @@
+Cliente: SERRANO NIETO, JUANA
+DNI: 8017928
+Teléfono: 600000760
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

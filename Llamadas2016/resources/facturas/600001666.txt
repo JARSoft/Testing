@@ -1,0 +1,8 @@
+Cliente: SANCHEZ DIEZ, MARIA ROSARIO
+DNI: 9321143
+Teléfono: 600001666
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

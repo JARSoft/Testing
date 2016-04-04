@@ -1,0 +1,8 @@
+Cliente: LOPEZ BRAVO, NURIA
+DNI: 7846244
+Teléfono: 600000933
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

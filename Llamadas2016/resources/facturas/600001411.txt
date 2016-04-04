@@ -1,0 +1,8 @@
+Cliente: SOLER SANTANA, EMILIO
+DNI: 7479990
+Teléfono: 600001411
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

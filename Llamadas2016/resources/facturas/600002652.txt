@@ -1,0 +1,8 @@
+Cliente: GALLEGO CASTRO, HECTOR
+DNI: 7288595
+Teléfono: 600002652
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

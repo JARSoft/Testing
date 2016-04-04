@@ -1,0 +1,8 @@
+Cliente: DIEZ PARRA, PILAR
+DNI: 8884577
+Teléfono: 600001841
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

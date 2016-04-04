@@ -1,0 +1,8 @@
+Cliente: GARRIDO RUIZ, ALBA
+DNI: 8900524
+Teléfono: 600002092
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

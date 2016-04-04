@@ -1,0 +1,8 @@
+Cliente: VEGA GALLEGO, MARIA JESUS
+DNI: 6131249
+Teléfono: 600002395
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

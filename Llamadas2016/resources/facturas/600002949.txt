@@ -1,0 +1,8 @@
+Cliente: BLANCO FUENTES, BEATRIZ
+DNI: 8948077
+Teléfono: 600002949
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

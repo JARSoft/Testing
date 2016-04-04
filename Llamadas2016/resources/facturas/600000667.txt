@@ -1,0 +1,8 @@
+Cliente: SANTIAGO SOLER, DANIEL
+DNI: 6392287
+Teléfono: 600000667
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

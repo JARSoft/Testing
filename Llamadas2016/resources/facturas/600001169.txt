@@ -1,0 +1,8 @@
+Cliente: GALLEGO CORTES, JULIO
+DNI: 9367813
+Teléfono: 600001169
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

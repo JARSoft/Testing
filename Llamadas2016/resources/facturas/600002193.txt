@@ -1,0 +1,8 @@
+Cliente: CRUZ GOMEZ, DAVID
+DNI: 6499987
+Teléfono: 600002193
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

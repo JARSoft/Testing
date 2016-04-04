@@ -1,0 +1,8 @@
+Cliente: CALVO ARIAS, PEDRO
+DNI: 7684377
+Teléfono: 600002869
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

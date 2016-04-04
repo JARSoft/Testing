@@ -1,0 +1,8 @@
+Cliente: ORTEGA BRAVO, JUANA
+DNI: 6745351
+Teléfono: 600001201
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

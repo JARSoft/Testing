@@ -1,0 +1,8 @@
+Cliente: RUBIO IBAÑEZ, CARMEN
+DNI: 6307896
+Teléfono: 600000863
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARTIN BENITEZ, JUAN CARLOS
+DNI: 9162014
+Teléfono: 600001719
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

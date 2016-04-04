@@ -1,0 +1,8 @@
+Cliente: FUENTES VEGA, SILVIA
+DNI: 9628303
+Teléfono: 600002264
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

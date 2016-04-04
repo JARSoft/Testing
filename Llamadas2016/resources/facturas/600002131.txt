@@ -1,0 +1,8 @@
+Cliente: HIDALGO PARRA, IGNACIO
+DNI: 6624463
+Teléfono: 600002131
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

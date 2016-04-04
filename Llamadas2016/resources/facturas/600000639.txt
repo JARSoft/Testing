@@ -1,0 +1,8 @@
+Cliente: FLORES PEÑA, ADRIAN
+DNI: 5788133
+Teléfono: 600000639
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

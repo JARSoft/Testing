@@ -1,0 +1,8 @@
+Cliente: GALLEGO GALLEGO, IKER
+DNI: 8736171
+Teléfono: 600001237
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

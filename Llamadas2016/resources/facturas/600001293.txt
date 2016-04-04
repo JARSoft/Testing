@@ -1,0 +1,8 @@
+Cliente: CABRERA ALVAREZ, MOHAMED
+DNI: 7749555
+Teléfono: 600001293
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

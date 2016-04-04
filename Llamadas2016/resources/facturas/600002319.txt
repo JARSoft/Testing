@@ -1,0 +1,8 @@
+Cliente: RUIZ HERNANDEZ, JOSEFINA
+DNI: 6537524
+Teléfono: 600002319
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

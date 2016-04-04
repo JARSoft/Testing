@@ -1,0 +1,8 @@
+Cliente: CORTES ROJAS, PILAR
+DNI: 9355585
+Teléfono: 600001319
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

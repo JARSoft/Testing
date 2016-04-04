@@ -1,0 +1,8 @@
+Cliente: NIETO GUTIERREZ, ANA BELEN
+DNI: 8276761
+Teléfono: 600000847
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

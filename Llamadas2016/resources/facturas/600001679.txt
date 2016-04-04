@@ -1,0 +1,8 @@
+Cliente: PRIETO GONZALEZ, ADRIAN
+DNI: 6945093
+Teléfono: 600001679
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

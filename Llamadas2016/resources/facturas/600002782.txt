@@ -1,0 +1,8 @@
+Cliente: FUENTES GIMENEZ, ALBA
+DNI: 5856295
+Teléfono: 600002782
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

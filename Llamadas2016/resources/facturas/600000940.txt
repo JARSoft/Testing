@@ -1,0 +1,8 @@
+Cliente: HERRERO CASTRO, ALEJANDRO
+DNI: 5963030
+Teléfono: 600000940
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

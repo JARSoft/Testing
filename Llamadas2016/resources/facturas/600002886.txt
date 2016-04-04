@@ -1,0 +1,8 @@
+Cliente: SANTIAGO SOTO, HUGO
+DNI: 6565953
+Teléfono: 600002886
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

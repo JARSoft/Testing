@@ -1,0 +1,8 @@
+Cliente: NAVARRO MEDINA, MIRIAM
+DNI: 8976797
+Teléfono: 600002218
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

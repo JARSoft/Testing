@@ -1,0 +1,8 @@
+Cliente: VEGA ORTEGA, JOSE ANTONIO
+DNI: 8410411
+Teléfono: 600002773
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

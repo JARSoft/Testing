@@ -1,0 +1,8 @@
+Cliente: FERNANDEZ ORTEGA, FELIPE
+DNI: 9002524
+Teléfono: 600001711
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

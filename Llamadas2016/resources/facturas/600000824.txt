@@ -1,0 +1,8 @@
+Cliente: RUIZ SUAREZ, JOSE FRANCISCO
+DNI: 9212333
+Teléfono: 600000824
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

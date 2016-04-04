@@ -1,0 +1,8 @@
+Cliente: VELASCO MORA, MARIA CARMEN
+DNI: 6123031
+Teléfono: 600002182
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

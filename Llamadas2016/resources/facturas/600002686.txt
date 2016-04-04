@@ -1,0 +1,8 @@
+Cliente: DURAN CARMONA, JORDI
+DNI: 6793586
+Teléfono: 600002686
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MORALES VARGAS, SEBASTIAN
+DNI: 6353290
+Teléfono: 600001772
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

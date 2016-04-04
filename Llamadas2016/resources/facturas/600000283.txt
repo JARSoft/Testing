@@ -1,0 +1,8 @@
+Cliente: GUERRERO MOLINA, IKER
+DNI: 7371078
+Teléfono: 600000283
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

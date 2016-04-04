@@ -1,0 +1,8 @@
+Cliente: MOLINA GARRIDO, GABRIEL
+DNI: 9907361
+Teléfono: 600000478
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ROMERO CRESPO, ANGELES
+DNI: 9537412
+Teléfono: 600000959
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

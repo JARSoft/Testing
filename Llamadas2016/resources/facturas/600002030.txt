@@ -1,0 +1,8 @@
+Cliente: ROJAS CABALLERO, ANTONIO
+DNI: 8326925
+Teléfono: 600002030
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ARIAS MORA, JOSE MARIA
+DNI: 7155247
+Teléfono: 600000724
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PEÑA LEON, LUIS
+DNI: 5172569
+Teléfono: 600002302
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

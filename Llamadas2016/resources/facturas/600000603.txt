@@ -1,0 +1,8 @@
+Cliente: HIDALGO AGUILAR, ANA
+DNI: 8636635
+Teléfono: 600000603
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

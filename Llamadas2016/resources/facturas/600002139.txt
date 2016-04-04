@@ -1,0 +1,8 @@
+Cliente: RUBIO SANCHEZ, JUAN ANTONIO
+DNI: 9170937
+Teléfono: 600002139
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

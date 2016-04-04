@@ -1,0 +1,8 @@
+Cliente: CRESPO BRAVO, ANTONIA
+DNI: 7871182
+Teléfono: 600000798
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CRUZ RAMIREZ, ROCIO
+DNI: 9436065
+Teléfono: 600001937
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

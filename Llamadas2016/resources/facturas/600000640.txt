@@ -1,0 +1,8 @@
+Cliente: CANO VELASCO, AGUSTIN
+DNI: 5279967
+Teléfono: 600000640
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GARCIA GONZALEZ, NATALIA
+DNI: 5849194
+Teléfono: 600002833
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

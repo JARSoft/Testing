@@ -1,0 +1,8 @@
+Cliente: CRESPO CORTES, AMPARO
+DNI: 5702685
+Teléfono: 600001550
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

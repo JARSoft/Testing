@@ -1,0 +1,8 @@
+Cliente: MARTINEZ CARRASCO, JULIO
+DNI: 8236413
+Teléfono: 600000352
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

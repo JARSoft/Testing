@@ -1,0 +1,8 @@
+Cliente: SANTIAGO GIL, LAURA
+DNI: 7553847
+Teléfono: 600001660
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

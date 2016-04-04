@@ -1,0 +1,8 @@
+Cliente: SAEZ BRAVO, MARIA CONCEPCION
+DNI: 8246497
+Teléfono: 600000208
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

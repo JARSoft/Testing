@@ -1,0 +1,8 @@
+Cliente: VELASCO NAVARRO, MARIA CONCEPCION
+DNI: 5168299
+Teléfono: 600000368
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

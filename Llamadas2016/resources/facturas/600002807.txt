@@ -1,0 +1,8 @@
+Cliente: GUERRERO NIETO, MARIA ROSARIO
+DNI: 6017832
+Teléfono: 600002807
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

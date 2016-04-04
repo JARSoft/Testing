@@ -1,0 +1,8 @@
+Cliente: ALVAREZ CARMONA, NICOLAS
+DNI: 6882203
+Teléfono: 600002232
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

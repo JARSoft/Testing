@@ -1,0 +1,8 @@
+Cliente: PEREZ SOTO, MONICA
+DNI: 6125143
+Teléfono: 600000226
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

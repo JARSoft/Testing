@@ -1,0 +1,8 @@
+Cliente: GOMEZ CRESPO, ANA ISABEL
+DNI: 9821875
+Teléfono: 600001703
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ GARRIDO, JOSE IGNACIO
+DNI: 7919386
+Teléfono: 600000837
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

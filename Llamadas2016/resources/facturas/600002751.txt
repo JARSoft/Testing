@@ -1,0 +1,8 @@
+Cliente: MARQUEZ ROMAN, RAQUEL
+DNI: 7914000
+Teléfono: 600002751
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ARIAS MOYA, MARIA MAR
+DNI: 7224260
+Teléfono: 600000195
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

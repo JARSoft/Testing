@@ -1,0 +1,8 @@
+Cliente: IGLESIAS CARMONA, LUISA
+DNI: 8627816
+Teléfono: 600001494
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: JIMENEZ ALVAREZ, JOSE MARIA
+DNI: 8123875
+Teléfono: 600000384
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

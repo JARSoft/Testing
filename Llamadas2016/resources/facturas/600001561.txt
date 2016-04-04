@@ -1,0 +1,8 @@
+Cliente: IGLESIAS VICENTE, MOHAMED
+DNI: 5588454
+Teléfono: 600001561
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

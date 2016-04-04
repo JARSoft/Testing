@@ -1,0 +1,8 @@
+Cliente: GALLARDO ARIAS, SEBASTIAN
+DNI: 8820788
+Teléfono: 600000475
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

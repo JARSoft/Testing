@@ -1,0 +1,8 @@
+Cliente: MORENO BLANCO, CESAR
+DNI: 9715147
+Teléfono: 600001677
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

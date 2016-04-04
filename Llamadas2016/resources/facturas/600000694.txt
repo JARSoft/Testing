@@ -1,0 +1,8 @@
+Cliente: GALLEGO MONTERO, RAUL
+DNI: 6311455
+Teléfono: 600000694
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

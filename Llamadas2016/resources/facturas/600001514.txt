@@ -1,0 +1,8 @@
+Cliente: CANO IBAÑEZ, CLAUDIA
+DNI: 9576994
+Teléfono: 600001514
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

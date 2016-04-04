@@ -1,0 +1,8 @@
+Cliente: CARRASCO BRAVO, ROSARIO
+DNI: 8667969
+Teléfono: 600002261
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

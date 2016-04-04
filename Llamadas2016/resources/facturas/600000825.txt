@@ -1,0 +1,8 @@
+Cliente: GARRIDO GIL, MARIANO
+DNI: 8942812
+Teléfono: 600000825
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALONSO SERRANO, FELIX
+DNI: 5375071
+Teléfono: 600001624
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

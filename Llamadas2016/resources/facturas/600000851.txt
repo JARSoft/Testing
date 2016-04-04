@@ -1,0 +1,8 @@
+Cliente: LORENZO HERNANDEZ, MONICA
+DNI: 6270200
+Teléfono: 600000851
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

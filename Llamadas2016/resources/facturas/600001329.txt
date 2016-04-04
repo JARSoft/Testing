@@ -1,0 +1,8 @@
+Cliente: SUAREZ HERNANDEZ, PAULA
+DNI: 7701504
+Teléfono: 600001329
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

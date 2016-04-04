@@ -1,0 +1,8 @@
+Cliente: NUÑEZ LEON, HUGO
+DNI: 7704097
+Teléfono: 600000438
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

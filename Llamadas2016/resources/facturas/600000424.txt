@@ -1,0 +1,8 @@
+Cliente: SANTIAGO GARRIDO, PAULA
+DNI: 8170631
+Teléfono: 600000424
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

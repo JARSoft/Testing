@@ -1,0 +1,8 @@
+Cliente: CASTILLO HERRERO, IGNACIO
+DNI: 9420341
+Teléfono: 600001007
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

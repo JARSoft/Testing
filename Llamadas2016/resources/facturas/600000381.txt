@@ -1,0 +1,8 @@
+Cliente: FLORES CANO, ALICIA
+DNI: 6248508
+Teléfono: 600000381
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

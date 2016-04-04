@@ -1,0 +1,8 @@
+Cliente: VIDAL AGUILAR, ANTONIO
+DNI: 6346550
+Teléfono: 600000096
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

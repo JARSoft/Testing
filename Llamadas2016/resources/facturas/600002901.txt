@@ -1,0 +1,8 @@
+Cliente: ARIAS PEREZ, TERESA
+DNI: 9702965
+Teléfono: 600002901
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

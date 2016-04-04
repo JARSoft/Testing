@@ -1,0 +1,8 @@
+Cliente: ARIAS PARRA, MARIA TERESA
+DNI: 6648348
+Teléfono: 600000034
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

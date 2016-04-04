@@ -1,0 +1,8 @@
+Cliente: MUÑOZ FERRER, YOLANDA
+DNI: 8596629
+Teléfono: 600001065
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

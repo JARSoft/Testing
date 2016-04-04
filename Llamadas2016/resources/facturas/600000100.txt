@@ -1,0 +1,8 @@
+Cliente: MARIN PEREZ, JUAN
+DNI: 7171226
+Teléfono: 600000100
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MUÑOZ ROJAS, FRANCISCO
+DNI: 6405299
+Teléfono: 600000996
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

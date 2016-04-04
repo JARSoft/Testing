@@ -1,0 +1,8 @@
+Cliente: SANTANA SANCHEZ, VICTORIA
+DNI: 7238437
+Teléfono: 600001768
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: LEON BRAVO, MANUELA
+DNI: 8540737
+Teléfono: 600000955
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

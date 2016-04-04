@@ -1,0 +1,8 @@
+Cliente: REYES ARIAS, JOSE MIGUEL
+DNI: 6795393
+Teléfono: 600001314
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

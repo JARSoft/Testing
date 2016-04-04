@@ -1,0 +1,8 @@
+Cliente: MOLINA DURAN, ROBERTO
+DNI: 5842424
+Teléfono: 600002829
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

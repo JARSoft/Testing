@@ -1,0 +1,8 @@
+Cliente: VIDAL GONZALEZ, LUIS MIGUEL
+DNI: 5288896
+Teléfono: 600000218
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SANTIAGO ROJAS, CARMEN
+DNI: 6896632
+Teléfono: 600000064
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

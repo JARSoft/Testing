@@ -1,0 +1,8 @@
+Cliente: ROJAS GUERRERO, ISMAEL
+DNI: 5000763
+Teléfono: 600001508
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ARIAS LORENZO, JUAN MANUEL
+DNI: 8195284
+Teléfono: 600000294
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ORTIZ GIL, AMPARO
+DNI: 9884504
+Teléfono: 600000070
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

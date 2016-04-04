@@ -1,0 +1,8 @@
+Cliente: VIDAL DOMINGUEZ, MIGUEL
+DNI: 9604017
+Teléfono: 600002103
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

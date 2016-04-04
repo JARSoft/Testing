@@ -1,0 +1,8 @@
+Cliente: PARRA MONTERO, OLGA
+DNI: 9344938
+Teléfono: 600000146
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

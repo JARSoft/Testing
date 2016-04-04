@@ -1,0 +1,8 @@
+Cliente: SANTIAGO PASCUAL, JULIAN
+DNI: 8706004
+Teléfono: 600000794
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

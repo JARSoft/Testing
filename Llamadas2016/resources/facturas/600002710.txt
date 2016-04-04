@@ -1,0 +1,8 @@
+Cliente: PRIETO ROMERO, NEREA
+DNI: 5144786
+Teléfono: 600002710
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

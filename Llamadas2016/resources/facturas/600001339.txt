@@ -1,0 +1,8 @@
+Cliente: LOZANO ARIAS, ANTONIO
+DNI: 7454925
+Teléfono: 600001339
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

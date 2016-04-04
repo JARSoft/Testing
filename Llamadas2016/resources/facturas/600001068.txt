@@ -1,0 +1,8 @@
+Cliente: BRAVO SERRANO, MIGUEL ANGEL
+DNI: 5173587
+Teléfono: 600001068
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

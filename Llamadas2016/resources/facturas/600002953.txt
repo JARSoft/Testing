@@ -1,0 +1,8 @@
+Cliente: RUIZ RAMIREZ, EVA
+DNI: 7682065
+Teléfono: 600002953
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

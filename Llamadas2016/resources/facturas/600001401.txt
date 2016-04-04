@@ -1,0 +1,8 @@
+Cliente: FUENTES GOMEZ, MONTSERRAT
+DNI: 9555968
+Teléfono: 600001401
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

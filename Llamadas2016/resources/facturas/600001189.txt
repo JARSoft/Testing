@@ -1,0 +1,8 @@
+Cliente: MUÑOZ VEGA, JOSE MIGUEL
+DNI: 9425170
+Teléfono: 600001189
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

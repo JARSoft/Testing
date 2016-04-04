@@ -1,0 +1,8 @@
+Cliente: GIMENEZ PRIETO, ALBERTO
+DNI: 6533410
+Teléfono: 600001960
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

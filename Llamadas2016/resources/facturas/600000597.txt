@@ -1,0 +1,8 @@
+Cliente: SAEZ GALLEGO, LUIS
+DNI: 6416909
+Teléfono: 600000597
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CARMONA SAEZ, LUIS
+DNI: 6785566
+Teléfono: 600001295
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

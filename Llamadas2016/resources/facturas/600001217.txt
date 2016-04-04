@@ -1,0 +1,8 @@
+Cliente: REYES MARTIN, PATRICIA
+DNI: 7548369
+Teléfono: 600001217
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

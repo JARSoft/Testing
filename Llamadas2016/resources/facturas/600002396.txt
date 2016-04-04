@@ -1,0 +1,8 @@
+Cliente: SUAREZ MARIN, MARIA ISABEL
+DNI: 8035854
+Teléfono: 600002396
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

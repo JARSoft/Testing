@@ -1,0 +1,8 @@
+Cliente: CARRASCO PEÑA, VICTORIA
+DNI: 9785650
+Teléfono: 600001140
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

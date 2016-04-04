@@ -1,0 +1,8 @@
+Cliente: JIMENEZ JIMENEZ, ALFREDO
+DNI: 9757889
+Teléfono: 600002580
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

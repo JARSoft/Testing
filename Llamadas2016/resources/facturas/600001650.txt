@@ -1,0 +1,8 @@
+Cliente: FLORES BRAVO, PAULA
+DNI: 5782057
+Teléfono: 600001650
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

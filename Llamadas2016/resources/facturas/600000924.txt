@@ -1,0 +1,8 @@
+Cliente: CASTRO GUERRERO, RODRIGO
+DNI: 9666378
+Teléfono: 600000924
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

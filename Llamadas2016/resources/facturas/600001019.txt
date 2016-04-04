@@ -1,0 +1,8 @@
+Cliente: ROMERO REYES, IKER
+DNI: 9056043
+Teléfono: 600001019
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

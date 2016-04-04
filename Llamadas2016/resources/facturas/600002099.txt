@@ -1,0 +1,8 @@
+Cliente: RUBIO REYES, MARC
+DNI: 7765904
+Teléfono: 600002099
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

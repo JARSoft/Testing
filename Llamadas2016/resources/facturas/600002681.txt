@@ -1,0 +1,8 @@
+Cliente: BENITEZ MORENO, MANUEL
+DNI: 9647760
+Teléfono: 600002681
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

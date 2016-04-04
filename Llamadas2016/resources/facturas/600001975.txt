@@ -1,0 +1,8 @@
+Cliente: MARTINEZ GUERRERO, MILAGROS
+DNI: 8055998
+Teléfono: 600001975
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: JIMENEZ SANTIAGO, ALFREDO
+DNI: 6561363
+Teléfono: 600000259
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

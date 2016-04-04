@@ -1,0 +1,8 @@
+Cliente: MORA ALVAREZ, JAIME
+DNI: 6381726
+Teléfono: 600002720
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

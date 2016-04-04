@@ -1,0 +1,8 @@
+Cliente: MOYA MENDEZ, CLAUDIA
+DNI: 5956162
+Teléfono: 600001579
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

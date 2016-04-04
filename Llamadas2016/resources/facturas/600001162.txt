@@ -1,0 +1,8 @@
+Cliente: MENDEZ NUÑEZ, ALBERTO
+DNI: 6265679
+Teléfono: 600001162
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

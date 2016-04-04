@@ -1,0 +1,8 @@
+Cliente: LOPEZ MOLINA, JULIAN
+DNI: 9369936
+Teléfono: 600002211
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

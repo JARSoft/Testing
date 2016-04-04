@@ -1,0 +1,8 @@
+Cliente: GARCIA ARIAS, NEREA
+DNI: 8418408
+Teléfono: 600002556
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CABALLERO PASCUAL, SALVADOR
+DNI: 5486316
+Teléfono: 600002848
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

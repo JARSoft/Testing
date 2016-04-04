@@ -1,0 +1,8 @@
+Cliente: CRUZ GALLARDO, CRISTINA
+DNI: 9786661
+Teléfono: 600002736
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

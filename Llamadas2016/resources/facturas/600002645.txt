@@ -1,0 +1,8 @@
+Cliente: LOZANO GARCIA, MARIANO
+DNI: 8958878
+Teléfono: 600002645
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

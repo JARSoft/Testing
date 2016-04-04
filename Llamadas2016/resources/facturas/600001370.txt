@@ -1,0 +1,8 @@
+Cliente: PASTOR GUERRERO, EMILIO
+DNI: 5538589
+Teléfono: 600001370
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

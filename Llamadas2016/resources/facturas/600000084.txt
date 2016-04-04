@@ -1,0 +1,8 @@
+Cliente: TORRES PASCUAL, ADRIAN
+DNI: 9386393
+Teléfono: 600000084
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ MOYA, ISMAEL
+DNI: 8069110
+Teléfono: 600000936
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

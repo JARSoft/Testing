@@ -1,0 +1,8 @@
+Cliente: HIDALGO VAZQUEZ, ALEJANDRO
+DNI: 6002199
+Teléfono: 600001225
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: BRAVO NIETO, ANA
+DNI: 6995197
+Teléfono: 600000971
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

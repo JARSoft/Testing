@@ -1,0 +1,8 @@
+Cliente: SANCHEZ DURAN, AGUSTIN
+DNI: 7824066
+Teléfono: 600000439
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALVAREZ FLORES, RICARDO
+DNI: 8908253
+Teléfono: 600001277
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

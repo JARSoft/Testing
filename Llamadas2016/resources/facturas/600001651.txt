@@ -1,0 +1,8 @@
+Cliente: MOYA DIAZ, JUANA
+DNI: 6839139
+Teléfono: 600001651
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

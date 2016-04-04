@@ -1,0 +1,8 @@
+Cliente: VIDAL SERRANO, JOAQUIN
+DNI: 6332705
+Teléfono: 600002347
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

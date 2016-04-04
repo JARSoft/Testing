@@ -1,0 +1,8 @@
+Cliente: GALLARDO RUBIO, EMILIO
+DNI: 7711321
+Teléfono: 600000222
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

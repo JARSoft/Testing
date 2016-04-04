@@ -1,0 +1,8 @@
+Cliente: MUÑOZ FERRER, PEDRO
+DNI: 8564928
+Teléfono: 600001726
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

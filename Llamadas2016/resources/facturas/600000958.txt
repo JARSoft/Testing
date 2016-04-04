@@ -1,0 +1,8 @@
+Cliente: MARIN VICENTE, CLAUDIA
+DNI: 9508898
+Teléfono: 600000958
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CASTRO GUTIERREZ, SANDRA
+DNI: 6376434
+Teléfono: 600000548
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MORALES CARMONA, MARIA DOLORES
+DNI: 6532690
+Teléfono: 600001808
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

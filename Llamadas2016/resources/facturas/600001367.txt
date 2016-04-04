@@ -1,0 +1,8 @@
+Cliente: CABRERA ALONSO, FRANCISCO JOSE
+DNI: 8841630
+Teléfono: 600001367
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ HERRERO, JOAN
+DNI: 9588597
+Teléfono: 600000662
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

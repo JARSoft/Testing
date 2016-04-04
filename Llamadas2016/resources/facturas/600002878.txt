@@ -1,0 +1,8 @@
+Cliente: MENDEZ SAEZ, ANDRES
+DNI: 9698930
+Teléfono: 600002878
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

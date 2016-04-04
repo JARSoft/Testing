@@ -1,0 +1,8 @@
+Cliente: TORRES VICENTE, MIGUEL ANGEL
+DNI: 8509370
+Teléfono: 600000018
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

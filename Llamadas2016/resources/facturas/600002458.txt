@@ -1,0 +1,8 @@
+Cliente: HIDALGO LEON, DOMINGO
+DNI: 5272879
+Teléfono: 600002458
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

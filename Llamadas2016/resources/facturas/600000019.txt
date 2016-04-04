@@ -1,0 +1,8 @@
+Cliente: MARIN ALVAREZ, JAIME
+DNI: 9645438
+Teléfono: 600000019
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

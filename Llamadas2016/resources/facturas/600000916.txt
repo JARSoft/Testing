@@ -1,0 +1,8 @@
+Cliente: CANO IBAÑEZ, NATALIA
+DNI: 9708867
+Teléfono: 600000916
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MORA HERNANDEZ, MARIA TERESA
+DNI: 6389672
+Teléfono: 600002591
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

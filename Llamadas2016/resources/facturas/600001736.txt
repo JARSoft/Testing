@@ -1,0 +1,8 @@
+Cliente: SOTO FERNANDEZ, ISABEL
+DNI: 7215755
+Teléfono: 600001736
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

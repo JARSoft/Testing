@@ -1,0 +1,8 @@
+Cliente: GIL FLORES, FERNANDO
+DNI: 7194613
+Teléfono: 600002828
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

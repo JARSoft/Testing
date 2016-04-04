@@ -1,0 +1,8 @@
+Cliente: BRAVO VARGAS, LUIS MIGUEL
+DNI: 8747790
+Teléfono: 600000060
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

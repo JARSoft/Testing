@@ -1,0 +1,8 @@
+Cliente: PEÑA CABRERA, JORGE
+DNI: 8573157
+Teléfono: 600000138
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

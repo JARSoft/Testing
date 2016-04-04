@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ CARMONA, JESUS
+DNI: 6772795
+Teléfono: 600002408
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

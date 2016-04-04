@@ -1,0 +1,8 @@
+Cliente: MORA VELASCO, JAIME
+DNI: 5930448
+Teléfono: 600002045
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

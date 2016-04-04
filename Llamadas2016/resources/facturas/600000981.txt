@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ SANCHEZ, SANTIAGO
+DNI: 6368135
+Teléfono: 600000981
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NIETO NIETO, JORGE
+DNI: 9524436
+Teléfono: 600002627
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

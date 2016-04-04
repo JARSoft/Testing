@@ -1,0 +1,8 @@
+Cliente: FLORES HERNANDEZ, JOSEFA
+DNI: 9272357
+Teléfono: 600001035
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GARCIA VAZQUEZ, MARIO
+DNI: 6686666
+Teléfono: 600002091
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

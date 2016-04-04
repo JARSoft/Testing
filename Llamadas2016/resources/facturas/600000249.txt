@@ -1,0 +1,8 @@
+Cliente: MEDINA MORENO, JOSE CARLOS
+DNI: 7794997
+Teléfono: 600000249
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

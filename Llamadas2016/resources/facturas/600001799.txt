@@ -1,0 +1,8 @@
+Cliente: MEDINA VIDAL, ANDREA
+DNI: 7430406
+Teléfono: 600001799
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

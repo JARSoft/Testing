@@ -1,0 +1,8 @@
+Cliente: GIL FLORES, ESTHER
+DNI: 9767548
+Teléfono: 600001463
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

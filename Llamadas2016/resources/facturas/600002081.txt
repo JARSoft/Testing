@@ -1,0 +1,8 @@
+Cliente: CABALLERO CASTILLO, HECTOR
+DNI: 8826538
+Teléfono: 600002081
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

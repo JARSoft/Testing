@@ -1,0 +1,8 @@
+Cliente: GARCIA ARIAS, ROBERTO
+DNI: 5343723
+Teléfono: 600002333
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

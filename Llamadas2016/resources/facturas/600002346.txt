@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ SOTO, DAVID
+DNI: 7603898
+Teléfono: 600002346
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

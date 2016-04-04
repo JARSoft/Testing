@@ -1,0 +1,8 @@
+Cliente: CAMPOS SANCHEZ, JUAN LUIS
+DNI: 6450751
+Teléfono: 600002154
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIEZ DIEZ, FERNANDO
+DNI: 6302364
+Teléfono: 600000627
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

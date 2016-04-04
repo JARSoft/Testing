@@ -1,0 +1,8 @@
+Cliente: SANTANA RUBIO, MARTA
+DNI: 8431488
+Teléfono: 600001863
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

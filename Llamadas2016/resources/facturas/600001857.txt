@@ -1,0 +1,8 @@
+Cliente: PARRA NUÑEZ, ISMAEL
+DNI: 6889877
+Teléfono: 600001857
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

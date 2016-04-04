@@ -1,0 +1,8 @@
+Cliente: DIAZ FLORES, JOSE
+DNI: 7515618
+Teléfono: 600000531
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: VARGAS PEREZ, FERNANDO
+DNI: 7397335
+Teléfono: 600000380
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

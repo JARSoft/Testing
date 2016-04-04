@@ -1,0 +1,8 @@
+Cliente: MUÑOZ FLORES, DANIELA
+DNI: 8774508
+Teléfono: 600000630
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

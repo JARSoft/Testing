@@ -1,0 +1,8 @@
+Cliente: HERRERA BRAVO, JUAN FRANCISCO
+DNI: 6033144
+Teléfono: 600000614
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

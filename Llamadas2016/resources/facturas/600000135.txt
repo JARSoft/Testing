@@ -1,0 +1,8 @@
+Cliente: DELGADO ROMAN, ANDRES
+DNI: 9303580
+Teléfono: 600000135
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

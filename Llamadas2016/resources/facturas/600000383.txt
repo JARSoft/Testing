@@ -1,0 +1,8 @@
+Cliente: DURAN GOMEZ, ROSARIO
+DNI: 8512728
+Teléfono: 600000383
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SUAREZ VIDAL, MIGUEL ANGEL
+DNI: 9929702
+Teléfono: 600002866
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

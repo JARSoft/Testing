@@ -1,0 +1,8 @@
+Cliente: IGLESIAS MENDEZ, SANDRA
+DNI: 9811939
+Teléfono: 600001026
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

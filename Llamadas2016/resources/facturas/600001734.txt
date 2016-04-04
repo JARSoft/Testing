@@ -1,0 +1,8 @@
+Cliente: TORRES NAVARRO, ANDREA
+DNI: 9685507
+Teléfono: 600001734
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: FERNANDEZ CALVO, VICTORIA
+DNI: 8804508
+Teléfono: 600002476
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

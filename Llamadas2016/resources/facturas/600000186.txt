@@ -1,0 +1,8 @@
+Cliente: LOPEZ MARIN, ROSARIO
+DNI: 9462759
+Teléfono: 600000186
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

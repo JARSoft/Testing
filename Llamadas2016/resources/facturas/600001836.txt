@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ VELASCO, MARIA JOSE
+DNI: 9097828
+Teléfono: 600001836
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

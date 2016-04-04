@@ -1,0 +1,8 @@
+Cliente: VIDAL CANO, ANTONIA
+DNI: 7589396
+Teléfono: 600001098
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

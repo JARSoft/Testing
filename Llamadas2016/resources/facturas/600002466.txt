@@ -1,0 +1,8 @@
+Cliente: ARIAS MENDEZ, INES
+DNI: 6213905
+Teléfono: 600002466
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIEZ DIEZ, JORGE
+DNI: 6717512
+Teléfono: 600001275
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

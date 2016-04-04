@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ BLANCO, CONSUELO
+DNI: 5794205
+Teléfono: 600000779
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

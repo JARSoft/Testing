@@ -1,0 +1,8 @@
+Cliente: SOTO GIL, SARA
+DNI: 5906546
+Teléfono: 600002404
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CARRASCO CORTES, MARIA NIEVES
+DNI: 8987420
+Teléfono: 600000254
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

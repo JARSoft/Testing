@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ CRESPO, MARINA
+DNI: 5280415
+Teléfono: 600001497
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PEÑA IBAÑEZ, MARIA ROSARIO
+DNI: 8942301
+Teléfono: 600001399
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

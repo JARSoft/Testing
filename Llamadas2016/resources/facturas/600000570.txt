@@ -1,0 +1,8 @@
+Cliente: GALLARDO HERRERO, JOSE MANUEL
+DNI: 8338461
+Teléfono: 600000570
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

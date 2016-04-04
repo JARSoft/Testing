@@ -1,0 +1,8 @@
+Cliente: SANCHEZ RUIZ, JOSE MIGUEL
+DNI: 5249147
+Teléfono: 600002655
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

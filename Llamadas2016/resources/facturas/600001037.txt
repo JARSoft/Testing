@@ -1,0 +1,8 @@
+Cliente: GARCIA ORTIZ, XAVIER
+DNI: 6189983
+Teléfono: 600001037
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

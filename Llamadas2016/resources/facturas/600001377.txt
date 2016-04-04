@@ -1,0 +1,8 @@
+Cliente: JIMENEZ MOLINA, MARGARITA
+DNI: 6488487
+Teléfono: 600001377
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

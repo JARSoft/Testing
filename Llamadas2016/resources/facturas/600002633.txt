@@ -1,0 +1,8 @@
+Cliente: AGUILAR CRUZ, IKER
+DNI: 8284993
+Teléfono: 600002633
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

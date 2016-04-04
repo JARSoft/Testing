@@ -1,0 +1,8 @@
+Cliente: DIAZ DIAZ, NOELIA
+DNI: 6089952
+Teléfono: 600002469
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

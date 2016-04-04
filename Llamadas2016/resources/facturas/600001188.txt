@@ -1,0 +1,8 @@
+Cliente: IGLESIAS GALLEGO, TOMAS
+DNI: 7671789
+Teléfono: 600001188
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CABALLERO PRIETO, ESTHER
+DNI: 8251492
+Teléfono: 600002894
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

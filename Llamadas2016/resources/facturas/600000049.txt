@@ -1,0 +1,8 @@
+Cliente: CABALLERO SANTIAGO, CARMEN
+DNI: 7180908
+Teléfono: 600000049
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALVAREZ PASTOR, ROSA
+DNI: 6335300
+Teléfono: 600000346
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

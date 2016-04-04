@@ -1,0 +1,8 @@
+Cliente: BLANCO CAMPOS, ANGELES
+DNI: 9867935
+Teléfono: 600000585
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

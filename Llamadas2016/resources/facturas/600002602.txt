@@ -1,0 +1,8 @@
+Cliente: MARIN ORTEGA, ANGELES
+DNI: 7242775
+Teléfono: 600002602
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

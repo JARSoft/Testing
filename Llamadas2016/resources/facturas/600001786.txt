@@ -1,0 +1,8 @@
+Cliente: VARGAS SOLER, MARTA
+DNI: 6041374
+Teléfono: 600001786
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARTINEZ FLORES, ANDRES
+DNI: 8953775
+Teléfono: 600002700
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

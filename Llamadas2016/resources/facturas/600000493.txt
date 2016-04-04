@@ -1,0 +1,8 @@
+Cliente: GARRIDO CANO, NEREA
+DNI: 5672490
+Teléfono: 600000493
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

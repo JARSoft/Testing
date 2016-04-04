@@ -1,0 +1,8 @@
+Cliente: CASTILLO SANCHEZ, EVA MARIA
+DNI: 5572076
+Teléfono: 600001118
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

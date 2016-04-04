@@ -1,0 +1,8 @@
+Cliente: GALLEGO SANCHEZ, ROSA MARIA
+DNI: 7947605
+Teléfono: 600002673
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

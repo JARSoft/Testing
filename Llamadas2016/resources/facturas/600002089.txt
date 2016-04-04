@@ -1,0 +1,8 @@
+Cliente: CASTILLO GALLARDO, MARC
+DNI: 5768516
+Teléfono: 600002089
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

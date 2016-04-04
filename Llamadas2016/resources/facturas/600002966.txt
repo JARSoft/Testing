@@ -1,0 +1,8 @@
+Cliente: CARMONA NAVARRO, MARCOS
+DNI: 8653228
+Teléfono: 600002966
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NAVARRO ALVAREZ, NEREA
+DNI: 6823136
+Teléfono: 600001987
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

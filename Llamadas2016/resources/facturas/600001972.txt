@@ -1,0 +1,8 @@
+Cliente: MENDEZ ROMERO, MARIA ROSARIO
+DNI: 6319281
+Teléfono: 600001972
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

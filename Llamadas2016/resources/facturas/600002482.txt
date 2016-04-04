@@ -1,0 +1,8 @@
+Cliente: CORTES ALONSO, FELIPE
+DNI: 8926194
+Teléfono: 600002482
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

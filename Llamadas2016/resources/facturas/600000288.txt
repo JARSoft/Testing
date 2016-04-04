@@ -1,0 +1,8 @@
+Cliente: REYES GOMEZ, JULIA
+DNI: 7361730
+Teléfono: 600000288
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NIETO IBAÑEZ, CLAUDIA
+DNI: 6720610
+Teléfono: 600001691
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

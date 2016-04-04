@@ -1,0 +1,8 @@
+Cliente: SANZ GALLARDO, MOHAMED
+DNI: 7753900
+Teléfono: 600000189
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

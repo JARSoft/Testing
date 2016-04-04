@@ -1,0 +1,8 @@
+Cliente: SUAREZ LOZANO, JOSE RAMON
+DNI: 9297430
+Teléfono: 600000890
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

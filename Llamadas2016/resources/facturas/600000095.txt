@@ -1,0 +1,8 @@
+Cliente: SAEZ SAEZ, LORENZO
+DNI: 9766341
+Teléfono: 600000095
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

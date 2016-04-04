@@ -1,0 +1,8 @@
+Cliente: VELASCO NAVARRO, GREGORIO
+DNI: 7683629
+Teléfono: 600000205
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

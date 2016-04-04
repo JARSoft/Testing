@@ -1,0 +1,8 @@
+Cliente: LOPEZ VELASCO, ADRIAN
+DNI: 9192720
+Teléfono: 600000285
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

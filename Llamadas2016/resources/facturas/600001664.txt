@@ -1,0 +1,8 @@
+Cliente: SANCHEZ LEON, JOSE RAMON
+DNI: 9968852
+Teléfono: 600001664
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

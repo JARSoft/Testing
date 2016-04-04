@@ -1,0 +1,8 @@
+Cliente: DURAN TORRES, MONICA
+DNI: 9364368
+Teléfono: 600001364
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

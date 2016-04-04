@@ -1,0 +1,8 @@
+Cliente: BLANCO REYES, ALFONSO
+DNI: 5800801
+Teléfono: 600000721
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

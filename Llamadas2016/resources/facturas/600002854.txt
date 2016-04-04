@@ -1,0 +1,8 @@
+Cliente: GONZALEZ NIETO, YOLANDA
+DNI: 8209976
+Teléfono: 600002854
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

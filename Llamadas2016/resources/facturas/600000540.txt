@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ MORALES, JUAN
+DNI: 8959538
+Teléfono: 600000540
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RUBIO VELASCO, BEATRIZ
+DNI: 6943048
+Teléfono: 600001590
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

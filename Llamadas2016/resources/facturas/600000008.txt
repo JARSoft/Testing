@@ -1,0 +1,8 @@
+Cliente: CARMONA MORALES, JAVIER
+DNI: 5693112
+Teléfono: 600000008
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

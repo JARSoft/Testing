@@ -1,0 +1,8 @@
+Cliente: GARCIA VELASCO, ROSARIO
+DNI: 8601769
+Teléfono: 600001566
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

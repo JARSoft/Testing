@@ -1,0 +1,8 @@
+Cliente: CARMONA PASTOR, CAROLINA
+DNI: 5694352
+Teléfono: 600001685
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

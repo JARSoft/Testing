@@ -1,0 +1,8 @@
+Cliente: ESTEBAN RAMIREZ, ALICIA
+DNI: 6262210
+Teléfono: 600001081
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

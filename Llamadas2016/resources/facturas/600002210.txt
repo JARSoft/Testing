@@ -1,0 +1,8 @@
+Cliente: NUÑEZ FERNANDEZ, FRANCISCO
+DNI: 7491927
+Teléfono: 600002210
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

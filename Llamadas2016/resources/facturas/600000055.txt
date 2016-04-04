@@ -1,0 +1,8 @@
+Cliente: LOPEZ REYES, JESUS
+DNI: 5786201
+Teléfono: 600000055
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

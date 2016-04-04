@@ -1,0 +1,8 @@
+Cliente: CORTES PRIETO, RICARDO
+DNI: 6414075
+Teléfono: 600001526
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

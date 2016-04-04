@@ -1,0 +1,8 @@
+Cliente: MOLINA MARQUEZ, NATALIA
+DNI: 7536000
+Teléfono: 600001996
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

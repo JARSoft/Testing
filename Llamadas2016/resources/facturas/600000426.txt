@@ -1,0 +1,8 @@
+Cliente: RAMIREZ GIL, JUAN CARLOS
+DNI: 8016633
+Teléfono: 600000426
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

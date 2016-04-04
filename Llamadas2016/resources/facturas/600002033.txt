@@ -1,0 +1,8 @@
+Cliente: SANCHEZ PASTOR, VICENTE
+DNI: 9473150
+Teléfono: 600002033
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

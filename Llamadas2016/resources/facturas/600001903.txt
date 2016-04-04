@@ -1,0 +1,8 @@
+Cliente: ALVAREZ SOTO, CATALINA
+DNI: 7865559
+Teléfono: 600001903
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALVAREZ CARRASCO, ANTONIO
+DNI: 9225203
+Teléfono: 600002993
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

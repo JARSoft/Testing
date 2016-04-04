@@ -1,0 +1,8 @@
+Cliente: MENDEZ SANTANA, INES
+DNI: 5566536
+Teléfono: 600002090
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

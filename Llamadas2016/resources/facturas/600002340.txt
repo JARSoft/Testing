@@ -1,0 +1,8 @@
+Cliente: NUÑEZ SERRANO, MARTIN
+DNI: 6861589
+Teléfono: 600002340
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

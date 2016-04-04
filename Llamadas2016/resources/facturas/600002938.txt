@@ -1,0 +1,8 @@
+Cliente: GONZALEZ CORTES, LUISA
+DNI: 5476138
+Teléfono: 600002938
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

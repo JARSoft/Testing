@@ -1,0 +1,8 @@
+Cliente: ARIAS CASTRO, ANGEL
+DNI: 7070110
+Teléfono: 600001251
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

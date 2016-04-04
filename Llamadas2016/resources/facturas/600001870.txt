@@ -1,0 +1,8 @@
+Cliente: GIMENEZ RUIZ, MIGUEL
+DNI: 5500885
+Teléfono: 600001870
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

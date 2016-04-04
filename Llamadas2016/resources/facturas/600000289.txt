@@ -1,0 +1,8 @@
+Cliente: CRESPO MONTERO, AURORA
+DNI: 5495333
+Teléfono: 600000289
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

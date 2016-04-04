@@ -1,0 +1,8 @@
+Cliente: VARGAS GONZALEZ, EMILIA
+DNI: 9159623
+Teléfono: 600002583
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

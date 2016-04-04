@@ -1,0 +1,8 @@
+Cliente: CABALLERO MARQUEZ, IRENE
+DNI: 7699933
+Teléfono: 600002191
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

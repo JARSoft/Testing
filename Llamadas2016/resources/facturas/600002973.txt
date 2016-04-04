@@ -1,0 +1,8 @@
+Cliente: PEREZ SANTOS, IKER
+DNI: 7854844
+Teléfono: 600002973
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

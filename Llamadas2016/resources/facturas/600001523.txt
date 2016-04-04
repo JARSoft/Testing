@@ -1,0 +1,8 @@
+Cliente: MARQUEZ FERRER, SERGIO
+DNI: 5878670
+Teléfono: 600001523
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

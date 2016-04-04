@@ -1,0 +1,8 @@
+Cliente: MEDINA PRIETO, TERESA
+DNI: 6989714
+Teléfono: 600002797
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

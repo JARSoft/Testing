@@ -1,0 +1,8 @@
+Cliente: ORTEGA ROMAN, ANA
+DNI: 8880912
+Teléfono: 600000032
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

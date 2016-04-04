@@ -1,0 +1,8 @@
+Cliente: CRUZ GUTIERREZ, MARIA ROSARIO
+DNI: 7237910
+Teléfono: 600001372
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

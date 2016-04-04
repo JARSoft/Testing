@@ -1,0 +1,8 @@
+Cliente: LOZANO MONTERO, GREGORIO
+DNI: 6411745
+Teléfono: 600001702
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

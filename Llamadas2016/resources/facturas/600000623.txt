@@ -1,0 +1,8 @@
+Cliente: RAMIREZ MORALES, MARTIN
+DNI: 5675647
+Teléfono: 600000623
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

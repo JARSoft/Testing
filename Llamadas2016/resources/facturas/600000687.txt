@@ -1,0 +1,8 @@
+Cliente: VELASCO MENDEZ, GREGORIO
+DNI: 5640733
+Teléfono: 600000687
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

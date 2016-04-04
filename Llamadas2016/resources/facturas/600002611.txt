@@ -1,0 +1,8 @@
+Cliente: MOYA ROMAN, IRENE
+DNI: 9545073
+Teléfono: 600002611
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

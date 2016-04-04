@@ -1,0 +1,8 @@
+Cliente: CORTES TORRES, MARIA MAR
+DNI: 8998712
+Teléfono: 600000840
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

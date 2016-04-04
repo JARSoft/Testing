@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ CASTILLO, ANA MARIA
+DNI: 8306680
+Teléfono: 600000828
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

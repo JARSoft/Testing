@@ -1,0 +1,8 @@
+Cliente: MORA BRAVO, MARIA ANGELES
+DNI: 8860929
+Teléfono: 600002167
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

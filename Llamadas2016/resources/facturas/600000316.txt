@@ -1,0 +1,8 @@
+Cliente: BENITEZ GARRIDO, NATALIA
+DNI: 7247130
+Teléfono: 600000316
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

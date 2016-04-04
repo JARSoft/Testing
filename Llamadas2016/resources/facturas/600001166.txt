@@ -1,0 +1,8 @@
+Cliente: LOZANO VICENTE, JOSE MARIA
+DNI: 7085006
+Teléfono: 600001166
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

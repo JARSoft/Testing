@@ -1,0 +1,8 @@
+Cliente: SANZ HIDALGO, RICARDO
+DNI: 9455521
+Teléfono: 600002677
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

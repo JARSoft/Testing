@@ -1,0 +1,8 @@
+Cliente: NAVARRO DIEZ, SANDRA
+DNI: 7033031
+Teléfono: 600001252
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

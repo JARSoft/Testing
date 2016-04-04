@@ -1,0 +1,8 @@
+Cliente: JIMENEZ FLORES, ESPERANZA
+DNI: 6346709
+Teléfono: 600002445
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

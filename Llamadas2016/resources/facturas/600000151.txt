@@ -1,0 +1,8 @@
+Cliente: MENDEZ GALLEGO, FELIX
+DNI: 6381530
+Teléfono: 600000151
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

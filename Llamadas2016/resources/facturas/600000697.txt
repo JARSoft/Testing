@@ -1,0 +1,8 @@
+Cliente: TORRES VAZQUEZ, SONIA
+DNI: 6030317
+Teléfono: 600000697
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

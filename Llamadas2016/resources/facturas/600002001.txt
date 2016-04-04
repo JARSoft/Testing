@@ -1,0 +1,8 @@
+Cliente: CARMONA GIL, EVA
+DNI: 5258813
+Teléfono: 600002001
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ORTIZ GIL, JUAN LUIS
+DNI: 8013524
+Teléfono: 600002096
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

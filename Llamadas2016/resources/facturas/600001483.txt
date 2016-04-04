@@ -1,0 +1,8 @@
+Cliente: IGLESIAS VICENTE, EVA
+DNI: 8315841
+Teléfono: 600001483
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

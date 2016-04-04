@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ CAMPOS, VICENTE
+DNI: 5777962
+Teléfono: 600000031
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

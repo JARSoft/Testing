@@ -1,0 +1,8 @@
+Cliente: CASTILLO GALLEGO, ALICIA
+DNI: 9969456
+Teléfono: 600000198
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

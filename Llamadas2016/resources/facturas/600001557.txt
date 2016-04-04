@@ -1,0 +1,8 @@
+Cliente: DIAZ RAMIREZ, RAMON
+DNI: 5616235
+Teléfono: 600001557
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

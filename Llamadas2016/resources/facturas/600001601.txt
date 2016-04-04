@@ -1,0 +1,8 @@
+Cliente: SAEZ CARRASCO, SONIA
+DNI: 7042288
+Teléfono: 600001601
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

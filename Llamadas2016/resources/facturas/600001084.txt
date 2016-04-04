@@ -1,0 +1,8 @@
+Cliente: PEÑA BLANCO, JOSEFINA
+DNI: 7423156
+Teléfono: 600001084
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

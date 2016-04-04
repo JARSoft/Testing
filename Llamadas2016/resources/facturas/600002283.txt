@@ -1,0 +1,8 @@
+Cliente: JIMENEZ DURAN, ELENA
+DNI: 6048093
+Teléfono: 600002283
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

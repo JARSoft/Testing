@@ -1,0 +1,8 @@
+Cliente: MOYA TORRES, DANIEL
+DNI: 6700293
+Teléfono: 600000901
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

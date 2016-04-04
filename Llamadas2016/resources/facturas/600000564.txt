@@ -1,0 +1,8 @@
+Cliente: MARIN RUIZ, AITOR
+DNI: 5966798
+Teléfono: 600000564
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

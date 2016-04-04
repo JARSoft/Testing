@@ -1,0 +1,8 @@
+Cliente: BENITEZ MARTIN, NICOLAS
+DNI: 9116135
+Teléfono: 600001571
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SOLER HIDALGO, JULIAN
+DNI: 6935670
+Teléfono: 600000742
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

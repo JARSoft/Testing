@@ -1,0 +1,8 @@
+Cliente: GARRIDO DURAN, NURIA
+DNI: 5262535
+Teléfono: 600002539
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

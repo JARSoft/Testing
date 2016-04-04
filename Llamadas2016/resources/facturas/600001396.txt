@@ -1,0 +1,8 @@
+Cliente: DURAN GALLEGO, AITOR
+DNI: 6328161
+Teléfono: 600001396
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

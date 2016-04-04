@@ -1,0 +1,8 @@
+Cliente: ALVAREZ MORENO, JORDI
+DNI: 5569307
+Teléfono: 600002793
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

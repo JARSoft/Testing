@@ -1,0 +1,8 @@
+Cliente: CALVO ROMAN, SANDRA
+DNI: 6079922
+Teléfono: 600000945
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

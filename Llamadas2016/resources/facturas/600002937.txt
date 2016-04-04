@@ -1,0 +1,8 @@
+Cliente: MARIN ALVAREZ, ALFONSO
+DNI: 8617585
+Teléfono: 600002937
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

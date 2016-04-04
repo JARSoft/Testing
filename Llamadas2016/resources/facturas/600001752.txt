@@ -1,0 +1,8 @@
+Cliente: GUERRERO VICENTE, MARINA
+DNI: 9147777
+Teléfono: 600001752
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

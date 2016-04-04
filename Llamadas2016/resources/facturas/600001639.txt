@@ -1,0 +1,8 @@
+Cliente: ROJAS ORTIZ, SANTIAGO
+DNI: 5231722
+Teléfono: 600001639
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

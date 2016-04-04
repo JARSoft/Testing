@@ -1,0 +1,8 @@
+Cliente: SANTANA CABRERA, ALBA
+DNI: 9092600
+Teléfono: 600000036
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

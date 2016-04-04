@@ -1,0 +1,8 @@
+Cliente: NAVARRO MEDINA, ANA BELEN
+DNI: 7390953
+Teléfono: 600000193
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

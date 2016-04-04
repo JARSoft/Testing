@@ -1,0 +1,8 @@
+Cliente: LEON MARQUEZ, AITOR
+DNI: 7604136
+Teléfono: 600002495
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NIETO DOMINGUEZ, NICOLAS
+DNI: 9746081
+Teléfono: 600000463
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

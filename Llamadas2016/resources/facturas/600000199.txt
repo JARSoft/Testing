@@ -1,0 +1,8 @@
+Cliente: HIDALGO REYES, MERCEDES
+DNI: 6798250
+Teléfono: 600000199
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

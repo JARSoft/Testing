@@ -1,0 +1,8 @@
+Cliente: ROJAS RAMOS, JAVIER
+DNI: 6014873
+Teléfono: 600000897
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

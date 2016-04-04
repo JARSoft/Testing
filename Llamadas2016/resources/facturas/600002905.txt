@@ -1,0 +1,8 @@
+Cliente: CALVO GALLARDO, EVA MARIA
+DNI: 6102246
+Teléfono: 600002905
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

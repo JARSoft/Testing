@@ -1,0 +1,8 @@
+Cliente: ORTIZ CAMPOS, RAMON
+DNI: 8973761
+Teléfono: 600001165
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

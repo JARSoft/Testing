@@ -1,0 +1,8 @@
+Cliente: REYES PEÑA, JOAQUIN
+DNI: 7703075
+Teléfono: 600000549
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

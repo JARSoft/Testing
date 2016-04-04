@@ -1,0 +1,8 @@
+Cliente: MORALES DIEZ, JUAN ANTONIO
+DNI: 7307017
+Teléfono: 600002812
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

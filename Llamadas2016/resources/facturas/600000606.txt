@@ -1,0 +1,8 @@
+Cliente: JIMENEZ RUBIO, ANTONIO
+DNI: 8480602
+Teléfono: 600000606
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

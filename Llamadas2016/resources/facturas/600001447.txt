@@ -1,0 +1,8 @@
+Cliente: CASTILLO MORA, TERESA
+DNI: 8315247
+Teléfono: 600001447
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

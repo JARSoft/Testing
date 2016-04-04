@@ -1,0 +1,8 @@
+Cliente: CORTES SOLER, ENRIQUE
+DNI: 6318463
+Teléfono: 600001366
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

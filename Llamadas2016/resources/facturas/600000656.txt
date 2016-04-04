@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ MARTIN, DIEGO
+DNI: 7496988
+Teléfono: 600000656
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

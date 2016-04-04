@@ -1,0 +1,8 @@
+Cliente: LOPEZ DIEZ, NICOLAS
+DNI: 8574256
+Teléfono: 600000979
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

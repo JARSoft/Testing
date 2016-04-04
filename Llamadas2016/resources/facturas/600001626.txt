@@ -1,0 +1,8 @@
+Cliente: ORTEGA VEGA, MONICA
+DNI: 8629498
+Teléfono: 600001626
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

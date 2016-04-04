@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ GOMEZ, CATALINA
+DNI: 8726665
+Teléfono: 600002128
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

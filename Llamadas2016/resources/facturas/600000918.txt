@@ -1,0 +1,8 @@
+Cliente: GALLARDO CRESPO, JUAN FRANCISCO
+DNI: 7376362
+Teléfono: 600000918
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DURAN MOYA, PAULA
+DNI: 8836238
+Teléfono: 600002169
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

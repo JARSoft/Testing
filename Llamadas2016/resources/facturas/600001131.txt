@@ -1,0 +1,8 @@
+Cliente: VARGAS REYES, ANGELA
+DNI: 7856958
+Teléfono: 600001131
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALVAREZ GOMEZ, SUSANA
+DNI: 6125825
+Teléfono: 600001744
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

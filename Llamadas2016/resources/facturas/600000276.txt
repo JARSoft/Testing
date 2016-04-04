@@ -1,0 +1,8 @@
+Cliente: MENDEZ ALONSO, VICTORIA
+DNI: 6413083
+Teléfono: 600000276
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

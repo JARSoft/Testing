@@ -1,0 +1,8 @@
+Cliente: NUÑEZ SOTO, CRISTIAN
+DNI: 8545438
+Teléfono: 600002821
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

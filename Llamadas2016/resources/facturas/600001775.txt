@@ -1,0 +1,8 @@
+Cliente: JIMENEZ RAMIREZ, CARMEN
+DNI: 5596702
+Teléfono: 600001775
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RUBIO CORTES, ANTONIA
+DNI: 8812214
+Teléfono: 600000591
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

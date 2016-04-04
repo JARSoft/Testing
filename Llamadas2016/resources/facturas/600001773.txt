@@ -1,0 +1,8 @@
+Cliente: CRESPO SOTO, JUAN ANTONIO
+DNI: 9186822
+Teléfono: 600001773
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

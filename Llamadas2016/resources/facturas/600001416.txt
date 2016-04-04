@@ -1,0 +1,8 @@
+Cliente: FLORES SOLER, ANDRES
+DNI: 6114287
+Teléfono: 600001416
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

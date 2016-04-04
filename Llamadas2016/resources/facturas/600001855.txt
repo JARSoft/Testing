@@ -1,0 +1,8 @@
+Cliente: MORA GIL, ESTHER
+DNI: 8139171
+Teléfono: 600001855
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

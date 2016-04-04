@@ -1,0 +1,8 @@
+Cliente: GARCIA SAEZ, VICTOR
+DNI: 8635809
+Teléfono: 600002826
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

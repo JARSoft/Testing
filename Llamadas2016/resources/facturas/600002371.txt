@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ MENDEZ, SUSANA
+DNI: 7763083
+Teléfono: 600002371
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

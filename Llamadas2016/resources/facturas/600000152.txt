@@ -1,0 +1,8 @@
+Cliente: BLANCO RODRIGUEZ, DAVID
+DNI: 7360546
+Teléfono: 600000152
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

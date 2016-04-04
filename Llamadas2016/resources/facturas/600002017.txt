@@ -1,0 +1,8 @@
+Cliente: BLANCO MARTIN, EVA
+DNI: 6742516
+Teléfono: 600002017
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

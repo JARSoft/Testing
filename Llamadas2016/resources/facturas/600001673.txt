@@ -1,0 +1,8 @@
+Cliente: IGLESIAS GARRIDO, JOSE LUIS
+DNI: 5080681
+Teléfono: 600001673
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

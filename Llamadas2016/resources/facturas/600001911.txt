@@ -1,0 +1,8 @@
+Cliente: HIDALGO HIDALGO, DOMINGO
+DNI: 9283442
+Teléfono: 600001911
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

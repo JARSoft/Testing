@@ -1,0 +1,8 @@
+Cliente: FERRER VICENTE, PILAR
+DNI: 5442580
+Teléfono: 600001198
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

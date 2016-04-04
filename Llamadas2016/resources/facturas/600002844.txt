@@ -1,0 +1,8 @@
+Cliente: CARRASCO GUERRERO, AMPARO
+DNI: 5837298
+Teléfono: 600002844
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

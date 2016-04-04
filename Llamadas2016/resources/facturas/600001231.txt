@@ -1,0 +1,8 @@
+Cliente: VELASCO RUIZ, ESTHER
+DNI: 8963136
+Teléfono: 600001231
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

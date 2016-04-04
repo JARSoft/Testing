@@ -1,0 +1,8 @@
+Cliente: CASTRO MARIN, MARIA CARMEN
+DNI: 8764278
+Teléfono: 600000225
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

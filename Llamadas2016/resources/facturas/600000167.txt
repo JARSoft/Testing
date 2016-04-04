@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ GARRIDO, CATALINA
+DNI: 9486278
+Teléfono: 600000167
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MOYA HERNANDEZ, MARIA LUISA
+DNI: 9821616
+Teléfono: 600000764
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

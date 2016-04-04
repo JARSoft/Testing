@@ -1,0 +1,8 @@
+Cliente: FLORES RUBIO, IVAN
+DNI: 9791681
+Teléfono: 600002440
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

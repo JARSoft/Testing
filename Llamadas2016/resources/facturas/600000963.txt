@@ -1,0 +1,8 @@
+Cliente: CRUZ DIEZ, ALBERT
+DNI: 7132555
+Teléfono: 600000963
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

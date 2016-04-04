@@ -1,0 +1,8 @@
+Cliente: ORTEGA PRIETO, MERCEDES
+DNI: 9502256
+Teléfono: 600000075
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

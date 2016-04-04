@@ -1,0 +1,8 @@
+Cliente: RAMOS MARQUEZ, EVA
+DNI: 9436597
+Teléfono: 600001621
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

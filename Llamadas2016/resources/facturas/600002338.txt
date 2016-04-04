@@ -1,0 +1,8 @@
+Cliente: CARMONA SANCHEZ, CESAR
+DNI: 7106085
+Teléfono: 600002338
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

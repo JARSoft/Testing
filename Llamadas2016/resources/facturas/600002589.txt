@@ -1,0 +1,8 @@
+Cliente: CANO TORRES, DANIEL
+DNI: 9904282
+Teléfono: 600002589
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALVAREZ CALVO, MARIA JOSEFA
+DNI: 6893878
+Teléfono: 600001499
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

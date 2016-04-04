@@ -1,0 +1,8 @@
+Cliente: ALONSO PARRA, MIRIAM
+DNI: 9722176
+Teléfono: 600000937
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MORALES CALVO, JUAN JOSE
+DNI: 6310972
+Teléfono: 600001193
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

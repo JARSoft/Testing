@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ RUIZ, ALVARO
+DNI: 7503227
+Teléfono: 600002608
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

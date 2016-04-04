@@ -1,0 +1,8 @@
+Cliente: VICENTE HERRERO, CRISTINA
+DNI: 5824263
+Teléfono: 600002428
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

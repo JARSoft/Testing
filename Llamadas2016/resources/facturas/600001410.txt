@@ -1,0 +1,8 @@
+Cliente: MORA LOZANO, JOSE MARIA
+DNI: 8837151
+Teléfono: 600001410
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

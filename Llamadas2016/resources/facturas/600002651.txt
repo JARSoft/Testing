@@ -1,0 +1,8 @@
+Cliente: RUBIO SANTOS, DANIEL
+DNI: 8087553
+Teléfono: 600002651
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

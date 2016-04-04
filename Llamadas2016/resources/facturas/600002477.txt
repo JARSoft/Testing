@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ CANO, ANGELES
+DNI: 7195748
+Teléfono: 600002477
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

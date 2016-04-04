@@ -1,0 +1,8 @@
+Cliente: DELGADO SANTIAGO, PILAR
+DNI: 6076394
+Teléfono: 600001482
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

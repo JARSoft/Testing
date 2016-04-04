@@ -1,0 +1,8 @@
+Cliente: CARRASCO AGUILAR, AGUSTIN
+DNI: 5481471
+Teléfono: 600000409
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

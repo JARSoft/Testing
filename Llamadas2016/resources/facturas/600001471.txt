@@ -1,0 +1,8 @@
+Cliente: SUAREZ HIDALGO, NICOLAS
+DNI: 7504588
+Teléfono: 600001471
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

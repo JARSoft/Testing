@@ -1,0 +1,8 @@
+Cliente: CORTES ALVAREZ, MARIO
+DNI: 9175569
+Teléfono: 600000400
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

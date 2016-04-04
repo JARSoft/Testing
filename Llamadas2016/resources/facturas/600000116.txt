@@ -1,0 +1,8 @@
+Cliente: MONTERO MOLINA, GUILLERMO
+DNI: 5052185
+Teléfono: 600000116
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

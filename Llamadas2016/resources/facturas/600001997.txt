@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ FLORES, MANUELA
+DNI: 6035131
+Teléfono: 600001997
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

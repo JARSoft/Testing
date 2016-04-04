@@ -1,0 +1,8 @@
+Cliente: DIEZ HERRERO, MARIA CRISTINA
+DNI: 9160449
+Teléfono: 600001253
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

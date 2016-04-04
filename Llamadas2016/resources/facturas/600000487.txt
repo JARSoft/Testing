@@ -1,0 +1,8 @@
+Cliente: SANTANA ROMERO, ALBA
+DNI: 9771593
+Teléfono: 600000487
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

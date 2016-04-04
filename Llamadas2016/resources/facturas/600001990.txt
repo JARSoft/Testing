@@ -1,0 +1,8 @@
+Cliente: MOLINA GARRIDO, MARINA
+DNI: 9193003
+Teléfono: 600001990
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

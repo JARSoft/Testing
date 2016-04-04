@@ -1,0 +1,8 @@
+Cliente: NIETO PRIETO, CARLA
+DNI: 9933081
+Teléfono: 600001913
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

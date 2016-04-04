@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ SANTANA, CONCEPCION
+DNI: 7064700
+Teléfono: 600000854
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

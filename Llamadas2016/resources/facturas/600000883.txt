@@ -1,0 +1,8 @@
+Cliente: NUÑEZ SUAREZ, IRENE
+DNI: 7659652
+Teléfono: 600000883
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

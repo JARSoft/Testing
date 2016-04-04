@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ REYES, FERNANDO
+DNI: 5136272
+Teléfono: 600002531
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

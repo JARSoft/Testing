@@ -1,0 +1,8 @@
+Cliente: CABALLERO RUIZ, SONIA
+DNI: 8154333
+Teléfono: 600002435
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

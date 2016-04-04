@@ -1,0 +1,8 @@
+Cliente: GARCIA GALLEGO, ANDREA
+DNI: 6377179
+Teléfono: 600001002
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DIAZ ROJAS, ROSA MARIA
+DNI: 5347884
+Teléfono: 600002983
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

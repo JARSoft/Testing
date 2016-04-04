@@ -1,0 +1,8 @@
+Cliente: ROJAS FERNANDEZ, JOSE MIGUEL
+DNI: 7960335
+Teléfono: 600002524
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

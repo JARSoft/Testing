@@ -1,0 +1,8 @@
+Cliente: CANO ORTEGA, JORDI
+DNI: 8752486
+Teléfono: 600001694
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

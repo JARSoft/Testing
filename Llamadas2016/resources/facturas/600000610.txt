@@ -1,0 +1,8 @@
+Cliente: MARTIN PARRA, VICTOR MANUEL
+DNI: 6476865
+Teléfono: 600000610
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

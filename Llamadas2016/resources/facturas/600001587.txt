@@ -1,0 +1,8 @@
+Cliente: CAMPOS RAMOS, ROCIO
+DNI: 9967953
+Teléfono: 600001587
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

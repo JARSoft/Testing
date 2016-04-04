@@ -1,0 +1,8 @@
+Cliente: SOTO MORALES, FRANCISCO JAVIER
+DNI: 7548349
+Teléfono: 600001918
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ REYES, JUAN MANUEL
+DNI: 5956893
+Teléfono: 600002625
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

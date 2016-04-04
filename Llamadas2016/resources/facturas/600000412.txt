@@ -1,0 +1,8 @@
+Cliente: DURAN NUÑEZ, ELENA
+DNI: 9873976
+Teléfono: 600000412
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

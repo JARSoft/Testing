@@ -1,0 +1,8 @@
+Cliente: SAEZ VEGA, JORDI
+DNI: 6150299
+Teléfono: 600001402
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

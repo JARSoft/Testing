@@ -1,0 +1,8 @@
+Cliente: LEON PEÑA, RAFAEL
+DNI: 6293562
+Teléfono: 600001110
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

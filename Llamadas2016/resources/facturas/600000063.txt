@@ -1,0 +1,8 @@
+Cliente: MONTERO GOMEZ, EVA
+DNI: 7780837
+Teléfono: 600000063
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

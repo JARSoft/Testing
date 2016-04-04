@@ -1,0 +1,8 @@
+Cliente: VICENTE ROJAS, MIGUEL ANGEL
+DNI: 9713298
+Teléfono: 600001883
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

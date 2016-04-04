@@ -1,0 +1,8 @@
+Cliente: ROJAS MONTERO, RODRIGO
+DNI: 9135020
+Teléfono: 600001803
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

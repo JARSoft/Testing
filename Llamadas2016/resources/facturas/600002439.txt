@@ -1,0 +1,8 @@
+Cliente: CRESPO SOLER, CAROLINA
+DNI: 9673344
+Teléfono: 600002439
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

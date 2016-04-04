@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ MOYA, NURIA
+DNI: 7074824
+Teléfono: 600002925
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

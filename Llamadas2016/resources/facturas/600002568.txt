@@ -1,0 +1,8 @@
+Cliente: CABRERA ROMERO, SEBASTIAN
+DNI: 9834052
+Teléfono: 600002568
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

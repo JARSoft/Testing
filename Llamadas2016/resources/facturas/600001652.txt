@@ -1,0 +1,8 @@
+Cliente: MARTINEZ CANO, SEBASTIAN
+DNI: 6247392
+Teléfono: 600001652
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

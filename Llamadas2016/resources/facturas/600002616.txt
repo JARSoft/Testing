@@ -1,0 +1,8 @@
+Cliente: GARCIA ALVAREZ, ALICIA
+DNI: 8614862
+Teléfono: 600002616
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

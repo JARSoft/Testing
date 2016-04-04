@@ -1,0 +1,8 @@
+Cliente: MUÑOZ GIL, JULIAN
+DNI: 6293901
+Teléfono: 600000396
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

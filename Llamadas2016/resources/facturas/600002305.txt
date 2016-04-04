@@ -1,0 +1,8 @@
+Cliente: ORTEGA DELGADO, JULIA
+DNI: 8769918
+Teléfono: 600002305
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

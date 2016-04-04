@@ -1,0 +1,8 @@
+Cliente: ARIAS PRIETO, HECTOR
+DNI: 7660960
+Teléfono: 600002641
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

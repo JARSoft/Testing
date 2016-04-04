@@ -1,0 +1,8 @@
+Cliente: ROJAS ALONSO, JUAN LUIS
+DNI: 6985231
+Teléfono: 600001747
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GALLEGO HERRERA, ALVARO
+DNI: 9647599
+Teléfono: 600001669
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

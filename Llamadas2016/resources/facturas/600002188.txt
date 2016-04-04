@@ -1,0 +1,8 @@
+Cliente: MORENO SANCHEZ, MIGUEL
+DNI: 6954897
+Teléfono: 600002188
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

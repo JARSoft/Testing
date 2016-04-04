@@ -1,0 +1,8 @@
+Cliente: HERRERO PASCUAL, SEBASTIAN
+DNI: 8470341
+Teléfono: 600002457
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: FLORES CRUZ, ISMAEL
+DNI: 5910865
+Teléfono: 600000020
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ORTIZ ROJAS, MARIA CONCEPCION
+DNI: 5812582
+Teléfono: 600002129
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

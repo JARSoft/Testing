@@ -1,0 +1,8 @@
+Cliente: JIMENEZ VAZQUEZ, MARTIN
+DNI: 5983397
+Teléfono: 600002279
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

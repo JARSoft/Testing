@@ -1,0 +1,8 @@
+Cliente: CARMONA MONTERO, JOSE RAMON
+DNI: 8567329
+Teléfono: 600000655
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

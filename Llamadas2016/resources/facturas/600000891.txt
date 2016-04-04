@@ -1,0 +1,8 @@
+Cliente: NIETO FUENTES, EMILIO
+DNI: 6125188
+Teléfono: 600000891
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

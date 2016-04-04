@@ -1,0 +1,8 @@
+Cliente: PARRA MUÑOZ, CAROLINA
+DNI: 6219127
+Teléfono: 600000270
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

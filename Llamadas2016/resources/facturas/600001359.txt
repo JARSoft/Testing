@@ -1,0 +1,8 @@
+Cliente: HIDALGO SANTIAGO, MARIA ROSA
+DNI: 5809015
+Teléfono: 600001359
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

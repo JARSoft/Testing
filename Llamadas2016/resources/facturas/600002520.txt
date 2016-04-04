@@ -1,0 +1,8 @@
+Cliente: DELGADO GIL, MARTIN
+DNI: 5322741
+Teléfono: 600002520
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

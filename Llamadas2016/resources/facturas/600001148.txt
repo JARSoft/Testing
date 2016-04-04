@@ -1,0 +1,8 @@
+Cliente: ROMERO MARQUEZ, VICTOR
+DNI: 6000694
+Teléfono: 600001148
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

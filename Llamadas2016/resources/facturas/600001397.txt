@@ -1,0 +1,8 @@
+Cliente: LORENZO SANCHEZ, ALBERT
+DNI: 7882624
+Teléfono: 600001397
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

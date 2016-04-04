@@ -1,0 +1,8 @@
+Cliente: ESTEBAN SANTANA, CAROLINA
+DNI: 5439524
+Teléfono: 600000592
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

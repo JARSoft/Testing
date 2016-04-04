@@ -1,0 +1,8 @@
+Cliente: BENITEZ BRAVO, ANGELES
+DNI: 9428277
+Teléfono: 600002811
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

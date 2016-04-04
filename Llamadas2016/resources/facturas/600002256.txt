@@ -1,0 +1,8 @@
+Cliente: FUENTES RAMIREZ, JUAN
+DNI: 5478562
+Teléfono: 600002256
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ LEON, CARLOS
+DNI: 6594240
+Teléfono: 600000011
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

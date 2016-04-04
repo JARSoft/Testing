@@ -1,0 +1,8 @@
+Cliente: NIETO CAMPOS, MARIA ANGELES
+DNI: 7175530
+Teléfono: 600002571
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

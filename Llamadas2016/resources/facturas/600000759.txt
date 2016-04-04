@@ -1,0 +1,8 @@
+Cliente: GALLEGO TORRES, SARA
+DNI: 8717446
+Teléfono: 600000759
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

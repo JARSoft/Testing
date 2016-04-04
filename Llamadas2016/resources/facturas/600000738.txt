@@ -1,0 +1,8 @@
+Cliente: GIMENEZ MONTERO, MARIO
+DNI: 6325780
+Teléfono: 600000738
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

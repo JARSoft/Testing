@@ -1,0 +1,8 @@
+Cliente: VEGA BENITEZ, MARIA CONCEPCION
+DNI: 6578369
+Teléfono: 600001552
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

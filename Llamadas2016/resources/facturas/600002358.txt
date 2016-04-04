@@ -1,0 +1,8 @@
+Cliente: MENDEZ GUTIERREZ, AURORA
+DNI: 8508562
+Teléfono: 600002358
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

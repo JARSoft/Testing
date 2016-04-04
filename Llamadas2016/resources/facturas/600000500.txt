@@ -1,0 +1,8 @@
+Cliente: ROMERO RAMIREZ, MANUELA
+DNI: 6617391
+Teléfono: 600000500
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

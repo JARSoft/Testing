@@ -1,0 +1,8 @@
+Cliente: VARGAS DOMINGUEZ, HECTOR
+DNI: 5393911
+Teléfono: 600000765
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

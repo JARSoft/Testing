@@ -1,0 +1,8 @@
+Cliente: BENITEZ GOMEZ, MARCOS
+DNI: 8694386
+Teléfono: 600002405
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SANTANA LOPEZ, MARIA PILAR
+DNI: 6769364
+Teléfono: 600001559
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

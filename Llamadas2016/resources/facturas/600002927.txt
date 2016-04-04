@@ -1,0 +1,8 @@
+Cliente: SAEZ SOLER, XAVIER
+DNI: 7824587
+Teléfono: 600002927
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

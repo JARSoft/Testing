@@ -1,0 +1,8 @@
+Cliente: CALVO PARRA, MARIA CRISTINA
+DNI: 6850503
+Teléfono: 600002909
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

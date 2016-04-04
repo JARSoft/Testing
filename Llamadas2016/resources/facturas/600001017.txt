@@ -1,0 +1,8 @@
+Cliente: RUBIO VELASCO, NICOLAS
+DNI: 5874382
+Teléfono: 600001017
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

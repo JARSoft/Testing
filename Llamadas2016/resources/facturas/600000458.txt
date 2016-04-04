@@ -1,0 +1,8 @@
+Cliente: MARQUEZ TORRES, ALEX
+DNI: 9263197
+Teléfono: 600000458
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

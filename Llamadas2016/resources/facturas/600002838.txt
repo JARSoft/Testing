@@ -1,0 +1,8 @@
+Cliente: TORRES SANCHEZ, SEBASTIAN
+DNI: 5483325
+Teléfono: 600002838
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

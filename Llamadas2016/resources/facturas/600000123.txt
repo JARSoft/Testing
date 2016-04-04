@@ -1,0 +1,8 @@
+Cliente: GIMENEZ VEGA, ROSA MARIA
+DNI: 6037342
+Teléfono: 600000123
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARQUEZ SOTO, EVA MARIA
+DNI: 9907864
+Teléfono: 600002499
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

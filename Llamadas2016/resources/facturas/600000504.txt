@@ -1,0 +1,8 @@
+Cliente: DELGADO CORTES, JOSE LUIS
+DNI: 9040791
+Teléfono: 600000504
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

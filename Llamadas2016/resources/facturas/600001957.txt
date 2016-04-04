@@ -1,0 +1,8 @@
+Cliente: CARRASCO MARTINEZ, ANGELES
+DNI: 6778681
+Teléfono: 600001957
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

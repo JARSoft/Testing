@@ -1,0 +1,8 @@
+Cliente: MORENO ROMERO, MARIA NIEVES
+DNI: 7172778
+Teléfono: 600000484
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

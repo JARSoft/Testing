@@ -1,0 +1,8 @@
+Cliente: SANTANA SANCHEZ, HECTOR
+DNI: 8758806
+Teléfono: 600000390
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

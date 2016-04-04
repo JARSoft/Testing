@@ -1,0 +1,8 @@
+Cliente: BLANCO ORTIZ, AGUSTIN
+DNI: 9946986
+Teléfono: 600000567
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

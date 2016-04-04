@@ -1,0 +1,8 @@
+Cliente: RAMIREZ CASTILLO, MARIA CRISTINA
+DNI: 5707825
+Teléfono: 600001347
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

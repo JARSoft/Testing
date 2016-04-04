@@ -1,0 +1,8 @@
+Cliente: VEGA FERRER, GABRIEL
+DNI: 9526611
+Teléfono: 600002969
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

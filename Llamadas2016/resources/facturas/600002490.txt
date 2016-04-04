@@ -1,0 +1,8 @@
+Cliente: CALVO GALLEGO, MARIA LUISA
+DNI: 5271428
+Teléfono: 600002490
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

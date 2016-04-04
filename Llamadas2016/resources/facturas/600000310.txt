@@ -1,0 +1,8 @@
+Cliente: CALVO CASTRO, LUIS MIGUEL
+DNI: 5071378
+Teléfono: 600000310
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

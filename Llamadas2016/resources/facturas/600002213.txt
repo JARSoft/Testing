@@ -1,0 +1,8 @@
+Cliente: SANTANA RAMOS, LORENZO
+DNI: 5868688
+Teléfono: 600002213
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

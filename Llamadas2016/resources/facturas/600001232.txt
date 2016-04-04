@@ -1,0 +1,8 @@
+Cliente: VARGAS MENDEZ, CLAUDIA
+DNI: 6215662
+Teléfono: 600001232
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

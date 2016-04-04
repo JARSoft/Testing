@@ -1,0 +1,8 @@
+Cliente: ORTEGA MORENO, MERCEDES
+DNI: 5969585
+Teléfono: 600002278
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RUBIO HERRERA, JULIO
+DNI: 7874835
+Teléfono: 600000944
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

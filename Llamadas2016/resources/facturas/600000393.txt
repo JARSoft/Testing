@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ CAMPOS, JORDI
+DNI: 9382993
+Teléfono: 600000393
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

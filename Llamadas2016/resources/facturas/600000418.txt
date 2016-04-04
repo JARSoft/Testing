@@ -1,0 +1,8 @@
+Cliente: SOLER GALLARDO, ISMAEL
+DNI: 5651565
+Teléfono: 600000418
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

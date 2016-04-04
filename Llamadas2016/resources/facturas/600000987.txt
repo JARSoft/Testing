@@ -1,0 +1,8 @@
+Cliente: BENITEZ GALLARDO, MIRIAM
+DNI: 8400419
+Teléfono: 600000987
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DURAN SOLER, JOSE CARLOS
+DNI: 9278784
+Teléfono: 600001529
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NUÑEZ HERRERO, ANTONIO
+DNI: 6575343
+Teléfono: 600001980
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GOMEZ BRAVO, CONSUELO
+DNI: 9521794
+Teléfono: 600000939
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

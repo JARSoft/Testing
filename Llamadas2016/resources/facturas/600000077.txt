@@ -1,0 +1,8 @@
+Cliente: HERRERO RAMOS, ANA BELEN
+DNI: 7394681
+Teléfono: 600000077
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

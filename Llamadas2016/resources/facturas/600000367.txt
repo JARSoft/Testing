@@ -1,0 +1,8 @@
+Cliente: VICENTE SANCHEZ, BEATRIZ
+DNI: 5088487
+Teléfono: 600000367
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

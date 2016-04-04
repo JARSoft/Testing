@@ -1,0 +1,8 @@
+Cliente: MARQUEZ GIL, CAROLINA
+DNI: 6911809
+Teléfono: 600002424
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

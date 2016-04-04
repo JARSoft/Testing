@@ -1,0 +1,8 @@
+Cliente: GOMEZ ORTEGA, MARIO
+DNI: 7805276
+Teléfono: 600001000
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

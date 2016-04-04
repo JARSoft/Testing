@@ -1,0 +1,8 @@
+Cliente: GARRIDO FERRER, JULIAN
+DNI: 7264787
+Teléfono: 600001042
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

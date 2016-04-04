@@ -1,0 +1,8 @@
+Cliente: GARCIA HERNANDEZ, YOLANDA
+DNI: 7283514
+Teléfono: 600002323
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

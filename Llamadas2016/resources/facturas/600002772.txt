@@ -1,0 +1,8 @@
+Cliente: CARMONA PARRA, JUAN CARLOS
+DNI: 9423375
+Teléfono: 600002772
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

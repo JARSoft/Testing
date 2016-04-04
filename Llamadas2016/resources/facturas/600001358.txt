@@ -1,0 +1,8 @@
+Cliente: GIL ESTEBAN, EDUARDO
+DNI: 8229775
+Teléfono: 600001358
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

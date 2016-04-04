@@ -1,0 +1,8 @@
+Cliente: GOMEZ AGUILAR, VICTORIA
+DNI: 7284273
+Teléfono: 600000379
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

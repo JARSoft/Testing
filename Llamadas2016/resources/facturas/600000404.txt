@@ -1,0 +1,8 @@
+Cliente: LOZANO SANCHEZ, SAMUEL
+DNI: 9156454
+Teléfono: 600000404
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

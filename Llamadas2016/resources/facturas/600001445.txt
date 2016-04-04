@@ -1,0 +1,8 @@
+Cliente: PASTOR LOZANO, ALFONSO
+DNI: 9115297
+Teléfono: 600001445
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

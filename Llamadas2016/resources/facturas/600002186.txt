@@ -1,0 +1,8 @@
+Cliente: MARIN MORA, MIGUEL
+DNI: 9083086
+Teléfono: 600002186
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARIN GARCIA, MARIA JESUS
+DNI: 8366550
+Teléfono: 600001712
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

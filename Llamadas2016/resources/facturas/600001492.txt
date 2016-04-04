@@ -1,0 +1,8 @@
+Cliente: PEÑA CABALLERO, MARIA JOSE
+DNI: 8237422
+Teléfono: 600001492
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

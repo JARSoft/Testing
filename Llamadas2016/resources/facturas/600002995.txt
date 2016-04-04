@@ -1,0 +1,8 @@
+Cliente: ARIAS VICENTE, AMPARO
+DNI: 5613818
+Teléfono: 600002995
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

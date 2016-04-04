@@ -1,0 +1,8 @@
+Cliente: SANTANA MARTIN, JUANA
+DNI: 7020801
+Teléfono: 600000120
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

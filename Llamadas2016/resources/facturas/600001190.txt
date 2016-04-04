@@ -1,0 +1,8 @@
+Cliente: BLANCO LORENZO, ANTONIO
+DNI: 9288659
+Teléfono: 600001190
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

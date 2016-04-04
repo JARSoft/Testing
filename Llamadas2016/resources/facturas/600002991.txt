@@ -1,0 +1,8 @@
+Cliente: ORTEGA SANTOS, CESAR
+DNI: 5580282
+Teléfono: 600002991
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

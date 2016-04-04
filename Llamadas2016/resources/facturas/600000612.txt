@@ -1,0 +1,8 @@
+Cliente: FLORES VIDAL, JOAQUIN
+DNI: 6252994
+Teléfono: 600000612
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

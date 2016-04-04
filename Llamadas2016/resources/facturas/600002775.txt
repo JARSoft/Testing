@@ -1,0 +1,8 @@
+Cliente: MARTINEZ VICENTE, OSCAR
+DNI: 6585534
+Teléfono: 600002775
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

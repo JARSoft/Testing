@@ -1,0 +1,8 @@
+Cliente: NIETO HERRERO, SOFIA
+DNI: 5306717
+Teléfono: 600000899
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

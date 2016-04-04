@@ -1,0 +1,8 @@
+Cliente: PARRA ORTIZ, INES
+DNI: 8581967
+Teléfono: 600001044
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

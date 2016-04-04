@@ -1,0 +1,8 @@
+Cliente: GUERRERO FLORES, FRANCISCO JAVIER
+DNI: 6629330
+Teléfono: 600002889
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

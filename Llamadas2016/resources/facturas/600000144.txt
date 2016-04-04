@@ -1,0 +1,8 @@
+Cliente: FERRER TORRES, MARCOS
+DNI: 9444495
+Teléfono: 600000144
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

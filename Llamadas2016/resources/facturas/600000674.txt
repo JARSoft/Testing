@@ -1,0 +1,8 @@
+Cliente: MOLINA SOTO, SUSANA
+DNI: 7331157
+Teléfono: 600000674
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

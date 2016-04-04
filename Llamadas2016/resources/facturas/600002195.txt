@@ -1,0 +1,8 @@
+Cliente: BRAVO DOMINGUEZ, ANDRES
+DNI: 8225973
+Teléfono: 600002195
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

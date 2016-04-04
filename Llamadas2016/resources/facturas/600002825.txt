@@ -1,0 +1,8 @@
+Cliente: GUERRERO PEÑA, SEBASTIAN
+DNI: 8165965
+Teléfono: 600002825
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

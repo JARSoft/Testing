@@ -1,0 +1,8 @@
+Cliente: GALLARDO CABRERA, MARIA PILAR
+DNI: 8571985
+Teléfono: 600000541
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

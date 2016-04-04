@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ LOZANO, ALICIA
+DNI: 5805754
+Teléfono: 600002533
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

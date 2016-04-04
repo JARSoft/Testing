@@ -1,0 +1,8 @@
+Cliente: MORA MONTERO, LUCIA
+DNI: 8830928
+Teléfono: 600001940
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

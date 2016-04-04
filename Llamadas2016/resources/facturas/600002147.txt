@@ -1,0 +1,8 @@
+Cliente: MORALES FUENTES, JULIO
+DNI: 5496948
+Teléfono: 600002147
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

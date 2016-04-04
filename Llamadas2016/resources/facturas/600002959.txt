@@ -1,0 +1,8 @@
+Cliente: GALLEGO DOMINGUEZ, RUBEN
+DNI: 7088400
+Teléfono: 600002959
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

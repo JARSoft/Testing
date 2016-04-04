@@ -1,0 +1,8 @@
+Cliente: MUÑOZ ORTEGA, MANUELA
+DNI: 6890068
+Teléfono: 600001452
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

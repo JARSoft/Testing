@@ -1,0 +1,12 @@
+Cliente: ORTIZ PRIETO, MARIA CRISTINA
+DNI: 6007892
+Teléfono: 600000006
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+674029568	23/7/2014	11:0:0		300			0.0	TarifaDuo
+674029511	23/7/2015	11:30:0		300			4.66	TarifaDuo
+666955169	23/7/2015	11:0:0		300			0.0	TarifaDuo
+674029511	23/7/2014	11:15:0		300			4.66	TarifaDuo
+
+	Consumos: 9.32 €

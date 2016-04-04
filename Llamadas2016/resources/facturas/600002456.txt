@@ -1,0 +1,8 @@
+Cliente: VELASCO NIETO, LORENA
+DNI: 8952131
+Teléfono: 600002456
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

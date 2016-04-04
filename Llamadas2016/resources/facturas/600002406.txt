@@ -1,0 +1,8 @@
+Cliente: GARRIDO GARCIA, EMILIA
+DNI: 9398863
+Teléfono: 600002406
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

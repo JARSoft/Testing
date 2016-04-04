@@ -1,0 +1,8 @@
+Cliente: MARQUEZ CALVO, RODRIGO
+DNI: 7675538
+Teléfono: 600001388
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

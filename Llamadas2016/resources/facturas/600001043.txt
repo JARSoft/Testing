@@ -1,0 +1,8 @@
+Cliente: GARCIA SERRANO, ENRIQUE
+DNI: 8034560
+Teléfono: 600001043
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

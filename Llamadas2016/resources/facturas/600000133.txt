@@ -1,0 +1,8 @@
+Cliente: TORRES MARIN, ROSA
+DNI: 6806673
+Teléfono: 600000133
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

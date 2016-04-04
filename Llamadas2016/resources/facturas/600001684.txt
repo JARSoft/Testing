@@ -1,0 +1,8 @@
+Cliente: VARGAS GUTIERREZ, ELENA
+DNI: 5900510
+Teléfono: 600001684
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

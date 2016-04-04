@@ -1,0 +1,8 @@
+Cliente: MARIN MORA, PAULA
+DNI: 5236430
+Teléfono: 600001592
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

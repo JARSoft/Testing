@@ -1,0 +1,8 @@
+Cliente: GARRIDO REYES, SARA
+DNI: 6743504
+Teléfono: 600001352
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

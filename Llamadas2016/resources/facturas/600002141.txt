@@ -1,0 +1,8 @@
+Cliente: PRIETO FLORES, ANA ISABEL
+DNI: 6377822
+Teléfono: 600002141
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

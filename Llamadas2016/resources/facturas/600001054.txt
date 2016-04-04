@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ DIAZ, ENRIQUE
+DNI: 9410121
+Teléfono: 600001054
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

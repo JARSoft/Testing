@@ -1,0 +1,8 @@
+Cliente: GARCIA RUIZ, MARIA MERCEDES
+DNI: 9677243
+Teléfono: 600001782
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

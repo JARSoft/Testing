@@ -1,0 +1,8 @@
+Cliente: RAMOS GIL, NICOLAS
+DNI: 8539378
+Teléfono: 600000527
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

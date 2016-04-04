@@ -1,0 +1,8 @@
+Cliente: GARCIA BENITEZ, INES
+DNI: 7610337
+Teléfono: 600001058
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

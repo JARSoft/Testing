@@ -1,0 +1,8 @@
+Cliente: CARMONA HERRERA, INMACULADA
+DNI: 9541792
+Teléfono: 600001222
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

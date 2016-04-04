@@ -1,0 +1,8 @@
+Cliente: HERRERO SANTOS, JOAN
+DNI: 7453510
+Teléfono: 600001539
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MORALES ALONSO, IVAN
+DNI: 8539180
+Teléfono: 600000356
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

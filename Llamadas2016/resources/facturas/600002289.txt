@@ -1,0 +1,8 @@
+Cliente: FERNANDEZ MORALES, ALBA
+DNI: 8653669
+Teléfono: 600002289
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

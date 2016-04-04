@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ DIAZ, MANUEL
+DNI: 7827591
+Teléfono: 600000665
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

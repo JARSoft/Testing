@@ -1,0 +1,8 @@
+Cliente: ROMAN RAMIREZ, ROSA
+DNI: 7577824
+Teléfono: 600002532
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

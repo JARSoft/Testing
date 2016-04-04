@@ -1,0 +1,8 @@
+Cliente: DIEZ HERRERO, MARIA JOSE
+DNI: 5849683
+Teléfono: 600000339
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

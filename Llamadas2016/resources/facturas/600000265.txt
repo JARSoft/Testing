@@ -1,0 +1,8 @@
+Cliente: GONZALEZ ALVAREZ, AMPARO
+DNI: 5044201
+Teléfono: 600000265
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

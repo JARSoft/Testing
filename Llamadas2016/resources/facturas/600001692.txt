@@ -1,0 +1,8 @@
+Cliente: BENITEZ SANTANA, ALEJANDRO
+DNI: 5188432
+Teléfono: 600001692
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALVAREZ DURAN, TOMAS
+DNI: 6995259
+Teléfono: 600000262
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

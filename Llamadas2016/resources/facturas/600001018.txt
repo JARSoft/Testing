@@ -1,0 +1,8 @@
+Cliente: GUERRERO ALVAREZ, MARIA DOLORES
+DNI: 5917100
+Teléfono: 600001018
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MARIN VELASCO, INMACULADA
+DNI: 7881884
+Teléfono: 600002290
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

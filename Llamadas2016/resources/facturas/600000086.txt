@@ -1,0 +1,8 @@
+Cliente: ARIAS SANTOS, ALFONSO
+DNI: 7768020
+Teléfono: 600000086
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

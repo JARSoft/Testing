@@ -1,0 +1,8 @@
+Cliente: ROMERO CAMPOS, MARIA LUISA
+DNI: 8063872
+Teléfono: 600001176
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

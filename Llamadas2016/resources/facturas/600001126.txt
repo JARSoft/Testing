@@ -1,0 +1,8 @@
+Cliente: LOPEZ BRAVO, MARIA ANGELES
+DNI: 8170423
+Teléfono: 600001126
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

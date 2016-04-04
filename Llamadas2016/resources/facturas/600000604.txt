@@ -1,0 +1,8 @@
+Cliente: LORENZO HERRERA, MARIA ROSARIO
+DNI: 5211956
+Teléfono: 600000604
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

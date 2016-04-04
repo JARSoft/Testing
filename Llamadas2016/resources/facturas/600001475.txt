@@ -1,0 +1,8 @@
+Cliente: CANO GUERRERO, ALEX
+DNI: 8417648
+Teléfono: 600001475
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

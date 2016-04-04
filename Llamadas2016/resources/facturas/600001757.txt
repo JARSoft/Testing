@@ -1,0 +1,8 @@
+Cliente: PEÑA ALVAREZ, CONSUELO
+DNI: 6931544
+Teléfono: 600001757
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

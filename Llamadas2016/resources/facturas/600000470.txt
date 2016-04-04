@@ -1,0 +1,8 @@
+Cliente: MARTINEZ HERRERA, PEDRO
+DNI: 8846796
+Teléfono: 600000470
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

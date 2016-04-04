@@ -1,0 +1,8 @@
+Cliente: ORTEGA MENDEZ, RAMON
+DNI: 7535821
+Teléfono: 600000106
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

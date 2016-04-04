@@ -1,0 +1,8 @@
+Cliente: RAMIREZ BRAVO, JUAN LUIS
+DNI: 7931748
+Teléfono: 600002623
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

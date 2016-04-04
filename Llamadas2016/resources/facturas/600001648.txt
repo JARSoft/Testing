@@ -1,0 +1,8 @@
+Cliente: MENDEZ MOLINA, JOSE FRANCISCO
+DNI: 9489564
+Teléfono: 600001648
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

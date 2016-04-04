@@ -1,0 +1,8 @@
+Cliente: SUAREZ PRIETO, IRENE
+DNI: 7264575
+Teléfono: 600002509
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

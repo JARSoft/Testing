@@ -1,0 +1,8 @@
+Cliente: CABALLERO FLORES, ROSA
+DNI: 8115398
+Teléfono: 600002116
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

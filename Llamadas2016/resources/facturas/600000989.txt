@@ -1,0 +1,8 @@
+Cliente: GARCIA GONZALEZ, ENRIQUE
+DNI: 7889056
+Teléfono: 600000989
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

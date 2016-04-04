@@ -1,0 +1,8 @@
+Cliente: ARIAS ORTIZ, ALVARO
+DNI: 8747297
+Teléfono: 600001976
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

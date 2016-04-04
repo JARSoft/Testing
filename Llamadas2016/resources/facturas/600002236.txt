@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ ROJAS, LUIS
+DNI: 7303872
+Teléfono: 600002236
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

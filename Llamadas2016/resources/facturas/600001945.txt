@@ -1,0 +1,8 @@
+Cliente: TORRES GARCIA, DANIEL
+DNI: 8764244
+Teléfono: 600001945
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

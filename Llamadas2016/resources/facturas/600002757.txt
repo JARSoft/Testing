@@ -1,0 +1,8 @@
+Cliente: VICENTE JIMENEZ, ROSA MARIA
+DNI: 5151572
+Teléfono: 600002757
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GONZALEZ VELASCO, JORGE
+DNI: 7603229
+Teléfono: 600002179
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

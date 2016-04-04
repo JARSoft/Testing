@@ -1,0 +1,8 @@
+Cliente: ALVAREZ ESTEBAN, MARCOS
+DNI: 6240313
+Teléfono: 600002471
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

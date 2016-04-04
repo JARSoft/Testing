@@ -1,0 +1,8 @@
+Cliente: ORTIZ CABRERA, MARIA ROSARIO
+DNI: 8293025
+Teléfono: 600001438
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

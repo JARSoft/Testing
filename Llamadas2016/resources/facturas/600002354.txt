@@ -1,0 +1,8 @@
+Cliente: MARIN ESTEBAN, CESAR
+DNI: 5397043
+Teléfono: 600002354
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

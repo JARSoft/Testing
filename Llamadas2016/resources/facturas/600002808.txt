@@ -1,0 +1,8 @@
+Cliente: VARGAS SOTO, HECTOR
+DNI: 7205187
+Teléfono: 600002808
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

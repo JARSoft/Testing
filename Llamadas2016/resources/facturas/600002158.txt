@@ -1,0 +1,8 @@
+Cliente: FERRER CRESPO, RAMON
+DNI: 8779710
+Teléfono: 600002158
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

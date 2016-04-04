@@ -1,0 +1,8 @@
+Cliente: PASTOR GARRIDO, ENCARNACION
+DNI: 7413204
+Teléfono: 600000888
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

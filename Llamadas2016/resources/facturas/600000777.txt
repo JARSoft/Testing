@@ -1,0 +1,8 @@
+Cliente: CAMPOS GUERRERO, FERNANDO
+DNI: 5607410
+Teléfono: 600000777
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GALLARDO MARIN, JULIA
+DNI: 9630848
+Teléfono: 600000795
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ROMAN CORTES, VERONICA
+DNI: 6676358
+Teléfono: 600002329
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: RUIZ RODRIGUEZ, ALFREDO
+DNI: 5677710
+Teléfono: 600002361
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

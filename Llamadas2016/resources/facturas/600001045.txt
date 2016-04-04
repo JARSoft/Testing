@@ -1,0 +1,8 @@
+Cliente: GARRIDO ROJAS, ANTONIO
+DNI: 6222270
+Teléfono: 600001045
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

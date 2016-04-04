@@ -1,0 +1,8 @@
+Cliente: BLANCO PASCUAL, MARIA ROSARIO
+DNI: 6943044
+Teléfono: 600001583
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

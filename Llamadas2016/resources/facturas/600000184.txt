@@ -1,0 +1,8 @@
+Cliente: CORTES MUÑOZ, ENRIQUE
+DNI: 9775330
+Teléfono: 600000184
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

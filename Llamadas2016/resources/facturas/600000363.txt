@@ -1,0 +1,8 @@
+Cliente: JIMENEZ PARRA, MARC
+DNI: 5501668
+Teléfono: 600000363
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

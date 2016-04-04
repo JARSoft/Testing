@@ -1,0 +1,8 @@
+Cliente: MENDEZ HIDALGO, IKER
+DNI: 5414877
+Teléfono: 600002771
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

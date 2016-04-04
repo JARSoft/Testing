@@ -1,0 +1,8 @@
+Cliente: HERNANDEZ REYES, JOSE CARLOS
+DNI: 9397063
+Teléfono: 600001138
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

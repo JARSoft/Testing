@@ -1,0 +1,8 @@
+Cliente: ROMERO HERRERO, RAQUEL
+DNI: 8217941
+Teléfono: 600002675
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

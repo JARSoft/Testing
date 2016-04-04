@@ -1,0 +1,8 @@
+Cliente: ORTEGA NUÑEZ, ROCIO
+DNI: 8934255
+Teléfono: 600001187
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

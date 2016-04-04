@@ -1,0 +1,8 @@
+Cliente: GARCIA IBAÑEZ, ALICIA
+DNI: 8188277
+Teléfono: 600000087
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

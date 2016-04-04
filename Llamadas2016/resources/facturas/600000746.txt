@@ -1,0 +1,8 @@
+Cliente: FUENTES MORA, SERGIO
+DNI: 5608761
+Teléfono: 600000746
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

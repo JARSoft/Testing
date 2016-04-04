@@ -1,0 +1,8 @@
+Cliente: RAMOS ROMAN, FERNANDO
+DNI: 6248411
+Teléfono: 600000861
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

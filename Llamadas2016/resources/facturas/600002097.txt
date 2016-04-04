@@ -1,0 +1,8 @@
+Cliente: VICENTE FUENTES, JUAN LUIS
+DNI: 8383539
+Teléfono: 600002097
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

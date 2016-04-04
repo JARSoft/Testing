@@ -1,0 +1,8 @@
+Cliente: CABALLERO VIDAL, RAUL
+DNI: 8131844
+Teléfono: 600001812
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

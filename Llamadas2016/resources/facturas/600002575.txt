@@ -1,0 +1,8 @@
+Cliente: GONZALEZ GARCIA, JUAN LUIS
+DNI: 9540588
+Teléfono: 600002575
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

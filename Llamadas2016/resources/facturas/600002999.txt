@@ -1,0 +1,12 @@
+Cliente: LEON IBAÑEZ, MARIA ANGELES
+DNI: 9819847
+Teléfono: 600002999
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+648058963	12/5/2015	15:0:0		60			1.0599999999999998	TarifaDeTardes
+612312312	5/12/2014	15:0:0		60			1.0599999999999998	TarifaDeTardes
+648058963	11/5/2015	15:0:0		60			0.0	TarifaDuo
+612312312	5/12/2014	23:50:0		60			0.0	TarifaDeTardes
+
+	Consumos: 2.1199999999999997 €

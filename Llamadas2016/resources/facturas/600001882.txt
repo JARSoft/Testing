@@ -1,0 +1,8 @@
+Cliente: FERRER CAMPOS, JUAN JOSE
+DNI: 6549444
+Teléfono: 600001882
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

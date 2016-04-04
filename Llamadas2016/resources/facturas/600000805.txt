@@ -1,0 +1,8 @@
+Cliente: SANCHEZ MARTIN, MARIA SOLEDAD
+DNI: 5914560
+Teléfono: 600000805
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

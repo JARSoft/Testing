@@ -1,0 +1,8 @@
+Cliente: HIDALGO RAMIREZ, JOSE CARLOS
+DNI: 7115961
+Teléfono: 600001580
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

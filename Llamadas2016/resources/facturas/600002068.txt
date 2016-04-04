@@ -1,0 +1,8 @@
+Cliente: MARQUEZ ORTEGA, AGUSTIN
+DNI: 9387563
+Teléfono: 600002068
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

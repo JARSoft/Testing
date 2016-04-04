@@ -1,0 +1,8 @@
+Cliente: GARRIDO CANO, SEBASTIAN
+DNI: 5599587
+Teléfono: 600000112
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

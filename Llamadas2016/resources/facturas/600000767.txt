@@ -1,0 +1,8 @@
+Cliente: GUERRERO MORA, ALBA
+DNI: 9342392
+Teléfono: 600000767
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NAVARRO PASTOR, GLORIA
+DNI: 8097053
+Teléfono: 600002031
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

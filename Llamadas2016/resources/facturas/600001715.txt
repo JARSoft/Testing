@@ -1,0 +1,8 @@
+Cliente: LOPEZ CARMONA, DAVID
+DNI: 5489364
+Teléfono: 600001715
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

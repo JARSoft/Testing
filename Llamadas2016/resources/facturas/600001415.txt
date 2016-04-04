@@ -1,0 +1,8 @@
+Cliente: DIEZ SOTO, NURIA
+DNI: 7099039
+Teléfono: 600001415
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

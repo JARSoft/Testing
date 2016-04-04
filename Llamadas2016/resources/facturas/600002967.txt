@@ -1,0 +1,8 @@
+Cliente: CRESPO MOYA, LORENZO
+DNI: 7289407
+Teléfono: 600002967
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

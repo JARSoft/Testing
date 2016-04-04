@@ -1,0 +1,8 @@
+Cliente: CRUZ MEDINA, JOSE FRANCISCO
+DNI: 6108484
+Teléfono: 600000215
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

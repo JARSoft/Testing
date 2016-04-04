@@ -1,0 +1,8 @@
+Cliente: CRUZ RODRIGUEZ, DANIEL
+DNI: 9192385
+Teléfono: 600000258
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

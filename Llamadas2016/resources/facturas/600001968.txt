@@ -1,0 +1,8 @@
+Cliente: DELGADO VIDAL, JOSE MANUEL
+DNI: 7595332
+Teléfono: 600001968
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

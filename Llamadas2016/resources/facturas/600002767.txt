@@ -1,0 +1,8 @@
+Cliente: SANTIAGO MORALES, MARIO
+DNI: 8646171
+Teléfono: 600002767
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

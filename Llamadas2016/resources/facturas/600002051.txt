@@ -1,0 +1,8 @@
+Cliente: LEON SANTANA, OLGA
+DNI: 7489180
+Teléfono: 600002051
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: LOZANO AGUILAR, GLORIA
+DNI: 7992021
+Teléfono: 600000683
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: NUÑEZ MONTERO, GLORIA
+DNI: 8778338
+Teléfono: 600000256
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

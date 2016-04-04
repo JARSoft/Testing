@@ -1,0 +1,8 @@
+Cliente: NUÑEZ MEDINA, CARLA
+DNI: 6438354
+Teléfono: 600001183
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

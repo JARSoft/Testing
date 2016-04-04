@@ -1,0 +1,8 @@
+Cliente: CALVO LEON, SEBASTIAN
+DNI: 7011969
+Teléfono: 600000685
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

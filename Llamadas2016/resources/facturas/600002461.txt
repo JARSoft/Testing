@@ -1,0 +1,8 @@
+Cliente: FERRER FERRER, JULIAN
+DNI: 9409872
+Teléfono: 600002461
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

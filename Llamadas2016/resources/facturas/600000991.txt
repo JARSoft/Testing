@@ -1,0 +1,8 @@
+Cliente: RAMOS VIDAL, ROSA MARIA
+DNI: 9291763
+Teléfono: 600000991
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

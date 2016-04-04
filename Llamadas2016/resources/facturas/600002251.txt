@@ -1,0 +1,8 @@
+Cliente: SAEZ SANTIAGO, CARLOS
+DNI: 8915786
+Teléfono: 600002251
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

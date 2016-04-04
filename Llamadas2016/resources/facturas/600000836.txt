@@ -1,0 +1,8 @@
+Cliente: SANTOS ARIAS, ANA BELEN
+DNI: 9105041
+Teléfono: 600000836
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

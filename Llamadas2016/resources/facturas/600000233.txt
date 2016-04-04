@@ -1,0 +1,8 @@
+Cliente: SERRANO NIETO, ALVARO
+DNI: 6197021
+Teléfono: 600000233
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

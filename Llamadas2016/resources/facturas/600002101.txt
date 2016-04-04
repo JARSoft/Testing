@@ -1,0 +1,8 @@
+Cliente: DIEZ SERRANO, FRANCISCO JOSE
+DNI: 9639684
+Teléfono: 600002101
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

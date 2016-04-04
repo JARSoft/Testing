@@ -1,0 +1,8 @@
+Cliente: DURAN MARIN, LORENA
+DNI: 5582859
+Teléfono: 600002280
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

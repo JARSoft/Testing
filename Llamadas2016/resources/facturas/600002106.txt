@@ -1,0 +1,8 @@
+Cliente: PASTOR MARQUEZ, FRANCISCO JAVIER
+DNI: 5512101
+Teléfono: 600002106
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

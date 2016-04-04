@@ -1,0 +1,8 @@
+Cliente: BLANCO MARQUEZ, EMILIA
+DNI: 6742654
+Teléfono: 600001501
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

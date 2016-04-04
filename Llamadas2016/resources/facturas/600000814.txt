@@ -1,0 +1,8 @@
+Cliente: ROMAN VELASCO, CATALINA
+DNI: 5757404
+Teléfono: 600000814
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

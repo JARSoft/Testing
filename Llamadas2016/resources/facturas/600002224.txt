@@ -1,0 +1,8 @@
+Cliente: ROMAN MORENO, JULIAN
+DNI: 7691972
+Teléfono: 600002224
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

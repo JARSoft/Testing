@@ -1,0 +1,8 @@
+Cliente: GALLEGO DIEZ, PAULA
+DNI: 5418439
+Teléfono: 600001506
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

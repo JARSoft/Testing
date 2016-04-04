@@ -1,0 +1,8 @@
+Cliente: CABALLERO BENITEZ, JUAN MANUEL
+DNI: 9570032
+Teléfono: 600002543
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

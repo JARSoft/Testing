@@ -1,0 +1,8 @@
+Cliente: NAVARRO CRUZ, VICENTE
+DNI: 7731407
+Teléfono: 600002559
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

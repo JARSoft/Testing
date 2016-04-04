@@ -1,0 +1,8 @@
+Cliente: CORTES ROJAS, MONICA
+DNI: 5216390
+Teléfono: 600001160
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

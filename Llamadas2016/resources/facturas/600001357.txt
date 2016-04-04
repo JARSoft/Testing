@@ -1,0 +1,8 @@
+Cliente: MARIN CABALLERO, JAIME
+DNI: 7941406
+Teléfono: 600001357
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

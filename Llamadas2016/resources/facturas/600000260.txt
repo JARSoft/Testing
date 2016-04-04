@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ VAZQUEZ, JORGE
+DNI: 7012902
+Teléfono: 600000260
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: HIDALGO MARTINEZ, MILAGROS
+DNI: 6373195
+Teléfono: 600001708
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

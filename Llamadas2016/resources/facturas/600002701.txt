@@ -1,0 +1,8 @@
+Cliente: CASTILLO RUBIO, MARIA JESUS
+DNI: 6019967
+Teléfono: 600002701
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

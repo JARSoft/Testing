@@ -1,0 +1,8 @@
+Cliente: BENITEZ PRIETO, ANGELES
+DNI: 8829041
+Teléfono: 600002019
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: BENITEZ BLANCO, ALEJANDRO
+DNI: 6873103
+Teléfono: 600000641
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

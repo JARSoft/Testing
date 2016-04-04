@@ -1,0 +1,8 @@
+Cliente: MOLINA DELGADO, ELENA
+DNI: 9282796
+Teléfono: 600002297
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

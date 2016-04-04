@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ RODRIGUEZ, CARMEN
+DNI: 7061683
+Teléfono: 600002562
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

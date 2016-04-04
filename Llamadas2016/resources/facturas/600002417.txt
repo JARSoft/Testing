@@ -1,0 +1,8 @@
+Cliente: RUIZ ALONSO, LUISA
+DNI: 5582328
+Teléfono: 600002417
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

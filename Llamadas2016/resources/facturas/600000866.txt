@@ -1,0 +1,8 @@
+Cliente: VEGA BRAVO, ANA MARIA
+DNI: 6914961
+Teléfono: 600000866
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GUERRERO PASCUAL, SANDRA
+DNI: 5099828
+Teléfono: 600001623
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

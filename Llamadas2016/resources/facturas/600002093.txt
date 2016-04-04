@@ -1,0 +1,8 @@
+Cliente: MENDEZ CAMPOS, PAULA
+DNI: 7891285
+Teléfono: 600002093
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

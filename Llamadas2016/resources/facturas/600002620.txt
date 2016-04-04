@@ -1,0 +1,8 @@
+Cliente: LEON ROJAS, GREGORIO
+DNI: 5749454
+Teléfono: 600002620
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: DELGADO MORENO, SALVADOR
+DNI: 5041996
+Teléfono: 600001124
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

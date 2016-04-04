@@ -1,0 +1,8 @@
+Cliente: ALVAREZ LORENZO, CARLOS
+DNI: 9314905
+Teléfono: 600000255
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: GONZALEZ ROMERO, JUAN JOSE
+DNI: 6272955
+Teléfono: 600000920
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

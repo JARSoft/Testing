@@ -1,0 +1,8 @@
+Cliente: ARIAS MEDINA, JOSE IGNACIO
+DNI: 9706610
+Teléfono: 600000967
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

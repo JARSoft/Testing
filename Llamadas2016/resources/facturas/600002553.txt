@@ -1,0 +1,8 @@
+Cliente: VEGA CARMONA, YOLANDA
+DNI: 6997857
+Teléfono: 600002553
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

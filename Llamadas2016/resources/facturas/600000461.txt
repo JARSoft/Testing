@@ -1,0 +1,8 @@
+Cliente: GARCIA CASTILLO, FELIX
+DNI: 7694007
+Teléfono: 600000461
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

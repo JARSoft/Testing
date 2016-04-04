@@ -1,0 +1,8 @@
+Cliente: ALVAREZ ARIAS, FRANCISCA
+DNI: 6810783
+Teléfono: 600000125
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

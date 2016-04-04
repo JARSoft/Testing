@@ -1,0 +1,8 @@
+Cliente: MARQUEZ CANO, JOSEFINA
+DNI: 6578382
+Teléfono: 600002281
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

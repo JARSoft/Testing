@@ -1,0 +1,8 @@
+Cliente: NAVARRO MORALES, ALEX
+DNI: 6929525
+Teléfono: 600002676
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: FLORES SUAREZ, ANTONIO
+DNI: 9399818
+Teléfono: 600002209
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

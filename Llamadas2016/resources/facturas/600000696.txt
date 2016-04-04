@@ -1,0 +1,8 @@
+Cliente: VICENTE SAEZ, LUIS
+DNI: 8013566
+Teléfono: 600000696
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

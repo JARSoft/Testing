@@ -1,0 +1,8 @@
+Cliente: SAEZ VELASCO, MANUEL
+DNI: 9289161
+Teléfono: 600002577
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,10 @@
+Cliente: CASTRO CASTRO, FELIPE
+DNI: 7343082
+Teléfono: 600000010
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+612345678	8/5/2015	12:10:0		300			4.75	TarifaGrupo
+626942319	8/5/2015	12:10:0		300			0.0	TarifaGrupo
+
+	Consumos: 4.75 €

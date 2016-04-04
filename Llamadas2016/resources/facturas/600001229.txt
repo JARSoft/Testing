@@ -1,0 +1,8 @@
+Cliente: GIMENEZ CASTRO, JOSEFA
+DNI: 9785207
+Teléfono: 600001229
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

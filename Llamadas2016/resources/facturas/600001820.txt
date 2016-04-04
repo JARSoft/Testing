@@ -1,0 +1,8 @@
+Cliente: CABRERA DIEZ, ROSA MARIA
+DNI: 8618987
+Teléfono: 600001820
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

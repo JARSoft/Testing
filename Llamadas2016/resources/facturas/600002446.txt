@@ -1,0 +1,8 @@
+Cliente: BRAVO CRESPO, NICOLAS
+DNI: 7291178
+Teléfono: 600002446
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

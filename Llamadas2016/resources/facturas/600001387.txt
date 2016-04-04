@@ -1,0 +1,8 @@
+Cliente: MOLINA CALVO, OLGA
+DNI: 7011221
+Teléfono: 600001387
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

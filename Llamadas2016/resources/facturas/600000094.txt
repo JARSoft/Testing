@@ -1,0 +1,8 @@
+Cliente: SANZ ORTIZ, RICARDO
+DNI: 5092245
+Teléfono: 600000094
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

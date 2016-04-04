@@ -1,0 +1,8 @@
+Cliente: IBAÑEZ CABRERA, MARIA LUISA
+DNI: 6402732
+Teléfono: 600001403
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

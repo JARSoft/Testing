@@ -1,0 +1,8 @@
+Cliente: HERRERO CARRASCO, MONTSERRAT
+DNI: 9467390
+Teléfono: 600001954
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

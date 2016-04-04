@@ -1,0 +1,8 @@
+Cliente: VARGAS GOMEZ, MANUEL
+DNI: 7511399
+Teléfono: 600000645
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

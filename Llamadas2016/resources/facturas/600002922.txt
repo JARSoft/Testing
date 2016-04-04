@@ -1,0 +1,8 @@
+Cliente: GALLEGO MONTERO, SUSANA
+DNI: 5956150
+Teléfono: 600002922
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

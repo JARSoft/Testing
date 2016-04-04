@@ -1,0 +1,8 @@
+Cliente: BLANCO IBAÑEZ, JOSE ANTONIO
+DNI: 9672087
+Teléfono: 600000529
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

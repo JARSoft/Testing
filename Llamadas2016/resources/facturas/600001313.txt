@@ -1,0 +1,8 @@
+Cliente: MARTINEZ NIETO, FERNANDO
+DNI: 5056054
+Teléfono: 600001313
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

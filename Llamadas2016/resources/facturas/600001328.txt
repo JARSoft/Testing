@@ -1,0 +1,8 @@
+Cliente: NAVARRO RAMIREZ, ALEJANDRO
+DNI: 8154255
+Teléfono: 600001328
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

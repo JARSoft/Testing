@@ -1,0 +1,8 @@
+Cliente: FERRER SAEZ, CLAUDIA
+DNI: 7852199
+Teléfono: 600000207
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

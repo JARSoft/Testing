@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ FUENTES, GABRIEL
+DNI: 9840663
+Teléfono: 600002206
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: PRIETO MEDINA, JOSE ANGEL
+DNI: 7666198
+Teléfono: 600000810
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

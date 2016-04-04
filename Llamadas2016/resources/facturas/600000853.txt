@@ -1,0 +1,8 @@
+Cliente: DOMINGUEZ FERRER, TERESA
+DNI: 6690587
+Teléfono: 600000853
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

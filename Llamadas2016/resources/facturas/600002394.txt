@@ -1,0 +1,8 @@
+Cliente: RODRIGUEZ ALONSO, ALBERT
+DNI: 8129066
+Teléfono: 600002394
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

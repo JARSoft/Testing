@@ -1,0 +1,8 @@
+Cliente: ALVAREZ ALVAREZ, JOSEFINA
+DNI: 7510121
+Teléfono: 600002805
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

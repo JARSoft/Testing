@@ -1,0 +1,8 @@
+Cliente: MORENO CABALLERO, JOSE MANUEL
+DNI: 7761994
+Teléfono: 600001931
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

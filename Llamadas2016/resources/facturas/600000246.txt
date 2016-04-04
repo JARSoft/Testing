@@ -1,0 +1,8 @@
+Cliente: CALVO ALONSO, FRANCISCO JOSE
+DNI: 7717693
+Teléfono: 600000246
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

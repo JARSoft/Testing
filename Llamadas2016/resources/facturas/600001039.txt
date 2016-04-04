@@ -1,0 +1,8 @@
+Cliente: RUIZ TORRES, MARIA VICTORIA
+DNI: 7658143
+Teléfono: 600001039
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

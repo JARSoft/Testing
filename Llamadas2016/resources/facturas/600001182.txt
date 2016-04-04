@@ -1,0 +1,8 @@
+Cliente: GUTIERREZ VELASCO, JOSE MARIA
+DNI: 7481038
+Teléfono: 600001182
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

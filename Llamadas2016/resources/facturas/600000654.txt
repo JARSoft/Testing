@@ -1,0 +1,8 @@
+Cliente: LEON CABRERA, CRISTINA
+DNI: 7801289
+Teléfono: 600000654
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

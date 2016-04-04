@@ -1,0 +1,8 @@
+Cliente: SANTIAGO CRESPO, RAUL
+DNI: 7415992
+Teléfono: 600000069
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

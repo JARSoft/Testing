@@ -1,0 +1,8 @@
+Cliente: RUBIO MARTIN, ISABEL
+DNI: 8935387
+Teléfono: 600002363
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

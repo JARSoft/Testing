@@ -1,0 +1,8 @@
+Cliente: JIMENEZ DIAZ, PILAR
+DNI: 9217131
+Teléfono: 600000428
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

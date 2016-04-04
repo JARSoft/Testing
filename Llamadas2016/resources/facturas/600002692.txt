@@ -1,0 +1,8 @@
+Cliente: REYES MENDEZ, INMACULADA
+DNI: 5746911
+Teléfono: 600002692
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

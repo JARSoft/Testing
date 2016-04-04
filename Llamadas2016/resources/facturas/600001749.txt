@@ -1,0 +1,8 @@
+Cliente: RUBIO GIL, ROSA
+DNI: 8078506
+Teléfono: 600001749
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

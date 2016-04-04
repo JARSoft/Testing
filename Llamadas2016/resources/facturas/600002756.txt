@@ -1,0 +1,8 @@
+Cliente: VAZQUEZ HERNANDEZ, JULIA
+DNI: 6965785
+Teléfono: 600002756
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

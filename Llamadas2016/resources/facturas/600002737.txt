@@ -1,0 +1,8 @@
+Cliente: MORENO CAMPOS, DOLORES
+DNI: 8654992
+Teléfono: 600002737
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

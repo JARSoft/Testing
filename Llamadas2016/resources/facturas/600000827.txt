@@ -1,0 +1,8 @@
+Cliente: FLORES FERNANDEZ, EDUARDO
+DNI: 9965217
+Teléfono: 600000827
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

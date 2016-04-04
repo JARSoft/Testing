@@ -1,0 +1,8 @@
+Cliente: PASCUAL PEÑA, ROCIO
+DNI: 6559693
+Teléfono: 600002381
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

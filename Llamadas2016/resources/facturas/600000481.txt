@@ -1,0 +1,8 @@
+Cliente: ROJAS HIDALGO, LAURA
+DNI: 9567023
+Teléfono: 600000481
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

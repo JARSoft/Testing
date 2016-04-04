@@ -1,0 +1,8 @@
+Cliente: SANTIAGO LORENZO, ALICIA
+DNI: 8145095
+Teléfono: 600001104
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

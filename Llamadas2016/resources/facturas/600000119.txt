@@ -1,0 +1,8 @@
+Cliente: HIDALGO SOTO, JUAN LUIS
+DNI: 5308728
+Teléfono: 600000119
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

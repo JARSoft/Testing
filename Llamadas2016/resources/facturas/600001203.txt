@@ -1,0 +1,8 @@
+Cliente: GARCIA PRIETO, AITOR
+DNI: 8184302
+Teléfono: 600001203
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

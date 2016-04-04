@@ -1,0 +1,8 @@
+Cliente: CRESPO BRAVO, PATRICIA
+DNI: 5070101
+Teléfono: 600002718
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: MORENO GIMENEZ, JOSE MARIA
+DNI: 8484025
+Teléfono: 600000239
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

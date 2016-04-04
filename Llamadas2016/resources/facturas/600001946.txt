@@ -1,0 +1,8 @@
+Cliente: MARQUEZ MORALES, ALICIA
+DNI: 7592500
+Teléfono: 600001946
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CARMONA SANTANA, MARIA ISABEL
+DNI: 8685844
+Teléfono: 600002610
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

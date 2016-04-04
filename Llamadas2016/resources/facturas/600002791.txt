@@ -1,0 +1,8 @@
+Cliente: DIAZ ESTEBAN, RAQUEL
+DNI: 7585044
+Teléfono: 600002791
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

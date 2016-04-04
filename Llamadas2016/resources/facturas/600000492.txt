@@ -1,0 +1,8 @@
+Cliente: PARRA VELASCO, MARIA
+DNI: 8647789
+Teléfono: 600000492
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

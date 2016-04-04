@@ -1,0 +1,8 @@
+Cliente: BLANCO RODRIGUEZ, JESUS
+DNI: 7164548
+Teléfono: 600001333
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

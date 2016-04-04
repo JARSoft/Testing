@@ -1,0 +1,8 @@
+Cliente: GONZALEZ AGUILAR, CONSUELO
+DNI: 8420697
+Teléfono: 600001617
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: BENITEZ SANZ, FELIX
+DNI: 7224970
+Teléfono: 600000012
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

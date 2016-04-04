@@ -1,0 +1,8 @@
+Cliente: SANCHEZ RODRIGUEZ, JULIO
+DNI: 8016570
+Teléfono: 600002638
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

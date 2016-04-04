@@ -1,0 +1,8 @@
+Cliente: MUÑOZ RUIZ, OLGA
+DNI: 8396420
+Teléfono: 600002398
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

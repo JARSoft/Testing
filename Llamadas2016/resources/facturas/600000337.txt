@@ -1,0 +1,8 @@
+Cliente: RUBIO MOYA, JORDI
+DNI: 9610656
+Teléfono: 600000337
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

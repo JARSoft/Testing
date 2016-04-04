@@ -1,0 +1,8 @@
+Cliente: CAMPOS ALONSO, GREGORIO
+DNI: 8515363
+Teléfono: 600002349
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

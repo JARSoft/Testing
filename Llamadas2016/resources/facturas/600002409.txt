@@ -1,0 +1,8 @@
+Cliente: GARRIDO HERRERA, SILVIA
+DNI: 7622446
+Teléfono: 600002409
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

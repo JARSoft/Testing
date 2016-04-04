@@ -1,0 +1,8 @@
+Cliente: IGLESIAS REYES, JOSE MARIA
+DNI: 5528075
+Teléfono: 600001436
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

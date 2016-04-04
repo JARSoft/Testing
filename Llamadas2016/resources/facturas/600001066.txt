@@ -1,0 +1,8 @@
+Cliente: ARIAS VELASCO, MIGUEL ANGEL
+DNI: 7166050
+Teléfono: 600001066
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

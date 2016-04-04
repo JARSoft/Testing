@@ -1,0 +1,8 @@
+Cliente: SOTO MOLINA, ANGELES
+DNI: 5424758
+Teléfono: 600001516
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: ALVAREZ ALONSO, ADRIAN
+DNI: 8685084
+Teléfono: 600000427
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

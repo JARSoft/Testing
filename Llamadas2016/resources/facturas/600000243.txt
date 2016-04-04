@@ -1,0 +1,8 @@
+Cliente: ESTEBAN MEDINA, ALICIA
+DNI: 7667472
+Teléfono: 600000243
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

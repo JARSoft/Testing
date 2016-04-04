@@ -1,0 +1,8 @@
+Cliente: SOTO MENDEZ, MARINA
+DNI: 6093948
+Teléfono: 600002310
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

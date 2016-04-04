@@ -1,0 +1,8 @@
+Cliente: SANZ NIETO, SALVADOR
+DNI: 5739190
+Teléfono: 600000132
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

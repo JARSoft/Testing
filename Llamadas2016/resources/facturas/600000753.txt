@@ -1,0 +1,8 @@
+Cliente: LOPEZ VARGAS, JUAN ANTONIO
+DNI: 9905000
+Teléfono: 600000753
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

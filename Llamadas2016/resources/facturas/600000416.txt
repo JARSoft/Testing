@@ -1,0 +1,8 @@
+Cliente: REYES SANZ, MARIA PILAR
+DNI: 8764008
+Teléfono: 600000416
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

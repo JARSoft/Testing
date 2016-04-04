@@ -1,0 +1,8 @@
+Cliente: GIMENEZ RUIZ, FRANCISCA
+DNI: 6577711
+Teléfono: 600000691
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

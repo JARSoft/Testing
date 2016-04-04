@@ -1,0 +1,8 @@
+Cliente: BENITEZ MORENO, JOSE MARIA
+DNI: 7095430
+Teléfono: 600000185
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

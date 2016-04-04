@@ -1,0 +1,8 @@
+Cliente: SANTIAGO DELGADO, JUANA
+DNI: 5045601
+Teléfono: 600000829
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

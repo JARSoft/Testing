@@ -1,0 +1,8 @@
+Cliente: RAMOS ARIAS, JUAN JOSE
+DNI: 8834477
+Teléfono: 600001417
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

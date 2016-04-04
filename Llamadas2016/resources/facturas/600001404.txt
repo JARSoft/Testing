@@ -1,0 +1,8 @@
+Cliente: MENDEZ FLORES, LUISA
+DNI: 9847077
+Teléfono: 600001404
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

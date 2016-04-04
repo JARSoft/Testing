@@ -1,0 +1,8 @@
+Cliente: CARRASCO RUBIO, PATRICIA
+DNI: 7001961
+Teléfono: 600001136
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: CANO RUBIO, MARIO
+DNI: 6556712
+Teléfono: 600000182
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

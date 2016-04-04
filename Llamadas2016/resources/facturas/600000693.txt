@@ -1,0 +1,8 @@
+Cliente: TORRES ALVAREZ, ANGELA
+DNI: 8139643
+Teléfono: 600000693
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

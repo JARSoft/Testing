@@ -1,0 +1,8 @@
+Cliente: SERRANO GARRIDO, GREGORIO
+DNI: 8683156
+Teléfono: 600001832
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

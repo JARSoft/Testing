@@ -1,0 +1,8 @@
+Cliente: FUENTES SOLER, HUGO
+DNI: 5321234
+Teléfono: 600002271
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

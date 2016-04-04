@@ -1,0 +1,8 @@
+Cliente: ROMERO PASTOR, GLORIA
+DNI: 9559925
+Teléfono: 600001910
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

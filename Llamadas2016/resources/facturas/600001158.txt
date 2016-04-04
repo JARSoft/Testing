@@ -1,0 +1,8 @@
+Cliente: GALLARDO GIMENEZ, MARIA ISABEL
+DNI: 9017753
+Teléfono: 600001158
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

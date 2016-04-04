@@ -1,0 +1,8 @@
+Cliente: CARMONA MARIN, RUBEN
+DNI: 5814750
+Teléfono: 600001228
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

@@ -1,0 +1,8 @@
+Cliente: SOTO IGLESIAS, INMACULADA
+DNI: 7243717
+Teléfono: 600002203
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

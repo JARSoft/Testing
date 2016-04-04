@@ -1,0 +1,8 @@
+Cliente: PARRA MARIN, JOSE
+DNI: 7139263
+Teléfono: 600001111
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

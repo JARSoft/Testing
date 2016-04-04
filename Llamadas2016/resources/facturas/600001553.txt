@@ -1,0 +1,8 @@
+Cliente: PASCUAL CARRASCO, SOFIA
+DNI: 9781083
+Teléfono: 600001553
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

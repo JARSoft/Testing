@@ -1,0 +1,8 @@
+Cliente: DIEZ FUENTES, LUCIA
+DNI: 6682647
+Teléfono: 600000092
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

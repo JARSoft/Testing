@@ -1,0 +1,12 @@
+Cliente: MOYA NAVARRO, LORENA
+DNI: 5366950
+Teléfono: 600000000
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+600000001	20/2/2016	21:0:0		10			0.0	TarifaDeTardes
+600000001	20/2/2016	9:0:0		10			0.31	TarifaDeTardes
+626681482	19/11/2013	15:0:0		10			0.22	TarifaFinDeSemana
+626681482	23/11/2013	15:0:0		10			0.0	TarifaFinDeSemana
+
+	Consumos: 0.53 €

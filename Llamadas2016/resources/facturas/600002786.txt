@@ -1,0 +1,8 @@
+Cliente: CALVO IGLESIAS, JUAN JOSE
+DNI: 7900374
+Teléfono: 600002786
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

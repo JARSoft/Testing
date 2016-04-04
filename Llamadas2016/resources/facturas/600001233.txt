@@ -1,0 +1,8 @@
+Cliente: CANO GUERRERO, ANGEL
+DNI: 8376510
+Teléfono: 600001233
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €

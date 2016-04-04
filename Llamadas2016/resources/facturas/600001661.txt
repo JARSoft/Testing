@@ -1,0 +1,8 @@
+Cliente: ESTEBAN PASCUAL, DIEGO
+DNI: 5257756
+Teléfono: 600001661
+
+Detalle de llamadas:
+Destino		Fecha		Hora	Duración (segs.)		Importe	Tarifa
+
+	Consumos: 0.0 €
